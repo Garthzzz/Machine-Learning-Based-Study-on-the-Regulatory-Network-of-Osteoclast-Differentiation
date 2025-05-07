@@ -1,0 +1,146 @@
+Gene_set	Term	Overlap	P-value	Adjusted P-value	Old P-value	Old Adjusted P-value	Odds Ratio	Combined Score	Genes
+GO_Biological_Process_2021	regulation of triglyceride metabolic process (GO:0090207)	1/5	1.748917e-03	2.824941e-02	0	0	8.328750e+02	5.287722e+03	C3
+GO_Biological_Process_2021	ruffle assembly (GO:0097178)	1/6	2.098387e-03	2.824941e-02	0	0	6.662667e+02	4.108591e+03	AIF1
+GO_Biological_Process_2021	parallel actin filament bundle assembly (GO:0030046)	1/7	2.447753e-03	2.824941e-02	0	0	5.551944e+02	3.338154e+03	AIF1
+GO_Biological_Process_2021	complement activation, alternative pathway (GO:0006957)	1/7	2.447753e-03	2.824941e-02	0	0	5.551944e+02	3.338154e+03	C3
+GO_Biological_Process_2021	positive regulation of apoptotic cell clearance (GO:2000427)	1/8	2.797015e-03	2.824941e-02	0	0	4.758571e+02	2.797661e+03	C3
+GO_Biological_Process_2021	regulation of apoptotic cell clearance (GO:2000425)	1/8	2.797015e-03	2.824941e-02	0	0	4.758571e+02	2.797661e+03	C3
+GO_Biological_Process_2021	positive regulation of membrane invagination (GO:1905155)	1/8	2.797015e-03	2.824941e-02	0	0	4.758571e+02	2.797661e+03	C3
+GO_Biological_Process_2021	positive regulation of phagocytosis, engulfment (GO:0060100)	1/9	3.146172e-03	2.824941e-02	0	0	4.163542e+02	2.398853e+03	C3
+GO_Biological_Process_2021	synapse pruning (GO:0098883)	1/9	3.146172e-03	2.824941e-02	0	0	4.163542e+02	2.398853e+03	C3
+GO_Biological_Process_2021	regulation of phagocytosis, engulfment (GO:0060099)	1/10	3.495224e-03	2.824941e-02	0	0	3.700741e+02	2.093271e+03	C3
+GO_Biological_Process_2021	neuron remodeling (GO:0016322)	1/10	3.495224e-03	2.824941e-02	0	0	3.700741e+02	2.093271e+03	C3
+GO_Biological_Process_2021	positive regulation of lipid localization (GO:1905954)	1/11	3.844172e-03	2.824941e-02	0	0	3.330500e+02	1.852157e+03	C3
+GO_Biological_Process_2021	actin crosslink formation (GO:0051764)	1/12	4.193015e-03	2.824941e-02	0	0	3.027576e+02	1.657396e+03	AIF1
+GO_Biological_Process_2021	negative regulation of smooth muscle cell migration (GO:0014912)	1/14	4.890388e-03	2.824941e-02	0	0	2.561538e+02	1.362862e+03	AIF1
+GO_Biological_Process_2021	positive regulation of transmembrane transport (GO:0034764)	1/14	4.890388e-03	2.824941e-02	0	0	2.561538e+02	1.362862e+03	C3
+GO_Biological_Process_2021	positive regulation of lymphocyte migration (GO:2000403)	1/14	4.890388e-03	2.824941e-02	0	0	2.561538e+02	1.362862e+03	AIF1
+GO_Biological_Process_2021	regulation of triglyceride biosynthetic process (GO:0010866)	1/15	5.238917e-03	2.824941e-02	0	0	2.378452e+02	1.249078e+03	C3
+GO_Biological_Process_2021	positive regulation of cytokine production (GO:0001819)	2/335	5.556388e-03	2.824941e-02	0	0	2.361562e+01	1.226313e+02	C3;AIF1
+GO_Biological_Process_2021	negative regulation of type I interferon-mediated signaling pathway (GO:0060339)	1/16	5.587342e-03	2.824941e-02	0	0	2.219778e+02	1.151455e+03	USP18
+GO_Biological_Process_2021	negative regulation of viral entry into host cell (GO:0046597)	1/17	5.935662e-03	2.824941e-02	0	0	2.080938e+02	1.066850e+03	LY6E
+GO_Biological_Process_2021	positive regulation of smooth muscle cell migration (GO:0014911)	1/17	5.935662e-03	2.824941e-02	0	0	2.080938e+02	1.066850e+03	AIF1
+GO_Biological_Process_2021	ruffle organization (GO:0031529)	1/17	5.935662e-03	2.824941e-02	0	0	2.080938e+02	1.066850e+03	AIF1
+GO_Biological_Process_2021	prostanoid metabolic process (GO:0006692)	1/18	6.283878e-03	2.824941e-02	0	0	1.958431e+02	9.928793e+02	CYP2S1
+GO_Biological_Process_2021	neuron maturation (GO:0042551)	1/18	6.283878e-03	2.824941e-02	0	0	1.958431e+02	9.928793e+02	C3
+GO_Biological_Process_2021	epoxygenase P450 pathway (GO:0019373)	1/19	6.631989e-03	2.824941e-02	0	0	1.849537e+02	9.277001e+02	CYP2S1
+GO_Biological_Process_2021	positive regulation of G protein-coupled receptor signaling pathway (GO:0045745)	1/19	6.631989e-03	2.824941e-02	0	0	1.849537e+02	9.277001e+02	C3
+GO_Biological_Process_2021	regulation of glucose transmembrane transport (GO:0010827)	1/19	6.631989e-03	2.824941e-02	0	0	1.849537e+02	9.277001e+02	C3
+GO_Biological_Process_2021	Rac protein signal transduction (GO:0016601)	1/19	6.631989e-03	2.824941e-02	0	0	1.849537e+02	9.277001e+02	AIF1
+GO_Biological_Process_2021	positive regulation of monocyte chemotaxis (GO:0090026)	1/19	6.631989e-03	2.824941e-02	0	0	1.849537e+02	9.277001e+02	AIF1
+GO_Biological_Process_2021	negative regulation of viral life cycle (GO:1903901)	1/20	6.979996e-03	2.824941e-02	0	0	1.752105e+02	8.698689e+02	LY6E
+GO_Biological_Process_2021	regulation of T cell migration (GO:2000404)	1/20	6.979996e-03	2.824941e-02	0	0	1.752105e+02	8.698689e+02	AIF1
+GO_Biological_Process_2021	negative regulation of cell population proliferation (GO:0008285)	2/379	7.062018e-03	2.824941e-02	0	0	2.081273e+01	1.030860e+02	AIF1;IFIT3
+GO_Biological_Process_2021	purinergic nucleotide receptor signaling pathway (GO:0035590)	1/21	7.327898e-03	2.824941e-02	0	0	1.664417e+02	8.182383e+02	C3
+GO_Biological_Process_2021	positive regulation of lipid storage (GO:0010884)	1/21	7.327898e-03	2.824941e-02	0	0	1.664417e+02	8.182383e+02	C3
+GO_Biological_Process_2021	microglial cell activation (GO:0001774)	1/22	7.675696e-03	2.824941e-02	0	0	1.585079e+02	7.718855e+02	AIF1
+GO_Biological_Process_2021	exogenous drug catabolic process (GO:0042738)	1/22	7.675696e-03	2.824941e-02	0	0	1.585079e+02	7.718855e+02	CYP2S1
+GO_Biological_Process_2021	regulation of lipid storage (GO:0010883)	1/22	7.675696e-03	2.824941e-02	0	0	1.585079e+02	7.718855e+02	C3
+GO_Biological_Process_2021	regulation of mononuclear cell migration (GO:0071675)	1/23	8.023390e-03	2.824941e-02	0	0	1.512955e+02	7.300602e+02	AIF1
+GO_Biological_Process_2021	drug catabolic process (GO:0042737)	1/23	8.023390e-03	2.824941e-02	0	0	1.512955e+02	7.300602e+02	CYP2S1
+GO_Biological_Process_2021	positive regulation of vascular endothelial growth factor production (GO:0010575)	1/25	8.718464e-03	2.824941e-02	0	0	1.386736e+02	6.576336e+02	C3
+GO_Biological_Process_2021	positive regulation of T cell migration (GO:2000406)	1/25	8.718464e-03	2.824941e-02	0	0	1.386736e+02	6.576336e+02	AIF1
+GO_Biological_Process_2021	positive regulation of G1/S transition of mitotic cell cycle (GO:1900087)	1/26	9.065844e-03	2.824941e-02	0	0	1.331200e+02	6.260955e+02	AIF1
+GO_Biological_Process_2021	regulation of monocyte chemotaxis (GO:0090025)	1/26	9.065844e-03	2.824941e-02	0	0	1.331200e+02	6.260955e+02	AIF1
+GO_Biological_Process_2021	retinoic acid metabolic process (GO:0042573)	1/26	9.065844e-03	2.824941e-02	0	0	1.331200e+02	6.260955e+02	CYP2S1
+GO_Biological_Process_2021	regulation of vascular endothelial growth factor production (GO:0010574)	1/27	9.413121e-03	2.824941e-02	0	0	1.279936e+02	5.971734e+02	C3
+GO_Biological_Process_2021	actin filament polymerization (GO:0030041)	1/29	1.010736e-02	2.824941e-02	0	0	1.188393e+02	5.460061e+02	AIF1
+GO_Biological_Process_2021	positive regulation of leukocyte migration (GO:0002687)	1/29	1.010736e-02	2.824941e-02	0	0	1.188393e+02	5.460061e+02	AIF1
+GO_Biological_Process_2021	plasma membrane invagination (GO:0099024)	1/30	1.045432e-02	2.824941e-02	0	0	1.147356e+02	5.232793e+02	AIF1
+GO_Biological_Process_2021	regulation of type I interferon-mediated signaling pathway (GO:0060338)	1/30	1.045432e-02	2.824941e-02	0	0	1.147356e+02	5.232793e+02	USP18
+GO_Biological_Process_2021	prostaglandin metabolic process (GO:0006693)	1/31	1.080118e-02	2.824941e-02	0	0	1.109056e+02	5.021914e+02	CYP2S1
+GO_Biological_Process_2021	positive regulation of locomotion (GO:0040017)	1/31	1.080118e-02	2.824941e-02	0	0	1.109056e+02	5.021914e+02	AIF1
+GO_Biological_Process_2021	positive regulation of mononuclear cell migration (GO:0071677)	1/31	1.080118e-02	2.824941e-02	0	0	1.109056e+02	5.021914e+02	AIF1
+GO_Biological_Process_2021	positive regulation of glucose transmembrane transport (GO:0010828)	1/32	1.114794e-02	2.824941e-02	0	0	1.073226e+02	4.825761e+02	C3
+GO_Biological_Process_2021	regulation of cellular biosynthetic process (GO:0031326)	1/32	1.114794e-02	2.824941e-02	0	0	1.073226e+02	4.825761e+02	C3
+GO_Biological_Process_2021	regulation of chemotaxis (GO:0050920)	1/32	1.114794e-02	2.824941e-02	0	0	1.073226e+02	4.825761e+02	AIF1
+GO_Biological_Process_2021	negative regulation of chemotaxis (GO:0050922)	1/32	1.114794e-02	2.824941e-02	0	0	1.073226e+02	4.825761e+02	AIF1
+GO_Biological_Process_2021	actin filament bundle assembly (GO:0051017)	1/33	1.149459e-02	2.824941e-02	0	0	1.039635e+02	4.642886e+02	AIF1
+GO_Biological_Process_2021	actin filament bundle organization (GO:0061572)	1/33	1.149459e-02	2.824941e-02	0	0	1.039635e+02	4.642886e+02	AIF1
+GO_Biological_Process_2021	negative regulation of smooth muscle cell proliferation (GO:0048662)	1/33	1.149459e-02	2.824941e-02	0	0	1.039635e+02	4.642886e+02	AIF1
+GO_Biological_Process_2021	positive regulation of cell cycle G1/S phase transition (GO:1902808)	1/35	1.218758e-02	2.897047e-02	0	0	9.783824e+01	4.312062e+02	AIF1
+GO_Biological_Process_2021	regulation of lipid biosynthetic process (GO:0046890)	1/35	1.218758e-02	2.897047e-02	0	0	9.783824e+01	4.312062e+02	C3
+GO_Biological_Process_2021	macrophage activation (GO:0042116)	1/36	1.253392e-02	2.931319e-02	0	0	9.503810e+01	4.162019e+02	AIF1
+GO_Biological_Process_2021	phagocytosis, engulfment (GO:0006911)	1/37	1.288015e-02	2.964479e-02	0	0	9.239352e+01	4.021029e+02	AIF1
+GO_Biological_Process_2021	negative regulation of innate immune response (GO:0045824)	1/38	1.322628e-02	2.981795e-02	0	0	8.989189e+01	3.888318e+02	USP18
+GO_Biological_Process_2021	regulation of receptor-mediated endocytosis (GO:0048259)	1/39	1.357231e-02	2.981795e-02	0	0	8.752193e+01	3.763201e+02	C3
+GO_Biological_Process_2021	regulation of viral entry into host cell (GO:0046596)	1/39	1.357231e-02	2.981795e-02	0	0	8.752193e+01	3.763201e+02	LY6E
+GO_Biological_Process_2021	carboxylic acid metabolic process (GO:0019752)	1/40	1.391823e-02	3.012154e-02	0	0	8.527350e+01	3.645063e+02	CYP2S1
+GO_Biological_Process_2021	visual system development (GO:0150063)	1/41	1.426405e-02	3.041599e-02	0	0	8.313750e+01	3.533355e+02	C3
+GO_Biological_Process_2021	regulation of chemokine production (GO:0032642)	1/42	1.460976e-02	3.070168e-02	0	0	8.110569e+01	3.427579e+02	AIF1
+GO_Biological_Process_2021	positive regulation of receptor-mediated endocytosis (GO:0048260)	1/44	1.530088e-02	3.169468e-02	0	0	7.732558e+01	3.232089e+02	C3
+GO_Biological_Process_2021	positive regulation of chemotaxis (GO:0050921)	1/45	1.564628e-02	3.195368e-02	0	0	7.556439e+01	3.141606e+02	AIF1
+GO_Biological_Process_2021	positive regulation of smooth muscle cell proliferation (GO:0048661)	1/46	1.599158e-02	3.220527e-02	0	0	7.388148e+01	3.055511e+02	AIF1
+GO_Biological_Process_2021	positive regulation of endocytosis (GO:0045807)	1/48	1.668187e-02	3.313522e-02	0	0	7.073050e+01	2.895305e+02	C3
+GO_Biological_Process_2021	regulation of smooth muscle cell proliferation (GO:0048660)	1/49	1.702686e-02	3.314345e-02	0	0	6.925347e+01	2.820669e+02	AIF1
+GO_Biological_Process_2021	actin polymerization or depolymerization (GO:0008154)	1/50	1.737174e-02	3.314345e-02	0	0	6.783673e+01	2.749362e+02	AIF1
+GO_Biological_Process_2021	regulation of complement activation (GO:0030449)	1/50	1.737174e-02	3.314345e-02	0	0	6.783673e+01	2.749362e+02	C3
+GO_Biological_Process_2021	positive regulation of phagocytosis (GO:0050766)	1/53	1.840577e-02	3.356525e-02	0	0	6.391346e+01	2.553401e+02	C3
+GO_Biological_Process_2021	regulation of immune effector process (GO:0002697)	1/53	1.840577e-02	3.356525e-02	0	0	6.391346e+01	2.553401e+02	C3
+GO_Biological_Process_2021	positive regulation of chemokine production (GO:0032722)	1/53	1.840577e-02	3.356525e-02	0	0	6.391346e+01	2.553401e+02	AIF1
+GO_Biological_Process_2021	regulation of humoral immune response (GO:0002920)	1/54	1.875024e-02	3.356525e-02	0	0	6.270440e+01	2.493471e+02	C3
+GO_Biological_Process_2021	positive regulation of leukocyte chemotaxis (GO:0002690)	1/54	1.875024e-02	3.356525e-02	0	0	6.270440e+01	2.493471e+02	AIF1
+GO_Biological_Process_2021	negative regulation of cytokine-mediated signaling pathway (GO:0001960)	1/55	1.909461e-02	3.376485e-02	0	0	6.154012e+01	2.435973e+02	USP18
+GO_Biological_Process_2021	icosanoid metabolic process (GO:0006690)	1/57	1.978303e-02	3.414927e-02	0	0	5.933631e+01	2.327722e+02	CYP2S1
+GO_Biological_Process_2021	arachidonic acid metabolic process (GO:0019369)	1/57	1.978303e-02	3.414927e-02	0	0	5.933631e+01	2.327722e+02	CYP2S1
+GO_Biological_Process_2021	positive regulation of mitotic cell cycle phase transition (GO:1901992)	1/58	2.012708e-02	3.433443e-02	0	0	5.829240e+01	2.276720e+02	AIF1
+GO_Biological_Process_2021	protein polymerization (GO:0051258)	1/59	2.047103e-02	3.451512e-02	0	0	5.728448e+01	2.227647e+02	AIF1
+GO_Biological_Process_2021	regulation of innate immune response (GO:0045088)	1/64	2.218924e-02	3.671037e-02	0	0	5.272487e+01	2.007841e+02	USP18
+GO_Biological_Process_2021	type I interferon signaling pathway (GO:0060337)	1/65	2.253257e-02	3.671037e-02	0	0	5.189844e+01	1.968401e+02	IFIT3
+GO_Biological_Process_2021	cellular response to type I interferon (GO:0071357)	1/65	2.253257e-02	3.671037e-02	0	0	5.189844e+01	1.968401e+02	IFIT3
+GO_Biological_Process_2021	positive regulation of T cell proliferation (GO:0042102)	1/66	2.287580e-02	3.685545e-02	0	0	5.109744e+01	1.930295e+02	AIF1
+GO_Biological_Process_2021	regulation of G1/S transition of mitotic cell cycle (GO:2000045)	1/71	2.459039e-02	3.918249e-02	0	0	4.743571e+01	1.757683e+02	AIF1
+GO_Biological_Process_2021	regulation of cytokine-mediated signaling pathway (GO:0001959)	1/74	2.561790e-02	3.972758e-02	0	0	4.547945e+01	1.666578e+02	USP18
+GO_Biological_Process_2021	positive regulation of lymphocyte proliferation (GO:0050671)	1/75	2.596020e-02	3.972758e-02	0	0	4.486261e+01	1.638019e+02	AIF1
+GO_Biological_Process_2021	positive regulation of T cell activation (GO:0050870)	1/75	2.596020e-02	3.972758e-02	0	0	4.486261e+01	1.638019e+02	AIF1
+GO_Biological_Process_2021	positive regulation of interleukin-6 production (GO:0032755)	1/76	2.630240e-02	3.972758e-02	0	0	4.426222e+01	1.610302e+02	AIF1
+GO_Biological_Process_2021	regulation of T cell proliferation (GO:0042129)	1/76	2.630240e-02	3.972758e-02	0	0	4.426222e+01	1.610302e+02	AIF1
+GO_Biological_Process_2021	regulation of cell population proliferation (GO:0042127)	2/764	2.693324e-02	4.026103e-02	0	0	1.009501e+01	3.648736e+01	AIF1;IFIT3
+GO_Biological_Process_2021	response to interferon-gamma (GO:0034341)	1/80	2.767015e-02	4.094053e-02	0	0	4.201266e+01	1.507163e+02	AIF1
+GO_Biological_Process_2021	regulation of G protein-coupled receptor signaling pathway (GO:0008277)	1/82	2.835341e-02	4.152772e-02	0	0	4.097119e+01	1.459807e+02	C3
+GO_Biological_Process_2021	regulation of defense response (GO:0031347)	1/83	2.869489e-02	4.160759e-02	0	0	4.046951e+01	1.437087e+02	USP18
+GO_Biological_Process_2021	retinoid metabolic process (GO:0001523)	1/92	3.176354e-02	4.560112e-02	0	0	3.645055e+01	1.257338e+02	CYP2S1
+GO_Biological_Process_2021	cellular response to chemical stress (GO:0062197)	1/101	3.482388e-02	4.950453e-02	0	0	3.315500e+01	1.113163e+02	AIF1
+GO_Biological_Process_2021	regulation of interleukin-6 production (GO:0032675)	1/110	3.787592e-02	5.332047e-02	0	0	3.040367e+01	9.952458e+01	AIF1
+GO_Biological_Process_2021	cellular response to interferon-gamma (GO:0071346)	1/121	4.159496e-02	5.799297e-02	0	0	2.760139e+01	8.776624e+01	AIF1
+GO_Biological_Process_2021	defense response to symbiont (GO:0140546)	1/124	4.260710e-02	5.874453e-02	0	0	2.692412e+01	8.496537e+01	IFIT3
+GO_Biological_Process_2021	cellular response to oxidative stress (GO:0034599)	1/125	4.294428e-02	5.874453e-02	0	0	2.670565e+01	8.406541e+01	AIF1
+GO_Biological_Process_2021	regulation of response to external stimulus (GO:0032101)	1/130	4.462864e-02	6.047806e-02	0	0	2.566408e+01	7.979937e+01	USP18
+GO_Biological_Process_2021	defense response to virus (GO:0051607)	1/133	4.563803e-02	6.127329e-02	0	0	2.507702e+01	7.741311e+01	IFIT3
+GO_Biological_Process_2021	positive regulation of response to external stimulus (GO:0032103)	1/139	4.765408e-02	6.339305e-02	0	0	2.397947e+01	7.298839e+01	AIF1
+GO_Biological_Process_2021	Ras protein signal transduction (GO:0007265)	1/142	4.866074e-02	6.400390e-02	0	0	2.346572e+01	7.093412e+01	AIF1
+GO_Biological_Process_2021	monocarboxylic acid metabolic process (GO:0032787)	1/143	4.899609e-02	6.400390e-02	0	0	2.329930e+01	7.027102e+01	CYP2S1
+GO_Biological_Process_2021	actin filament organization (GO:0007015)	1/152	5.200967e-02	6.733395e-02	0	0	2.190066e+01	6.474549e+01	AIF1
+GO_Biological_Process_2021	regulation of immune response (GO:0050776)	1/179	6.100136e-02	7.827609e-02	0	0	1.855337e+01	5.189116e+01	C3
+GO_Biological_Process_2021	regulation of macromolecule metabolic process (GO:0060255)	1/200	6.794427e-02	8.642034e-02	0	0	1.657789e+01	4.457906e+01	AIF1
+GO_Biological_Process_2021	regulation of inflammatory response (GO:0050727)	1/206	6.991986e-02	8.815982e-02	0	0	1.608780e+01	4.280009e+01	USP18
+GO_Biological_Process_2021	positive regulation of protein modification process (GO:0031401)	1/214	7.254839e-02	9.068548e-02	0	0	1.547731e+01	4.060474e+01	C3
+GO_Biological_Process_2021	positive regulation of cell motility (GO:2000147)	1/221	7.484313e-02	9.275430e-02	0	0	1.497955e+01	3.883239e+01	AIF1
+GO_Biological_Process_2021	inflammatory response (GO:0006954)	1/230	7.778635e-02	9.558493e-02	0	0	1.438428e+01	3.673442e+01	AIF1
+GO_Biological_Process_2021	positive regulation of signal transduction (GO:0009967)	1/252	8.494714e-02	1.030364e-01	0	0	1.310890e+01	3.232295e+01	C3
+GO_Biological_Process_2021	positive regulation of phosphorylation (GO:0042327)	1/253	8.527150e-02	1.030364e-01	0	0	1.305622e+01	3.214330e+01	C3
+GO_Biological_Process_2021	cellular component assembly (GO:0022607)	1/261	8.786279e-02	1.049194e-01	0	0	1.264936e+01	3.076297e+01	AIF1
+GO_Biological_Process_2021	regulation of protein phosphorylation (GO:0001932)	1/266	8.947915e-02	1.049194e-01	0	0	1.240755e+01	2.994871e+01	C3
+GO_Biological_Process_2021	protein deubiquitination (GO:0016579)	1/267	8.980213e-02	1.049194e-01	0	0	1.236028e+01	2.979008e+01	USP18
+GO_Biological_Process_2021	central nervous system development (GO:0007417)	1/268	9.012501e-02	1.049194e-01	0	0	1.231336e+01	2.963281e+01	C3
+GO_Biological_Process_2021	positive regulation of cell migration (GO:0030335)	1/269	9.044779e-02	1.049194e-01	0	0	1.226679e+01	2.947688e+01	AIF1
+GO_Biological_Process_2021	protein modification by small protein removal (GO:0070646)	1/276	9.270451e-02	1.065789e-01	0	0	1.195030e+01	2.842186e+01	USP18
+GO_Biological_Process_2021	plasma membrane bounded cell projection assembly (GO:0120031)	1/278	9.334840e-02	1.065789e-01	0	0	1.186282e+01	2.813168e+01	AIF1
+GO_Biological_Process_2021	innate immune response (GO:0045087)	1/302	1.010446e-01	1.144646e-01	0	0	1.090365e+01	2.499328e+01	C3
+GO_Biological_Process_2021	post-translational protein modification (GO:0043687)	1/345	1.146938e-01	1.289193e-01	0	0	9.519864e+00	2.061517e+01	C3
+GO_Biological_Process_2021	positive regulation of protein phosphorylation (GO:0001934)	1/371	1.228602e-01	1.370364e-01	0	0	8.839189e+00	1.853320e+01	C3
+GO_Biological_Process_2021	negative regulation of programmed cell death (GO:0043069)	1/381	1.259839e-01	1.394479e-01	0	0	8.602193e+00	1.782031e+01	IFIT3
+GO_Biological_Process_2021	regulation of cell migration (GO:0030334)	1/408	1.343704e-01	1.476038e-01	0	0	8.020475e+00	1.609834e+01	AIF1
+GO_Biological_Process_2021	cellular protein metabolic process (GO:0044267)	1/417	1.371505e-01	1.495250e-01	0	0	7.843349e+00	1.558220e+01	C3
+GO_Biological_Process_2021	positive regulation of cell population proliferation (GO:0008284)	1/474	1.545807e-01	1.656707e-01	0	0	6.878083e+00	1.284165e+01	AIF1
+GO_Biological_Process_2021	neutrophil degranulation (GO:0043312)	1/481	1.567003e-01	1.656707e-01	0	0	6.775347e+00	1.255756e+01	C3
+GO_Biological_Process_2021	cellular response to cytokine stimulus (GO:0071345)	1/482	1.570028e-01	1.656707e-01	0	0	6.760915e+00	1.251778e+01	AIF1
+GO_Biological_Process_2021	negative regulation of apoptotic process (GO:0043066)	1/485	1.579095e-01	1.656707e-01	0	0	6.717975e+00	1.239959e+01	IFIT3
+GO_Biological_Process_2021	neutrophil activation involved in immune response (GO:0002283)	1/485	1.579095e-01	1.656707e-01	0	0	6.717975e+00	1.239959e+01	C3
+GO_Biological_Process_2021	neutrophil mediated immunity (GO:0002446)	1/488	1.588154e-01	1.656707e-01	0	0	6.675565e+00	1.228313e+01	C3
+GO_Biological_Process_2021	negative regulation of cellular process (GO:0048523)	1/566	1.820771e-01	1.885799e-01	0	0	5.730973e+00	9.761709e+00	IFIT3
+GO_Biological_Process_2021	cytokine-mediated signaling pathway (GO:0019221)	1/621	1.981462e-01	2.035149e-01	0	0	5.207796e+00	8.430119e+00	IFIT3
+GO_Biological_Process_2021	positive regulation of cellular process (GO:0048522)	1/625	1.993043e-01	2.035149e-01	0	0	5.173344e+00	8.344204e+00	AIF1
+GO_Biological_Process_2021	regulation of apoptotic process (GO:0042981)	1/742	2.325484e-01	2.358009e-01	0	0	4.330184e+00	6.316253e+00	IFIT3
+GO_Biological_Process_2021	cellular protein modification process (GO:0006464)	1/1025	3.081082e-01	3.102478e-01	0	0	3.087402e+00	3.634812e+00	C3
+GO_Biological_Process_2021	regulation of gene expression (GO:0010468)	1/1079	3.217763e-01	3.217763e-01	0	0	2.924397e+00	3.315970e+00	AIF1

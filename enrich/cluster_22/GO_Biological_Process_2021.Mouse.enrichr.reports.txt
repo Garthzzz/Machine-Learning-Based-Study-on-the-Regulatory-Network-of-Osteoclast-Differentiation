@@ -1,0 +1,115 @@
+Gene_set	Term	Overlap	P-value	Adjusted P-value	Old P-value	Old Adjusted P-value	Odds Ratio	Combined Score	Genes
+GO_Biological_Process_2021	negative regulation of lipid transport (GO:0032369)	1/5	9.996772e-04	1.340334e-02	0	0	1.666000e+03	1.150886e+04	NR1H3
+GO_Biological_Process_2021	negative regulation of pinocytosis (GO:0048550)	1/5	9.996772e-04	1.340334e-02	0	0	1.666000e+03	1.150886e+04	NR1H3
+GO_Biological_Process_2021	regulation of extracellular exosome assembly (GO:1903551)	1/6	1.199524e-03	1.340334e-02	0	0	1.332733e+03	8.963738e+03	SDC1
+GO_Biological_Process_2021	positive regulation of sterol transport (GO:0032373)	1/6	1.199524e-03	1.340334e-02	0	0	1.332733e+03	8.963738e+03	NR1H3
+GO_Biological_Process_2021	negative regulation of response to interferon-gamma (GO:0060331)	1/7	1.399341e-03	1.340334e-02	0	0	1.110556e+03	7.298298e+03	NR1H3
+GO_Biological_Process_2021	negative regulation of interferon-gamma-mediated signaling pathway (GO:0060336)	1/7	1.399341e-03	1.340334e-02	0	0	1.110556e+03	7.298298e+03	NR1H3
+GO_Biological_Process_2021	negative regulation of digestive system process (GO:0060457)	1/7	1.399341e-03	1.340334e-02	0	0	1.110556e+03	7.298298e+03	NR1H3
+GO_Biological_Process_2021	positive regulation of lipoprotein lipase activity (GO:0051006)	1/8	1.599128e-03	1.340334e-02	0	0	9.518571e+02	6.128339e+03	NR1H3
+GO_Biological_Process_2021	positive regulation of triglyceride lipase activity (GO:0061365)	1/9	1.798886e-03	1.340334e-02	0	0	8.328333e+02	5.263996e+03	NR1H3
+GO_Biological_Process_2021	negative regulation of lipid localization (GO:1905953)	1/9	1.798886e-03	1.340334e-02	0	0	8.328333e+02	5.263996e+03	NR1H3
+GO_Biological_Process_2021	regulation of pinocytosis (GO:0048548)	1/9	1.798886e-03	1.340334e-02	0	0	8.328333e+02	5.263996e+03	NR1H3
+GO_Biological_Process_2021	regulation of lipid transport (GO:0032368)	1/9	1.798886e-03	1.340334e-02	0	0	8.328333e+02	5.263996e+03	NR1H3
+GO_Biological_Process_2021	positive regulation of toll-like receptor 4 signaling pathway (GO:0034145)	1/10	1.998613e-03	1.340334e-02	0	0	7.402593e+02	4.600935e+03	NR1H3
+GO_Biological_Process_2021	negative regulation of cholesterol storage (GO:0010887)	1/10	1.998613e-03	1.340334e-02	0	0	7.402593e+02	4.600935e+03	NR1H3
+GO_Biological_Process_2021	positive regulation of triglyceride biosynthetic process (GO:0010867)	1/11	2.198311e-03	1.340334e-02	0	0	6.662000e+02	4.077188e+03	NR1H3
+GO_Biological_Process_2021	positive regulation of fatty acid biosynthetic process (GO:0045723)	1/13	2.597617e-03	1.340334e-02	0	0	5.551111e+02	3.304666e+03	NR1H3
+GO_Biological_Process_2021	positive regulation of transporter activity (GO:0032411)	1/13	2.597617e-03	1.340334e-02	0	0	5.551111e+02	3.304666e+03	NR1H3
+GO_Biological_Process_2021	negative regulation of macrophage derived foam cell differentiation (GO:0010745)	1/13	2.597617e-03	1.340334e-02	0	0	5.551111e+02	3.304666e+03	NR1H3
+GO_Biological_Process_2021	negative regulation of secretion (GO:0051048)	1/14	2.797225e-03	1.340334e-02	0	0	5.123846e+02	3.012375e+03	NR1H3
+GO_Biological_Process_2021	regulation of response to endoplasmic reticulum stress (GO:1905897)	1/14	2.797225e-03	1.340334e-02	0	0	5.123846e+02	3.012375e+03	NR1H3
+GO_Biological_Process_2021	striated muscle cell development (GO:0055002)	1/14	2.797225e-03	1.340334e-02	0	0	5.123846e+02	3.012375e+03	SDC1
+GO_Biological_Process_2021	positive regulation of exosomal secretion (GO:1903543)	1/15	2.996803e-03	1.340334e-02	0	0	4.757619e+02	2.764276e+03	SDC1
+GO_Biological_Process_2021	negative regulation of leukocyte activation (GO:0002695)	1/15	2.996803e-03	1.340334e-02	0	0	4.757619e+02	2.764276e+03	NR1H3
+GO_Biological_Process_2021	myoblast differentiation (GO:0045445)	1/15	2.996803e-03	1.340334e-02	0	0	4.757619e+02	2.764276e+03	SDC1
+GO_Biological_Process_2021	regulation of triglyceride biosynthetic process (GO:0010866)	1/15	2.996803e-03	1.340334e-02	0	0	4.757619e+02	2.764276e+03	NR1H3
+GO_Biological_Process_2021	negative regulation of macrophage activation (GO:0043031)	1/16	3.196351e-03	1.340334e-02	0	0	4.440222e+02	2.551239e+03	NR1H3
+GO_Biological_Process_2021	regulation of cholesterol storage (GO:0010885)	1/16	3.196351e-03	1.340334e-02	0	0	4.440222e+02	2.551239e+03	NR1H3
+GO_Biological_Process_2021	positive regulation of fatty acid metabolic process (GO:0045923)	1/18	3.595358e-03	1.340334e-02	0	0	3.917451e+02	2.204785e+03	NR1H3
+GO_Biological_Process_2021	positive regulation of triglyceride metabolic process (GO:0090208)	1/19	3.794816e-03	1.340334e-02	0	0	3.699630e+02	2.062218e+03	NR1H3
+GO_Biological_Process_2021	striated muscle cell differentiation (GO:0051146)	1/19	3.794816e-03	1.340334e-02	0	0	3.699630e+02	2.062218e+03	SDC1
+GO_Biological_Process_2021	regulation of exosomal secretion (GO:1903541)	1/19	3.794816e-03	1.340334e-02	0	0	3.699630e+02	2.062218e+03	SDC1
+GO_Biological_Process_2021	negative regulation of lipid storage (GO:0010888)	1/20	3.994245e-03	1.340334e-02	0	0	3.504737e+02	1.935631e+03	NR1H3
+GO_Biological_Process_2021	response to progesterone (GO:0032570)	1/21	4.193643e-03	1.340334e-02	0	0	3.329333e+02	1.822539e+03	NR1H3
+GO_Biological_Process_2021	regulation of lipoprotein lipase activity (GO:0051004)	1/21	4.193643e-03	1.340334e-02	0	0	3.329333e+02	1.822539e+03	NR1H3
+GO_Biological_Process_2021	regulation of interferon-gamma-mediated signaling pathway (GO:0060334)	1/23	4.592351e-03	1.340334e-02	0	0	3.026364e+02	1.629201e+03	NR1H3
+GO_Biological_Process_2021	positive regulation of cholesterol efflux (GO:0010875)	1/23	4.592351e-03	1.340334e-02	0	0	3.026364e+02	1.629201e+03	NR1H3
+GO_Biological_Process_2021	regulation of toll-like receptor 4 signaling pathway (GO:0034143)	1/23	4.592351e-03	1.340334e-02	0	0	3.026364e+02	1.629201e+03	NR1H3
+GO_Biological_Process_2021	negative regulation of cellular process (GO:0048523)	2/566	4.618539e-03	1.340334e-02	0	0	3.445390e+01	1.852819e+02	PACRG;NR1H3
+GO_Biological_Process_2021	negative regulation of response to endoplasmic reticulum stress (GO:1903573)	1/25	4.990939e-03	1.340334e-02	0	0	2.773889e+02	1.470198e+03	NR1H3
+GO_Biological_Process_2021	acylglycerol homeostasis (GO:0055090)	1/25	4.990939e-03	1.340334e-02	0	0	2.773889e+02	1.470198e+03	NR1H3
+GO_Biological_Process_2021	regulation of cholesterol transport (GO:0032374)	1/25	4.990939e-03	1.340334e-02	0	0	2.773889e+02	1.470198e+03	NR1H3
+GO_Biological_Process_2021	negative regulation of endocytosis (GO:0045806)	1/25	4.990939e-03	1.340334e-02	0	0	2.773889e+02	1.470198e+03	NR1H3
+GO_Biological_Process_2021	positive regulation of toll-like receptor signaling pathway (GO:0034123)	1/27	5.389408e-03	1.340334e-02	0	0	2.560256e+02	1.337304e+03	NR1H3
+GO_Biological_Process_2021	cellular response to unfolded protein (GO:0034620)	1/27	5.389408e-03	1.340334e-02	0	0	2.560256e+02	1.337304e+03	PACRG
+GO_Biological_Process_2021	response to ketone (GO:1901654)	1/28	5.588597e-03	1.340334e-02	0	0	2.465309e+02	1.278762e+03	NR1H3
+GO_Biological_Process_2021	regulation of fatty acid biosynthetic process (GO:0042304)	1/29	5.787756e-03	1.340334e-02	0	0	2.377143e+02	1.224707e+03	NR1H3
+GO_Biological_Process_2021	phosphatidylcholine acyl-chain remodeling (GO:0036151)	1/30	5.986886e-03	1.340334e-02	0	0	2.295057e+02	1.174653e+03	NR1H3
+GO_Biological_Process_2021	regulation of macrophage activation (GO:0043030)	1/30	5.986886e-03	1.340334e-02	0	0	2.295057e+02	1.174653e+03	NR1H3
+GO_Biological_Process_2021	triglyceride homeostasis (GO:0070328)	1/31	6.185986e-03	1.340334e-02	0	0	2.218444e+02	1.128183e+03	NR1H3
+GO_Biological_Process_2021	aminoglycan catabolic process (GO:0006026)	1/31	6.185986e-03	1.340334e-02	0	0	2.218444e+02	1.128183e+03	SDC1
+GO_Biological_Process_2021	regulation of macrophage derived foam cell differentiation (GO:0010743)	1/31	6.185986e-03	1.340334e-02	0	0	2.218444e+02	1.128183e+03	NR1H3
+GO_Biological_Process_2021	cellular response to topologically incorrect protein (GO:0035967)	1/32	6.385056e-03	1.340334e-02	0	0	2.146774e+02	1.084936e+03	PACRG
+GO_Biological_Process_2021	regulation of cholesterol efflux (GO:0010874)	1/33	6.584096e-03	1.340334e-02	0	0	2.079583e+02	1.044595e+03	NR1H3
+GO_Biological_Process_2021	positive regulation of cholesterol transport (GO:0032376)	1/33	6.584096e-03	1.340334e-02	0	0	2.079583e+02	1.044595e+03	NR1H3
+GO_Biological_Process_2021	apoptotic cell clearance (GO:0043277)	1/33	6.584096e-03	1.340334e-02	0	0	2.079583e+02	1.044595e+03	NR1H3
+GO_Biological_Process_2021	muscle cell development (GO:0055001)	1/33	6.584096e-03	1.340334e-02	0	0	2.079583e+02	1.044595e+03	SDC1
+GO_Biological_Process_2021	response to steroid hormone (GO:0048545)	1/34	6.783106e-03	1.356621e-02	0	0	2.016465e+02	1.006885e+03	NR1H3
+GO_Biological_Process_2021	positive regulation of lipid biosynthetic process (GO:0046889)	1/35	6.982086e-03	1.372341e-02	0	0	1.957059e+02	9.715638e+02	NR1H3
+GO_Biological_Process_2021	positive regulation of exocytosis (GO:0045921)	1/37	7.379957e-03	1.425958e-02	0	0	1.848148e+02	9.072536e+02	SDC1
+GO_Biological_Process_2021	negative regulation of protein secretion (GO:0050709)	1/39	7.777708e-03	1.477764e-02	0	0	1.750702e+02	8.502272e+02	NR1H3
+GO_Biological_Process_2021	positive regulation of organelle assembly (GO:1902117)	1/46	9.168896e-03	1.712573e-02	0	0	1.477852e+02	6.933990e+02	SDC1
+GO_Biological_Process_2021	negative regulation of cold-induced thermogenesis (GO:0120163)	1/47	9.367518e-03	1.712573e-02	0	0	1.445652e+02	6.751929e+02	NR1H3
+GO_Biological_Process_2021	regulation of cellular protein metabolic process (GO:0032268)	1/49	9.764672e-03	1.712573e-02	0	0	1.385278e+02	6.412429e+02	NR1H3
+GO_Biological_Process_2021	aminoglycan biosynthetic process (GO:0006023)	1/49	9.764672e-03	1.712573e-02	0	0	1.385278e+02	6.412429e+02	SDC1
+GO_Biological_Process_2021	response to unfolded protein (GO:0006986)	1/49	9.764672e-03	1.712573e-02	0	0	1.385278e+02	6.412429e+02	PACRG
+GO_Biological_Process_2021	negative regulation of transport (GO:0051051)	1/51	1.016171e-02	1.755204e-02	0	0	1.329733e+02	6.102318e+02	NR1H3
+GO_Biological_Process_2021	glycosaminoglycan metabolic process (GO:0030203)	1/54	1.075704e-02	1.816471e-02	0	0	1.254277e+02	5.684627e+02	SDC1
+GO_Biological_Process_2021	negative regulation of cytokine-mediated signaling pathway (GO:0001960)	1/55	1.095542e-02	1.816471e-02	0	0	1.230988e+02	5.556581e+02	NR1H3
+GO_Biological_Process_2021	glycosaminoglycan catabolic process (GO:0006027)	1/56	1.115377e-02	1.816471e-02	0	0	1.208545e+02	5.433593e+02	SDC1
+GO_Biological_Process_2021	negative regulation of metabolic process (GO:0009892)	1/56	1.115377e-02	1.816471e-02	0	0	1.208545e+02	5.433593e+02	NR1H3
+GO_Biological_Process_2021	negative regulation of response to stimulus (GO:0048585)	1/61	1.214509e-02	1.950057e-02	0	0	1.107556e+02	4.885240e+02	NR1H3
+GO_Biological_Process_2021	lipid homeostasis (GO:0055088)	1/64	1.273952e-02	1.970350e-02	0	0	1.054656e+02	4.601513e+02	NR1H3
+GO_Biological_Process_2021	diterpenoid metabolic process (GO:0016101)	1/64	1.273952e-02	1.970350e-02	0	0	1.054656e+02	4.601513e+02	SDC1
+GO_Biological_Process_2021	chemical homeostasis (GO:0048878)	1/65	1.293761e-02	1.970350e-02	0	0	1.038125e+02	4.513370e+02	NR1H3
+GO_Biological_Process_2021	extracellular matrix disassembly (GO:0022617)	1/66	1.313566e-02	1.970350e-02	0	0	1.022103e+02	4.428182e+02	HTRA1
+GO_Biological_Process_2021	cellular component disassembly (GO:0022411)	1/66	1.313566e-02	1.970350e-02	0	0	1.022103e+02	4.428182e+02	HTRA1
+GO_Biological_Process_2021	cholesterol homeostasis (GO:0042632)	1/71	1.412549e-02	2.091307e-02	0	0	9.488571e+01	4.041917e+02	NR1H3
+GO_Biological_Process_2021	sterol homeostasis (GO:0055092)	1/72	1.432337e-02	2.093415e-02	0	0	9.354460e+01	3.971775e+02	NR1H3
+GO_Biological_Process_2021	phosphatidylcholine metabolic process (GO:0046470)	1/77	1.531230e-02	2.209624e-02	0	0	8.736842e+01	3.651212e+02	NR1H3
+GO_Biological_Process_2021	negative regulation of defense response (GO:0031348)	1/85	1.689305e-02	2.407260e-02	0	0	7.901587e+01	3.224521e+02	NR1H3
+GO_Biological_Process_2021	positive regulation of transport (GO:0051050)	1/91	1.807736e-02	2.510012e-02	0	0	7.372593e+01	2.958691e+02	NR1H3
+GO_Biological_Process_2021	positive regulation of cellular component biogenesis (GO:0044089)	1/92	1.827465e-02	2.510012e-02	0	0	7.291209e+01	2.918117e+02	SDC1
+GO_Biological_Process_2021	retinoid metabolic process (GO:0001523)	1/92	1.827465e-02	2.510012e-02	0	0	7.291209e+01	2.918117e+02	SDC1
+GO_Biological_Process_2021	negative regulation of cell death (GO:0060548)	1/94	1.866912e-02	2.533666e-02	0	0	7.133692e+01	2.839840e+02	PACRG
+GO_Biological_Process_2021	glycosaminoglycan biosynthetic process (GO:0006024)	1/97	1.926061e-02	2.583187e-02	0	0	6.909722e+01	2.729128e+02	SDC1
+GO_Biological_Process_2021	regulation of cell death (GO:0010941)	1/102	2.024582e-02	2.652901e-02	0	0	6.566007e+01	2.560616e+02	PACRG
+GO_Biological_Process_2021	positive regulation of cellular protein metabolic process (GO:0032270)	1/102	2.024582e-02	2.652901e-02	0	0	6.566007e+01	2.560616e+02	NR1H3
+GO_Biological_Process_2021	positive regulation of cellular metabolic process (GO:0031325)	1/105	2.083660e-02	2.699287e-02	0	0	6.375641e+01	2.468039e+02	NR1H3
+GO_Biological_Process_2021	cellular response to molecule of bacterial origin (GO:0071219)	1/115	2.280392e-02	2.888496e-02	0	0	5.813450e+01	2.197963e+02	NR1H3
+GO_Biological_Process_2021	positive regulation of protein metabolic process (GO:0051247)	1/115	2.280392e-02	2.888496e-02	0	0	5.813450e+01	2.197963e+02	NR1H3
+GO_Biological_Process_2021	negative regulation of response to external stimulus (GO:0032102)	1/118	2.339354e-02	2.930619e-02	0	0	5.663533e+01	2.126824e+02	NR1H3
+GO_Biological_Process_2021	cellular response to lipopolysaccharide (GO:0071222)	1/120	2.378647e-02	2.947453e-02	0	0	5.567787e+01	2.081594e+02	NR1H3
+GO_Biological_Process_2021	transcription initiation from RNA polymerase II promoter (GO:0006367)	1/140	2.770925e-02	3.396617e-02	0	0	4.761871e+01	1.707602e+02	NR1H3
+GO_Biological_Process_2021	response to lipopolysaccharide (GO:0032496)	1/159	3.142493e-02	3.811109e-02	0	0	4.185232e+01	1.448155e+02	NR1H3
+GO_Biological_Process_2021	DNA-templated transcription, initiation (GO:0006352)	1/168	3.318127e-02	3.981752e-02	0	0	3.957884e+01	1.347964e+02	NR1H3
+GO_Biological_Process_2021	positive regulation of cellular biosynthetic process (GO:0031328)	1/180	3.551934e-02	4.217921e-02	0	0	3.690317e+01	1.231709e+02	NR1H3
+GO_Biological_Process_2021	negative regulation of cell differentiation (GO:0045596)	1/191	3.765884e-02	4.425884e-02	0	0	3.474737e+01	1.139431e+02	NR1H3
+GO_Biological_Process_2021	regulation of inflammatory response (GO:0050727)	1/206	4.057060e-02	4.719437e-02	0	0	3.218049e+01	1.031292e+02	NR1H3
+GO_Biological_Process_2021	negative regulation of inflammatory response (GO:0050728)	1/212	4.173345e-02	4.801776e-02	0	0	3.125592e+01	9.928295e+01	NR1H3
+GO_Biological_Process_2021	negative regulation of multicellular organismal process (GO:0051241)	1/214	4.212084e-02	4.801776e-02	0	0	3.095931e+01	9.805472e+01	NR1H3
+GO_Biological_Process_2021	cellular response to lipid (GO:0071396)	1/219	4.308878e-02	4.863486e-02	0	0	3.024159e+01	9.509446e+01	NR1H3
+GO_Biological_Process_2021	proteolysis (GO:0006508)	1/287	5.618012e-02	6.278954e-02	0	0	2.297203e+01	6.614089e+01	HTRA1
+GO_Biological_Process_2021	extracellular matrix organization (GO:0030198)	1/300	5.866750e-02	6.493296e-02	0	0	2.195875e+01	6.227215e+01	HTRA1
+GO_Biological_Process_2021	transcription by RNA polymerase II (GO:0006366)	1/320	6.248463e-02	6.846102e-02	0	0	2.056113e+01	5.701261e+01	NR1H3
+GO_Biological_Process_2021	cellular response to oxygen-containing compound (GO:1901701)	1/323	6.305620e-02	6.846102e-02	0	0	2.036646e+01	5.628737e+01	NR1H3
+GO_Biological_Process_2021	cellular response to cytokine stimulus (GO:0071345)	1/482	9.297721e-02	9.999436e-02	0	0	1.352391e+01	3.212470e+01	SDC1
+GO_Biological_Process_2021	positive regulation of nucleic acid-templated transcription (GO:1903508)	1/511	9.835626e-02	1.047908e-01	0	0	1.273595e+01	2.953669e+01	NR1H3
+GO_Biological_Process_2021	cytokine-mediated signaling pathway (GO:0019221)	1/621	1.185423e-01	1.251280e-01	0	0	1.041720e+01	2.221453e+01	SDC1
+GO_Biological_Process_2021	negative regulation of transcription by RNA polymerase II (GO:0000122)	1/684	1.299497e-01	1.359107e-01	0	0	9.425573e+00	1.923390e+01	NR1H3
+GO_Biological_Process_2021	positive regulation of transcription by RNA polymerase II (GO:0045944)	1/908	1.696146e-01	1.757824e-01	0	0	7.015436e+00	1.244697e+01	NR1H3
+GO_Biological_Process_2021	negative regulation of transcription, DNA-templated (GO:0045892)	1/948	1.765523e-01	1.813240e-01	0	0	6.705033e+00	1.162745e+01	NR1H3
+GO_Biological_Process_2021	positive regulation of transcription, DNA-templated (GO:0045893)	1/1183	2.164376e-01	2.203026e-01	0	0	5.305697e+00	8.120119e+00	NR1H3
+GO_Biological_Process_2021	regulation of transcription by RNA polymerase II (GO:0006357)	1/2206	3.734459e-01	3.767508e-01	0	0	2.689494e+00	2.649103e+00	NR1H3
+GO_Biological_Process_2021	regulation of transcription, DNA-templated (GO:0006355)	1/2244	3.787814e-01	3.787814e-01	0	0	2.638282e+00	2.561234e+00	NR1H3

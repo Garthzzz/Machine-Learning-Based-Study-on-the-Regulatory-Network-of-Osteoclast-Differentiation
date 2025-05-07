@@ -1,0 +1,44 @@
+Gene_set	Term	Overlap	P-value	Adjusted P-value	Old P-value	Old Adjusted P-value	Odds Ratio	Combined Score	Genes
+GO_Biological_Process_2021	purine-containing compound biosynthetic process (GO:0072522)	2/26	9.734273e-06	4.185737e-04	0	0	8.321667e+02	9.603085e+03	SHMT1;DCK
+GO_Biological_Process_2021	amino-acid betaine biosynthetic process (GO:0006578)	1/5	9.996772e-04	5.857387e-03	0	0	1.666000e+03	1.150886e+04	SHMT1
+GO_Biological_Process_2021	pyrimidine nucleotide metabolic process (GO:0006220)	1/5	9.996772e-04	5.857387e-03	0	0	1.666000e+03	1.150886e+04	DCK
+GO_Biological_Process_2021	carnitine biosynthetic process (GO:0045329)	1/5	9.996772e-04	5.857387e-03	0	0	1.666000e+03	1.150886e+04	SHMT1
+GO_Biological_Process_2021	purine nucleobase biosynthetic process (GO:0009113)	1/6	1.199524e-03	5.857387e-03	0	0	1.332733e+03	8.963738e+03	SHMT1
+GO_Biological_Process_2021	nucleobase biosynthetic process (GO:0046112)	1/7	1.399341e-03	5.857387e-03	0	0	1.110556e+03	7.298298e+03	SHMT1
+GO_Biological_Process_2021	tetrahydrofolate interconversion (GO:0035999)	1/9	1.798886e-03	5.857387e-03	0	0	8.328333e+02	5.263996e+03	SHMT1
+GO_Biological_Process_2021	purine nucleobase metabolic process (GO:0006144)	1/9	1.798886e-03	5.857387e-03	0	0	8.328333e+02	5.263996e+03	SHMT1
+GO_Biological_Process_2021	serine family amino acid catabolic process (GO:0009071)	1/10	1.998613e-03	5.857387e-03	0	0	7.402593e+02	4.600935e+03	SHMT1
+GO_Biological_Process_2021	L-serine metabolic process (GO:0006563)	1/10	1.998613e-03	5.857387e-03	0	0	7.402593e+02	4.600935e+03	SHMT1
+GO_Biological_Process_2021	tetrahydrofolate metabolic process (GO:0046653)	1/11	2.198311e-03	5.857387e-03	0	0	6.662000e+02	4.077188e+03	SHMT1
+GO_Biological_Process_2021	pyrimidine nucleoside salvage (GO:0043097)	1/11	2.198311e-03	5.857387e-03	0	0	6.662000e+02	4.077188e+03	DCK
+GO_Biological_Process_2021	pyrimidine-containing compound salvage (GO:0008655)	1/11	2.198311e-03	5.857387e-03	0	0	6.662000e+02	4.077188e+03	DCK
+GO_Biological_Process_2021	glycine metabolic process (GO:0006544)	1/12	2.397979e-03	5.857387e-03	0	0	6.056061e+02	3.653700e+03	SHMT1
+GO_Biological_Process_2021	nucleoside salvage (GO:0043174)	1/12	2.397979e-03	5.857387e-03	0	0	6.056061e+02	3.653700e+03	DCK
+GO_Biological_Process_2021	pyrimidine-containing compound metabolic process (GO:0072527)	1/12	2.397979e-03	5.857387e-03	0	0	6.056061e+02	3.653700e+03	DCK
+GO_Biological_Process_2021	carnitine metabolic process (GO:0009437)	1/12	2.397979e-03	5.857387e-03	0	0	6.056061e+02	3.653700e+03	SHMT1
+GO_Biological_Process_2021	purine-containing compound salvage (GO:0043101)	1/13	2.597617e-03	5.857387e-03	0	0	5.551111e+02	3.304666e+03	DCK
+GO_Biological_Process_2021	pyrimidine nucleoside biosynthetic process (GO:0046134)	1/14	2.797225e-03	5.857387e-03	0	0	5.123846e+02	3.012375e+03	DCK
+GO_Biological_Process_2021	aflatoxin metabolic process (GO:0046222)	1/15	2.996803e-03	5.857387e-03	0	0	4.757619e+02	2.764276e+03	ACY1
+GO_Biological_Process_2021	organic heteropentacyclic compound metabolic process (GO:1901376)	1/15	2.996803e-03	5.857387e-03	0	0	4.757619e+02	2.764276e+03	ACY1
+GO_Biological_Process_2021	mycotoxin metabolic process (GO:0043385)	1/15	2.996803e-03	5.857387e-03	0	0	4.757619e+02	2.764276e+03	ACY1
+GO_Biological_Process_2021	serine family amino acid metabolic process (GO:0009069)	1/16	3.196351e-03	5.975787e-03	0	0	4.440222e+02	2.551239e+03	SHMT1
+GO_Biological_Process_2021	folic acid metabolic process (GO:0046655)	1/19	3.794816e-03	6.605866e-03	0	0	3.699630e+02	2.062218e+03	SHMT1
+GO_Biological_Process_2021	folic acid-containing compound metabolic process (GO:0006760)	1/20	3.994245e-03	6.605866e-03	0	0	3.504737e+02	1.935631e+03	SHMT1
+GO_Biological_Process_2021	nucleobase-containing compound biosynthetic process (GO:0034654)	1/20	3.994245e-03	6.605866e-03	0	0	3.504737e+02	1.935631e+03	DCK
+GO_Biological_Process_2021	nucleotide metabolic process (GO:0009117)	1/23	4.592351e-03	7.313744e-03	0	0	3.026364e+02	1.629201e+03	DCK
+GO_Biological_Process_2021	protein homotetramerization (GO:0051289)	1/52	1.036018e-02	1.591028e-02	0	0	1.303595e+02	5.957149e+02	SHMT1
+GO_Biological_Process_2021	dicarboxylic acid metabolic process (GO:0043648)	1/57	1.135209e-02	1.683242e-02	0	0	1.186905e+02	5.315378e+02	SHMT1
+GO_Biological_Process_2021	protein tetramerization (GO:0051262)	1/71	1.412549e-02	2.024654e-02	0	0	9.488571e+01	4.041917e+02	SHMT1
+GO_Biological_Process_2021	water-soluble vitamin metabolic process (GO:0006767)	1/76	1.511458e-02	2.096538e-02	0	0	8.853778e+01	3.711588e+02	SHMT1
+GO_Biological_Process_2021	negative regulation of cellular amide metabolic process (GO:0034249)	1/86	1.709051e-02	2.261301e-02	0	0	7.808235e+01	3.177352e+02	SHMT1
+GO_Biological_Process_2021	negative regulation of translation (GO:0017148)	1/90	1.788005e-02	2.261301e-02	0	0	7.455805e+01	3.000268e+02	SHMT1
+GO_Biological_Process_2021	cellular amino acid catabolic process (GO:0009063)	1/90	1.788005e-02	2.261301e-02	0	0	7.455805e+01	3.000268e+02	SHMT1
+GO_Biological_Process_2021	negative regulation of cellular protein metabolic process (GO:0032269)	1/94	1.866912e-02	2.293635e-02	0	0	7.133692e+01	2.839840e+02	SHMT1
+GO_Biological_Process_2021	cellular amide metabolic process (GO:0043603)	1/115	2.280392e-02	2.723801e-02	0	0	5.813450e+01	2.197963e+02	SHMT1
+GO_Biological_Process_2021	protein homooligomerization (GO:0051260)	1/121	2.398289e-02	2.787200e-02	0	0	5.521111e+01	2.059603e+02	SHMT1
+GO_Biological_Process_2021	regulation of translation (GO:0006417)	1/178	3.512995e-02	3.894770e-02	0	0	3.732392e+01	1.249866e+02	SHMT1
+GO_Biological_Process_2021	regulation of immune response (GO:0050776)	1/179	3.532466e-02	3.894770e-02	0	0	3.711236e+01	1.240731e+02	PILRA
+GO_Biological_Process_2021	negative regulation of gene expression (GO:0010629)	1/322	6.286571e-02	6.613211e-02	0	0	2.043094e+01	5.652741e+01	SHMT1
+GO_Biological_Process_2021	cellular response to oxygen-containing compound (GO:1901701)	1/323	6.305620e-02	6.613211e-02	0	0	2.036646e+01	5.628737e+01	SHMT1
+GO_Biological_Process_2021	cellular response to cytokine stimulus (GO:0071345)	1/482	9.297721e-02	9.519095e-02	0	0	1.352391e+01	3.212470e+01	SHMT1
+GO_Biological_Process_2021	negative regulation of cellular macromolecule biosynthetic process (GO:2000113)	1/547	1.050004e-01	1.050004e-01	0	0	1.187424e+01	2.676205e+01	SHMT1

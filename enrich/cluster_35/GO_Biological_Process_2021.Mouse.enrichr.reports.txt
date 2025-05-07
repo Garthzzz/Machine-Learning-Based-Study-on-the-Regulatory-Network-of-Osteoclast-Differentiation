@@ -1,0 +1,68 @@
+Gene_set	Term	Overlap	P-value	Adjusted P-value	Old P-value	Old Adjusted P-value	Odds Ratio	Combined Score	Genes
+GO_Biological_Process_2021	regulation of cyclin-dependent protein kinase activity (GO:1904029)	2/54	6.377173e-04	2.632036e-02	0	0	6.389103e+01	4.700856e+02	CCND1;CDKN3
+GO_Biological_Process_2021	cell cycle G1/S phase transition (GO:0044843)	2/63	8.672192e-04	2.632036e-02	0	0	5.443989e+01	3.838131e+02	CCND1;CDKN3
+GO_Biological_Process_2021	regulation of cyclin-dependent protein serine/threonine kinase activity (GO:0000079)	2/82	1.463519e-03	2.632036e-02	0	0	4.147083e+01	2.706765e+02	CCND1;CDKN3
+GO_Biological_Process_2021	G1/S transition of mitotic cell cycle (GO:0000082)	2/85	1.571365e-03	2.632036e-02	0	0	3.996586e+01	2.580120e+02	CCND1;CDKN3
+GO_Biological_Process_2021	regulation of protein serine/threonine kinase activity (GO:0071900)	2/111	2.659399e-03	3.563594e-02	0	0	3.039297e+01	1.802198e+02	CCND1;CDKN3
+GO_Biological_Process_2021	L-serine biosynthetic process (GO:0006564)	1/6	4.193120e-03	4.086410e-02	0	0	3.074000e+02	1.682803e+03	PSAT1
+GO_Biological_Process_2021	atrioventricular valve formation (GO:0003190)	1/7	4.890388e-03	4.086410e-02	0	0	2.561538e+02	1.362862e+03	OLFM1
+GO_Biological_Process_2021	aromatic compound biosynthetic process (GO:0019438)	1/8	5.587202e-03	4.086410e-02	0	0	2.195495e+02	1.138864e+03	PSAT1
+GO_Biological_Process_2021	regulation of extent of cell growth (GO:0061387)	1/8	5.587202e-03	4.086410e-02	0	0	2.195495e+02	1.138864e+03	OLFM1
+GO_Biological_Process_2021	response to leptin (GO:0044321)	1/9	6.283564e-03	4.086410e-02	0	0	1.920962e+02	9.738925e+02	CCND1
+GO_Biological_Process_2021	L-serine metabolic process (GO:0006563)	1/10	6.979474e-03	4.086410e-02	0	0	1.707436e+02	8.477047e+02	PSAT1
+GO_Biological_Process_2021	serine family amino acid biosynthetic process (GO:0009070)	1/12	8.369936e-03	4.086410e-02	0	0	1.396853e+02	6.681301e+02	PSAT1
+GO_Biological_Process_2021	mitotic G1/S transition checkpoint signaling (GO:0044819)	1/12	8.369936e-03	4.086410e-02	0	0	1.396853e+02	6.681301e+02	CCND1
+GO_Biological_Process_2021	mitotic cell cycle phase transition (GO:0044772)	2/209	9.105134e-03	4.086410e-02	0	0	1.592512e+01	7.483082e+01	CCND1;CDKN3
+GO_Biological_Process_2021	response to UV-A (GO:0070141)	1/14	9.758591e-03	4.086410e-02	0	0	1.181834e+02	5.471429e+02	CCND1
+GO_Biological_Process_2021	sodium-independent organic anion transport (GO:0043252)	1/14	9.758591e-03	4.086410e-02	0	0	1.181834e+02	5.471429e+02	SLCO4A1
+GO_Biological_Process_2021	positive regulation of cyclin-dependent protein serine/threonine kinase activity (GO:0045737)	1/17	1.183819e-02	4.439143e-02	0	0	9.600962e+01	4.259394e+02	CCND1
+GO_Biological_Process_2021	atrioventricular valve morphogenesis (GO:0003181)	1/19	1.322233e-02	4.439143e-02	0	0	8.533333e+01	3.691390e+02	OLFM1
+GO_Biological_Process_2021	positive regulation of G2/M transition of mitotic cell cycle (GO:0010971)	1/20	1.391373e-02	4.439143e-02	0	0	8.083806e+01	3.455729e+02	CCND1
+GO_Biological_Process_2021	positive regulation of cyclin-dependent protein kinase activity (GO:1904031)	1/20	1.391373e-02	4.439143e-02	0	0	8.083806e+01	3.455729e+02	CCND1
+GO_Biological_Process_2021	cardiac epithelial to mesenchymal transition (GO:0060317)	1/20	1.391373e-02	4.439143e-02	0	0	8.083806e+01	3.455729e+02	OLFM1
+GO_Biological_Process_2021	positive regulation of cell cycle G2/M phase transition (GO:1902751)	1/23	1.598523e-02	4.868228e-02	0	0	6.980420e+01	2.887165e+02	CCND1
+GO_Biological_Process_2021	regulation of cell cycle (GO:0051726)	2/296	1.766549e-02	5.039707e-02	0	0	1.116327e+01	4.505652e+01	CCND1;CDKN3
+GO_Biological_Process_2021	positive regulation of G1/S transition of mitotic cell cycle (GO:1900087)	1/26	1.805268e-02	5.039707e-02	0	0	6.141846e+01	2.465620e+02	CCND1
+GO_Biological_Process_2021	regulation of developmental growth (GO:0048638)	1/31	2.148948e-02	5.759180e-02	0	0	5.116923e+01	1.964997e+02	OLFM1
+GO_Biological_Process_2021	positive regulation of cell cycle G1/S phase transition (GO:1902808)	1/35	2.423087e-02	6.244110e-02	0	0	4.514027e+01	1.679276e+02	CCND1
+GO_Biological_Process_2021	regulation of axon extension (GO:0030516)	1/38	2.628224e-02	6.521888e-02	0	0	4.147401e+01	1.509182e+02	OLFM1
+GO_Biological_Process_2021	positive regulation of epithelial to mesenchymal transition (GO:0010718)	1/42	2.901116e-02	6.941956e-02	0	0	3.742026e+01	1.324705e+02	OLFM1
+GO_Biological_Process_2021	epithelial to mesenchymal transition (GO:0001837)	1/47	3.241233e-02	7.488365e-02	0	0	3.334448e+01	1.143454e+02	OLFM1
+GO_Biological_Process_2021	organic hydroxy compound biosynthetic process (GO:1901617)	1/50	3.444771e-02	7.693323e-02	0	0	3.129827e+01	1.054224e+02	PSAT1
+GO_Biological_Process_2021	heart morphogenesis (GO:0003007)	1/53	3.647913e-02	7.884198e-02	0	0	2.948817e+01	9.763576e+01	OLFM1
+GO_Biological_Process_2021	positive regulation of mitotic cell cycle phase transition (GO:1901992)	1/58	3.985599e-02	8.191408e-02	0	0	2.689474e+01	8.666782e+01	CCND1
+GO_Biological_Process_2021	mitotic DNA damage checkpoint signaling (GO:0044773)	1/59	4.053005e-02	8.191408e-02	0	0	2.642971e+01	8.472602e+01	CCND1
+GO_Biological_Process_2021	regulation of DNA-templated transcription, initiation (GO:2000142)	1/61	4.187684e-02	8.191408e-02	0	0	2.554615e+01	8.105852e+01	CCND1
+GO_Biological_Process_2021	regulation of transcription initiation from RNA polymerase II promoter (GO:0060260)	1/64	4.389373e-02	8.191408e-02	0	0	2.432601e+01	7.604270e+01	CCND1
+GO_Biological_Process_2021	mitotic G1 DNA damage checkpoint signaling (GO:0031571)	1/65	4.456515e-02	8.191408e-02	0	0	2.394471e+01	7.448728e+01	CCND1
+GO_Biological_Process_2021	positive regulation of cell cycle (GO:0045787)	1/66	4.523614e-02	8.191408e-02	0	0	2.357515e+01	7.298534e+01	CCND1
+GO_Biological_Process_2021	regulation of G1/S transition of mitotic cell cycle (GO:2000045)	1/71	4.858449e-02	8.566213e-02	0	0	2.188571e+01	6.619227e+01	CCND1
+GO_Biological_Process_2021	regulation of epithelial to mesenchymal transition (GO:0010717)	1/76	5.192195e-02	8.919924e-02	0	0	2.042154e+01	6.040719e+01	OLFM1
+GO_Biological_Process_2021	response to UV (GO:0009411)	1/99	6.713468e-02	1.097079e-01	0	0	1.561068e+01	4.216528e+01	CCND1
+GO_Biological_Process_2021	organic anion transport (GO:0015711)	1/99	6.713468e-02	1.097079e-01	0	0	1.561068e+01	4.216528e+01	SLCO4A1
+GO_Biological_Process_2021	positive regulation of protein serine/threonine kinase activity (GO:0071902)	1/106	7.171946e-02	1.144096e-01	0	0	1.456484e+01	3.837824e+01	CCND1
+GO_Biological_Process_2021	regulation of G2/M transition of mitotic cell cycle (GO:0010389)	1/149	9.942720e-02	1.549214e-01	0	0	1.031081e+01	2.380075e+01	CCND1
+GO_Biological_Process_2021	negative regulation of macromolecule metabolic process (GO:0010605)	1/194	1.275999e-01	1.942998e-01	0	0	7.888800e+00	1.624190e+01	OLFM1
+GO_Biological_Process_2021	positive regulation of protein modification process (GO:0031401)	1/214	1.398565e-01	2.082307e-01	0	0	7.140845e+00	1.404703e+01	CCND1
+GO_Biological_Process_2021	positive regulation of phosphorylation (GO:0042327)	1/253	1.632982e-01	2.370093e-01	0	0	6.023810e+00	1.091621e+01	CCND1
+GO_Biological_Process_2021	positive regulation of cell differentiation (GO:0045597)	1/258	1.662603e-01	2.370093e-01	0	0	5.905118e+00	1.059497e+01	OLFM1
+GO_Biological_Process_2021	regulation of protein phosphorylation (GO:0001932)	1/266	1.709793e-01	2.386587e-01	0	0	5.724528e+00	1.011073e+01	CCND1
+GO_Biological_Process_2021	positive regulation of programmed cell death (GO:0043068)	1/286	1.826687e-01	2.497715e-01	0	0	5.317409e+00	9.040026e+00	OLFM1
+GO_Biological_Process_2021	positive regulation of apoptotic process (GO:0043065)	1/310	1.964939e-01	2.633018e-01	0	0	4.898432e+00	7.970356e+00	OLFM1
+GO_Biological_Process_2021	negative regulation of gene expression (GO:0010629)	1/322	2.033247e-01	2.671129e-01	0	0	4.712437e+00	7.506681e+00	OLFM1
+GO_Biological_Process_2021	positive regulation of multicellular organismal process (GO:0051240)	1/345	2.162667e-01	2.769177e-01	0	0	4.392218e+00	6.725552e+00	OLFM1
+GO_Biological_Process_2021	cellular response to DNA damage stimulus (GO:0006974)	1/350	2.190543e-01	2.769177e-01	0	0	4.328190e+00	6.572079e+00	CCND1
+GO_Biological_Process_2021	positive regulation of protein phosphorylation (GO:0001934)	1/371	2.306616e-01	2.844708e-01	0	0	4.078170e+00	5.981875e+00	CCND1
+GO_Biological_Process_2021	negative regulation of cell population proliferation (GO:0008285)	1/379	2.350412e-01	2.844708e-01	0	0	3.990232e+00	5.777834e+00	CDKN3
+GO_Biological_Process_2021	positive regulation of macromolecule metabolic process (GO:0010604)	1/384	2.377666e-01	2.844708e-01	0	0	3.937136e+00	5.655561e+00	OLFM1
+GO_Biological_Process_2021	positive regulation of gene expression (GO:0010628)	1/482	2.893988e-01	3.343055e-01	0	0	3.119303e+00	3.867778e+00	OLFM1
+GO_Biological_Process_2021	cellular response to cytokine stimulus (GO:0071345)	1/482	2.893988e-01	3.343055e-01	0	0	3.119303e+00	3.867778e+00	CCND1
+GO_Biological_Process_2021	negative regulation of cellular process (GO:0048523)	1/566	3.310501e-01	3.759382e-01	0	0	2.644112e+00	2.923027e+00	CDKN3
+GO_Biological_Process_2021	cytokine-mediated signaling pathway (GO:0019221)	1/621	3.570812e-01	3.942424e-01	0	0	2.402730e+00	2.474312e+00	CCND1
+GO_Biological_Process_2021	positive regulation of cellular process (GO:0048522)	1/625	3.589371e-01	3.942424e-01	0	0	2.386834e+00	2.445570e+00	CCND1
+GO_Biological_Process_2021	negative regulation of transcription by RNA polymerase II (GO:0000122)	1/684	3.857415e-01	4.168496e-01	0	0	2.174006e+00	2.070932e+00	CCND1
+GO_Biological_Process_2021	regulation of apoptotic process (GO:0042981)	1/742	4.110738e-01	4.371737e-01	0	0	1.997820e+00	1.776027e+00	OLFM1
+GO_Biological_Process_2021	regulation of cell population proliferation (GO:0042127)	1/764	4.204262e-01	4.401337e-01	0	0	1.937998e+00	1.679249e+00	CDKN3
+GO_Biological_Process_2021	negative regulation of transcription, DNA-templated (GO:0045892)	1/948	4.934174e-01	5.085995e-01	0	0	1.546503e+00	1.092450e+00	CCND1
+GO_Biological_Process_2021	regulation of gene expression (GO:0010468)	1/1079	5.400769e-01	5.482599e-01	0	0	1.349222e+00	8.311798e-01	OLFM1
+GO_Biological_Process_2021	regulation of transcription by RNA polymerase II (GO:0006357)	1/2206	8.053890e-01	8.053890e-01	0	0	6.203035e-01	1.342523e-01	CCND1

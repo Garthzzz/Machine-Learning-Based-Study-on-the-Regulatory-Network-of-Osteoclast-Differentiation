@@ -1,0 +1,68 @@
+Gene_set	Term	Overlap	P-value	Adjusted P-value	Old P-value	Old Adjusted P-value	Odds Ratio	Combined Score	Genes
+GO_Biological_Process_2021	modulation by host of viral process (GO:0044788)	1/12	3.594998e-03	4.718895e-02	0	0	3.633273e+02	2.044883e+03	IFI27
+GO_Biological_Process_2021	regulation of nucleocytoplasmic transport (GO:0046822)	1/13	3.894096e-03	4.718895e-02	0	0	3.330333e+02	1.847767e+03	IFI27
+GO_Biological_Process_2021	chondroitin sulfate catabolic process (GO:0030207)	1/13	3.894096e-03	4.718895e-02	0	0	3.330333e+02	1.847767e+03	ARSB
+GO_Biological_Process_2021	modulation by host of viral genome replication (GO:0044827)	1/15	4.492068e-03	4.718895e-02	0	0	2.854286e+02	1.542868e+03	IFI27
+GO_Biological_Process_2021	negative regulation of cyclin-dependent protein serine/threonine kinase activity (GO:0045736)	1/20	5.985691e-03	4.718895e-02	0	0	2.102632e+02	1.076207e+03	CDKN1C
+GO_Biological_Process_2021	negative regulation of cyclin-dependent protein kinase activity (GO:1904030)	1/22	6.582617e-03	4.718895e-02	0	0	1.902190e+02	9.555317e+02	CDKN1C
+GO_Biological_Process_2021	negative regulation of phosphate metabolic process (GO:0045936)	1/22	6.582617e-03	4.718895e-02	0	0	1.902190e+02	9.555317e+02	CDKN1C
+GO_Biological_Process_2021	regulation of protein export from nucleus (GO:0046825)	1/23	6.880968e-03	4.718895e-02	0	0	1.815636e+02	9.040046e+02	IFI27
+GO_Biological_Process_2021	positive regulation of cellular response to transforming growth factor beta stimulus (GO:1903846)	1/24	7.179245e-03	4.718895e-02	0	0	1.736609e+02	8.572875e+02	CDKN1C
+GO_Biological_Process_2021	positive regulation of transforming growth factor beta receptor signaling pathway (GO:0030511)	1/24	7.179245e-03	4.718895e-02	0	0	1.736609e+02	8.572875e+02	CDKN1C
+GO_Biological_Process_2021	negative regulation of transferase activity (GO:0051348)	1/29	8.669509e-03	4.718895e-02	0	0	1.426143e+02	6.771245e+02	CDKN1C
+GO_Biological_Process_2021	chondroitin sulfate metabolic process (GO:0030204)	1/30	8.967338e-03	4.718895e-02	0	0	1.376897e+02	6.490920e+02	ARSB
+GO_Biological_Process_2021	regulation of intracellular protein transport (GO:0033157)	1/32	9.562772e-03	4.718895e-02	0	0	1.287935e+02	5.988742e+02	IFI27
+GO_Biological_Process_2021	lytic vacuole organization (GO:0080171)	1/33	9.860378e-03	4.718895e-02	0	0	1.247625e+02	5.763068e+02	ARSB
+GO_Biological_Process_2021	lysosome organization (GO:0007040)	1/38	1.134729e-02	5.000516e-02	0	0	1.078757e+02	4.831510e+02	ARSB
+GO_Biological_Process_2021	sulfur compound catabolic process (GO:0044273)	1/40	1.194153e-02	5.000516e-02	0	0	1.023333e+02	4.531047e+02	ARSB
+GO_Biological_Process_2021	negative regulation of mitotic cell cycle (GO:0045930)	1/48	1.431553e-02	5.184325e-02	0	0	8.488085e+01	3.604389e+02	CDKN1C
+GO_Biological_Process_2021	regulation of epithelial cell migration (GO:0010632)	1/51	1.520455e-02	5.184325e-02	0	0	7.977600e+01	3.339551e+02	ARSB
+GO_Biological_Process_2021	regulation of cyclin-dependent protein kinase activity (GO:1904029)	1/54	1.609291e-02	5.184325e-02	0	0	7.524906e+01	3.107317e+02	CDKN1C
+GO_Biological_Process_2021	glycosaminoglycan catabolic process (GO:0006027)	1/56	1.668477e-02	5.184325e-02	0	0	7.250545e+01	2.967836e+02	ARSB
+GO_Biological_Process_2021	protein K48-linked ubiquitination (GO:0070936)	1/57	1.698059e-02	5.184325e-02	0	0	7.120714e+01	2.902178e+02	IFI27
+GO_Biological_Process_2021	negative regulation of kinase activity (GO:0033673)	1/62	1.845859e-02	5.184325e-02	0	0	6.535410e+01	2.609083e+02	CDKN1C
+GO_Biological_Process_2021	amyloid fibril formation (GO:1990000)	1/63	1.875397e-02	5.184325e-02	0	0	6.429677e+01	2.556665e+02	MFGE8
+GO_Biological_Process_2021	type I interferon signaling pathway (GO:0060337)	1/65	1.934450e-02	5.184325e-02	0	0	6.228125e+01	2.457212e+02	IFI27
+GO_Biological_Process_2021	cellular response to type I interferon (GO:0071357)	1/65	1.934450e-02	5.184325e-02	0	0	6.228125e+01	2.457212e+02	IFI27
+GO_Biological_Process_2021	negative regulation of epithelial cell proliferation (GO:0050680)	1/72	2.140903e-02	5.187658e-02	0	0	5.612113e+01	2.157264e+02	CDKN1C
+GO_Biological_Process_2021	extrinsic apoptotic signaling pathway (GO:0097191)	1/72	2.140903e-02	5.187658e-02	0	0	5.612113e+01	2.157264e+02	IFI27
+GO_Biological_Process_2021	negative regulation of protein serine/threonine kinase activity (GO:0071901)	1/78	2.317574e-02	5.187658e-02	0	0	5.173247e+01	1.947546e+02	CDKN1C
+GO_Biological_Process_2021	negative regulation of cell cycle (GO:0045786)	1/80	2.376405e-02	5.187658e-02	0	0	5.041772e+01	1.885412e+02	CDKN1C
+GO_Biological_Process_2021	regulation of cyclin-dependent protein serine/threonine kinase activity (GO:0000079)	1/82	2.435207e-02	5.187658e-02	0	0	4.916790e+01	1.826656e+02	CDKN1C
+GO_Biological_Process_2021	negative regulation of phosphorylation (GO:0042326)	1/86	2.552722e-02	5.187658e-02	0	0	4.684471e+01	1.718268e+02	CDKN1C
+GO_Biological_Process_2021	positive regulation of neuron projection development (GO:0010976)	1/88	2.611435e-02	5.187658e-02	0	0	4.576322e+01	1.668193e+02	ARSB
+GO_Biological_Process_2021	negative regulation of protein kinase activity (GO:0006469)	1/90	2.670119e-02	5.187658e-02	0	0	4.473034e+01	1.620601e+02	CDKN1C
+GO_Biological_Process_2021	positive regulation of transmembrane receptor protein serine/threonine kinase signaling pathway (GO:0090100)	1/92	2.728773e-02	5.187658e-02	0	0	4.374286e+01	1.575319e+02	CDKN1C
+GO_Biological_Process_2021	regulation of epithelial cell proliferation (GO:0050678)	1/93	2.758090e-02	5.187658e-02	0	0	4.326522e+01	1.553495e+02	CDKN1C
+GO_Biological_Process_2021	regulation of kinase activity (GO:0043549)	1/94	2.787398e-02	5.187658e-02	0	0	4.279785e+01	1.532189e+02	CDKN1C
+GO_Biological_Process_2021	regulation of transforming growth factor beta receptor signaling pathway (GO:0017015)	1/100	2.963096e-02	5.226082e-02	0	0	4.019192e+01	1.414328e+02	CDKN1C
+GO_Biological_Process_2021	negative regulation of transcription, DNA-templated (GO:0045892)	2/948	2.964046e-02	5.226082e-02	0	0	1.006765e+01	3.542419e+01	CDKN1C;IFI27
+GO_Biological_Process_2021	positive regulation of cell projection organization (GO:0031346)	1/117	3.459471e-02	5.943194e-02	0	0	3.427241e+01	1.152943e+02	ARSB
+GO_Biological_Process_2021	defense response to symbiont (GO:0140546)	1/124	3.663245e-02	6.033801e-02	0	0	3.231057e+01	1.068453e+02	IFI27
+GO_Biological_Process_2021	regulation of phosphorylation (GO:0042325)	1/125	3.692326e-02	6.033801e-02	0	0	3.204839e+01	1.057249e+02	CDKN1C
+GO_Biological_Process_2021	defense response to virus (GO:0051607)	1/133	3.924713e-02	6.260851e-02	0	0	3.009394e+01	9.744047e+01	IFI27
+GO_Biological_Process_2021	regulation of neuron projection development (GO:0010975)	1/165	4.849593e-02	7.556342e-02	0	0	2.418293e+01	7.318420e+01	ARSB
+GO_Biological_Process_2021	regulation of mitotic cell cycle (GO:0007346)	1/178	5.223200e-02	7.953509e-02	0	0	2.239209e+01	6.610279e+01	CDKN1C
+GO_Biological_Process_2021	proteasomal protein catabolic process (GO:0010498)	1/205	5.995248e-02	8.926258e-02	0	0	1.940196e+01	5.460106e+01	IFI27
+GO_Biological_Process_2021	apoptotic process (GO:0006915)	1/231	6.733742e-02	9.807841e-02	0	0	1.718609e+01	4.636874e+01	IFI27
+GO_Biological_Process_2021	innate immune response (GO:0045087)	1/302	8.725813e-02	1.243893e-01	0	0	1.308505e+01	3.191293e+01	IFI27
+GO_Biological_Process_2021	protein polyubiquitination (GO:0000209)	1/314	9.058972e-02	1.264482e-01	0	0	1.257572e+01	3.019951e+01	IFI27
+GO_Biological_Process_2021	proteasome-mediated ubiquitin-dependent protein catabolic process (GO:0043161)	1/321	9.252846e-02	1.265185e-01	0	0	1.229625e+01	2.926801e+01	IFI27
+GO_Biological_Process_2021	post-translational protein modification (GO:0043687)	1/345	9.914945e-02	1.309359e-01	0	0	1.142442e+01	2.640328e+01	MFGE8
+GO_Biological_Process_2021	supramolecular fiber organization (GO:0097435)	1/351	1.007984e-01	1.309359e-01	0	0	1.122514e+01	2.575758e+01	MFGE8
+GO_Biological_Process_2021	ubiquitin-dependent protein catabolic process (GO:0006511)	1/354	1.016219e-01	1.309359e-01	0	0	1.112805e+01	2.544423e+01	IFI27
+GO_Biological_Process_2021	negative regulation of cell population proliferation (GO:0008285)	1/379	1.084602e-01	1.371101e-01	0	0	1.037884e+01	2.305525e+01	CDKN1C
+GO_Biological_Process_2021	regulation of cell migration (GO:0030334)	1/408	1.163383e-01	1.443457e-01	0	0	9.625061e+00	2.070594e+01	ARSB
+GO_Biological_Process_2021	cellular protein metabolic process (GO:0044267)	1/417	1.187714e-01	1.446851e-01	0	0	9.412500e+00	2.005385e+01	MFGE8
+GO_Biological_Process_2021	negative regulation of nucleic acid-templated transcription (GO:1903507)	1/464	1.313870e-01	1.564515e-01	0	0	8.436717e+00	1.712323e+01	CDKN1C
+GO_Biological_Process_2021	neutrophil degranulation (GO:0043312)	1/481	1.359128e-01	1.564515e-01	0	0	8.130833e+00	1.622704e+01	ARSB
+GO_Biological_Process_2021	neutrophil activation involved in immune response (GO:0002283)	1/485	1.369749e-01	1.564515e-01	0	0	8.061983e+00	1.602688e+01	ARSB
+GO_Biological_Process_2021	neutrophil mediated immunity (GO:0002446)	1/488	1.377707e-01	1.564515e-01	0	0	8.011088e+00	1.587930e+01	ARSB
+GO_Biological_Process_2021	positive regulation of nucleic acid-templated transcription (GO:1903508)	1/511	1.438517e-01	1.606344e-01	0	0	7.640784e+00	1.481527e+01	CDKN1C
+GO_Biological_Process_2021	negative regulation of cellular macromolecule biosynthetic process (GO:2000113)	1/547	1.532980e-01	1.683765e-01	0	0	7.123810e+00	1.335979e+01	CDKN1C
+GO_Biological_Process_2021	cytokine-mediated signaling pathway (GO:0019221)	1/621	1.724429e-01	1.863496e-01	0	0	6.249677e+00	1.098499e+01	IFI27
+GO_Biological_Process_2021	negative regulation of transcription by RNA polymerase II (GO:0000122)	1/684	1.884563e-01	2.004218e-01	0	0	5.654758e+00	9.437163e+00	IFI27
+GO_Biological_Process_2021	cellular protein modification process (GO:0006464)	1/1025	2.707215e-01	2.834116e-01	0	0	3.705078e+00	4.841295e+00	MFGE8
+GO_Biological_Process_2021	positive regulation of transcription, DNA-templated (GO:0045893)	1/1183	3.064111e-01	3.158391e-01	0	0	3.183080e+00	3.765035e+00	CDKN1C
+GO_Biological_Process_2021	regulation of transcription by RNA polymerase II (GO:0006357)	1/2206	5.040685e-01	5.103901e-01	0	0	1.613515e+00	1.105327e+00	IFI27
+GO_Biological_Process_2021	regulation of transcription, DNA-templated (GO:0006355)	1/2244	5.103901e-01	5.103901e-01	0	0	1.582791e+00	1.064554e+00	CDKN1C

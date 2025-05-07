@@ -1,0 +1,1091 @@
+Gene_set	Term	Overlap	P-value	Adjusted P-value	Old P-value	Old Adjusted P-value	Odds Ratio	Combined Score	Genes
+GO_Biological_Process_2021	regulation of macrophage activation (GO:0043030)	4/30	2.896793e-05	3.157504e-02	0	0	2.656187e+01	2.775535e+02	CD74;NR1H3;FCGR2B;GPR137B
+GO_Biological_Process_2021	regulation of leukocyte activation (GO:0002694)	3/16	1.086879e-04	5.704474e-02	0	0	3.952520e+01	3.607477e+02	CD74;GPR137B;CD33
+GO_Biological_Process_2021	positive regulation of fatty acid metabolic process (GO:0045923)	3/18	1.570039e-04	5.704474e-02	0	0	3.425172e+01	3.000191e+02	APOC2;NR1H3;PPARD
+GO_Biological_Process_2021	fatty acid transport (GO:0015908)	3/20	2.174473e-04	5.925438e-02	0	0	3.021907e+01	2.548541e+02	FABP5;APOE;PPARD
+GO_Biological_Process_2021	acylglycerol homeostasis (GO:0055090)	3/25	4.292963e-04	7.884911e-02	0	0	2.334522e+01	1.810040e+02	APOC2;NR1H3;APOE
+GO_Biological_Process_2021	chylomicron remnant clearance (GO:0034382)	2/7	7.229704e-04	7.884911e-02	0	0	6.795214e+01	4.914395e+02	APOC2;APOE
+GO_Biological_Process_2021	triglyceride homeostasis (GO:0070328)	3/31	8.174677e-04	7.884911e-02	0	0	1.833713e+01	1.303641e+02	APOC2;NR1H3;APOE
+GO_Biological_Process_2021	regulation of dendritic spine maintenance (GO:1902950)	2/8	9.602110e-04	7.884911e-02	0	0	5.662393e+01	3.934433e+02	APOE;FCGR2B
+GO_Biological_Process_2021	positive regulation of lipoprotein lipase activity (GO:0051006)	2/8	9.602110e-04	7.884911e-02	0	0	5.662393e+01	3.934433e+02	APOC2;NR1H3
+GO_Biological_Process_2021	positive regulation of oligodendrocyte differentiation (GO:0048714)	2/8	9.602110e-04	7.884911e-02	0	0	5.662393e+01	3.934433e+02	CXCR4;TNFRSF1B
+GO_Biological_Process_2021	positive regulation of lipid biosynthetic process (GO:0046889)	3/35	1.169862e-03	7.884911e-02	0	0	1.604176e+01	1.082958e+02	APOC2;NR1H3;APOE
+GO_Biological_Process_2021	cholesterol catabolic process (GO:0006707)	2/9	1.229757e-03	7.884911e-02	0	0	4.853236e+01	3.252124e+02	CYP27A1;APOE
+GO_Biological_Process_2021	chylomicron remodeling (GO:0034371)	2/9	1.229757e-03	7.884911e-02	0	0	4.853236e+01	3.252124e+02	APOC2;APOE
+GO_Biological_Process_2021	positive regulation of macrophage cytokine production (GO:0060907)	2/9	1.229757e-03	7.884911e-02	0	0	4.853236e+01	3.252124e+02	CD74;GPRC5B
+GO_Biological_Process_2021	sterol catabolic process (GO:0016127)	2/9	1.229757e-03	7.884911e-02	0	0	4.853236e+01	3.252124e+02	CYP27A1;APOE
+GO_Biological_Process_2021	positive regulation of triglyceride lipase activity (GO:0061365)	2/9	1.229757e-03	7.884911e-02	0	0	4.853236e+01	3.252124e+02	APOC2;NR1H3
+GO_Biological_Process_2021	very-low-density lipoprotein particle remodeling (GO:0034372)	2/9	1.229757e-03	7.884911e-02	0	0	4.853236e+01	3.252124e+02	APOC2;APOE
+GO_Biological_Process_2021	negative regulation of cholesterol storage (GO:0010887)	2/10	1.531221e-03	7.947768e-02	0	0	4.246368e+01	2.752364e+02	NR1H3;PPARD
+GO_Biological_Process_2021	chylomicron assembly (GO:0034378)	2/10	1.531221e-03	7.947768e-02	0	0	4.246368e+01	2.752364e+02	APOC2;APOE
+GO_Biological_Process_2021	positive regulation of lipase activity (GO:0060193)	2/10	1.531221e-03	7.947768e-02	0	0	4.246368e+01	2.752364e+02	APOC2;RHOC
+GO_Biological_Process_2021	immunoglobulin mediated immune response (GO:0016064)	2/10	1.531221e-03	7.947768e-02	0	0	4.246368e+01	2.752364e+02	CD74;FCGR2B
+GO_Biological_Process_2021	alcohol catabolic process (GO:0046164)	2/11	1.864222e-03	8.834790e-02	0	0	3.774359e+01	2.372151e+02	CYP27A1;APOE
+GO_Biological_Process_2021	B cell mediated immunity (GO:0019724)	2/11	1.864222e-03	8.834790e-02	0	0	3.774359e+01	2.372151e+02	CD74;FCGR2B
+GO_Biological_Process_2021	second-messenger-mediated signaling (GO:0019932)	4/89	1.970816e-03	8.904885e-02	0	0	8.100665e+00	5.046154e+01	P2RX4;HTR2B;CXCR4;APOE
+GO_Biological_Process_2021	regulation of cytokine production (GO:0001817)	5/150	2.042405e-03	8.904885e-02	0	0	5.969752e+00	3.697442e+01	CD28;HTR2B;TNFRSF1B;FCGR2B;PLD3
+GO_Biological_Process_2021	positive regulation of transport (GO:0051050)	4/91	2.137775e-03	8.962213e-02	0	0	7.913643e+00	4.865300e+01	NR1H3;APOE;MERTK;FCGR2B
+GO_Biological_Process_2021	phospholipid efflux (GO:0033700)	2/12	2.228379e-03	8.996047e-02	0	0	3.396752e+01	2.074220e+02	APOC2;APOE
+GO_Biological_Process_2021	positive regulation of fatty acid biosynthetic process (GO:0045723)	2/13	2.623316e-03	9.386177e-02	0	0	3.087801e+01	1.835178e+02	APOC2;NR1H3
+GO_Biological_Process_2021	triglyceride-rich lipoprotein particle remodeling (GO:0034370)	2/13	2.623316e-03	9.386177e-02	0	0	3.087801e+01	1.835178e+02	APOC2;APOE
+GO_Biological_Process_2021	antigen processing and presentation of exogenous peptide antigen via MHC class II (GO:0019886)	4/98	2.798875e-03	9.386177e-02	0	0	7.321739e+00	4.304112e+01	CD74;KIF3A;FCGR2B;CTSS
+GO_Biological_Process_2021	antigen processing and presentation of peptide antigen via MHC class II (GO:0002495)	4/100	3.010786e-03	9.386177e-02	0	0	7.168478e+00	4.161699e+01	CD74;KIF3A;FCGR2B;CTSS
+GO_Biological_Process_2021	negative regulation of secretion (GO:0051048)	2/14	3.048660e-03	9.386177e-02	0	0	2.830342e+01	1.639632e+02	CD74;NR1H3
+GO_Biological_Process_2021	cGMP-mediated signaling (GO:0019934)	2/14	3.048660e-03	9.386177e-02	0	0	2.830342e+01	1.639632e+02	HTR2B;APOE
+GO_Biological_Process_2021	regulation of macrophage cytokine production (GO:0010935)	2/14	3.048660e-03	9.386177e-02	0	0	2.830342e+01	1.639632e+02	CD74;GPRC5B
+GO_Biological_Process_2021	regulation of response to endoplasmic reticulum stress (GO:1905897)	2/14	3.048660e-03	9.386177e-02	0	0	2.830342e+01	1.639632e+02	NR1H3;FCGR2B
+GO_Biological_Process_2021	secondary alcohol metabolic process (GO:1902652)	3/49	3.100022e-03	9.386177e-02	0	0	1.115161e+01	6.441557e+01	CYP27A1;APOE;PPARD
+GO_Biological_Process_2021	antigen processing and presentation of exogenous peptide antigen (GO:0002478)	4/103	3.348825e-03	9.548512e-02	0	0	6.950198e+00	3.961019e+01	CD74;KIF3A;FCGR2B;CTSS
+GO_Biological_Process_2021	negative regulation of leukocyte activation (GO:0002695)	2/15	3.504041e-03	9.548512e-02	0	0	2.612492e+01	1.477061e+02	NR1H3;FCGR2B
+GO_Biological_Process_2021	cellular response to ATP (GO:0071318)	2/15	3.504041e-03	9.548512e-02	0	0	2.612492e+01	1.477061e+02	P2RX4;P2RY1
+GO_Biological_Process_2021	positive regulation of membrane protein ectodomain proteolysis (GO:0051044)	2/15	3.504041e-03	9.548512e-02	0	0	2.612492e+01	1.477061e+02	APOE;TNFRSF1B
+GO_Biological_Process_2021	negative regulation of macrophage activation (GO:0043031)	2/16	3.989094e-03	9.882074e-02	0	0	2.425763e+01	1.340038e+02	NR1H3;FCGR2B
+GO_Biological_Process_2021	regulation of cholesterol storage (GO:0010885)	2/16	3.989094e-03	9.882074e-02	0	0	2.425763e+01	1.340038e+02	NR1H3;PPARD
+GO_Biological_Process_2021	polyol biosynthetic process (GO:0046173)	2/16	3.989094e-03	9.882074e-02	0	0	2.425763e+01	1.340038e+02	CYP27A1;ITPKB
+GO_Biological_Process_2021	positive regulation of myeloid leukocyte cytokine production involved in immune response (GO:0061081)	2/16	3.989094e-03	9.882074e-02	0	0	2.425763e+01	1.340038e+02	CD74;GPRC5B
+GO_Biological_Process_2021	regulation of blood vessel endothelial cell migration (GO:0043535)	3/55	4.301742e-03	1.022659e-01	0	0	9.861903e+00	5.373490e+01	P2RX4;AKT3;APOE
+GO_Biological_Process_2021	positive regulation of cellular biosynthetic process (GO:0031328)	5/180	4.466575e-03	1.022659e-01	0	0	4.938847e+00	2.672476e+01	P2RX4;APOC2;CD28;NR1H3;CPEB3
+GO_Biological_Process_2021	response to purine-containing compound (GO:0014074)	2/17	4.503455e-03	1.022659e-01	0	0	2.263932e+01	1.223182e+02	P2RX4;P2RY1
+GO_Biological_Process_2021	reverse cholesterol transport (GO:0043691)	2/17	4.503455e-03	1.022659e-01	0	0	2.263932e+01	1.223182e+02	APOC2;APOE
+GO_Biological_Process_2021	amyloid precursor protein metabolic process (GO:0042982)	2/18	5.046763e-03	1.057879e-01	0	0	2.122329e+01	1.122502e+02	PSEN2;APOE
+GO_Biological_Process_2021	positive regulation of glial cell differentiation (GO:0045687)	2/18	5.046763e-03	1.057879e-01	0	0	2.122329e+01	1.122502e+02	CXCR4;TNFRSF1B
+GO_Biological_Process_2021	high-density lipoprotein particle remodeling (GO:0034375)	2/18	5.046763e-03	1.057879e-01	0	0	2.122329e+01	1.122502e+02	APOC2;APOE
+GO_Biological_Process_2021	positive regulation of nitric-oxide synthase activity (GO:0051000)	2/18	5.046763e-03	1.057879e-01	0	0	2.122329e+01	1.122502e+02	HTR2B;APOE
+GO_Biological_Process_2021	regulation of oligodendrocyte differentiation (GO:0048713)	2/19	5.618663e-03	1.074446e-01	0	0	1.997386e+01	1.034978e+02	CXCR4;TNFRSF1B
+GO_Biological_Process_2021	positive regulation of cellular protein catabolic process (GO:1903364)	2/19	5.618663e-03	1.074446e-01	0	0	1.997386e+01	1.034978e+02	RNF128;APOE
+GO_Biological_Process_2021	response to ATP (GO:0033198)	2/19	5.618663e-03	1.074446e-01	0	0	1.997386e+01	1.034978e+02	P2RX4;P2RY1
+GO_Biological_Process_2021	long-term memory (GO:0007616)	2/19	5.618663e-03	1.074446e-01	0	0	1.997386e+01	1.034978e+02	APOE;CPEB3
+GO_Biological_Process_2021	positive regulation of triglyceride metabolic process (GO:0090208)	2/19	5.618663e-03	1.074446e-01	0	0	1.997386e+01	1.034978e+02	APOC2;NR1H3
+GO_Biological_Process_2021	negative regulation of response to stimulus (GO:0048585)	3/61	5.751033e-03	1.080798e-01	0	0	8.839031e+00	4.559504e+01	AKT3;NR1H3;FCGR2B
+GO_Biological_Process_2021	negative regulation of lipid storage (GO:0010888)	2/20	6.218801e-03	1.148897e-01	0	0	1.886325e+01	9.582866e+01	NR1H3;PPARD
+GO_Biological_Process_2021	lipid homeostasis (GO:0055088)	3/64	6.572524e-03	1.194009e-01	0	0	8.403053e+00	4.222414e+01	NR1H3;ACOX3;APOE
+GO_Biological_Process_2021	regulation of dendritic spine development (GO:0060998)	2/21	6.846825e-03	1.203716e-01	0	0	1.786955e+01	8.906128e+01	APOE;CPEB3
+GO_Biological_Process_2021	regulation of lipoprotein lipase activity (GO:0051004)	2/21	6.846825e-03	1.203716e-01	0	0	1.786955e+01	8.906128e+01	APOC2;NR1H3
+GO_Biological_Process_2021	regulation of membrane protein ectodomain proteolysis (GO:0051043)	2/22	7.502390e-03	1.277751e-01	0	0	1.697521e+01	8.305180e+01	APOE;TNFRSF1B
+GO_Biological_Process_2021	positive regulation of dendritic spine development (GO:0060999)	2/22	7.502390e-03	1.277751e-01	0	0	1.697521e+01	8.305180e+01	APOE;CPEB3
+GO_Biological_Process_2021	regulation of inflammatory response (GO:0050727)	5/206	7.822936e-03	1.311846e-01	0	0	4.294318e+00	2.083043e+01	GPRC5B;NR1H3;APOE;TNFRSF1B;PPARD
+GO_Biological_Process_2021	positive regulation of cholesterol efflux (GO:0010875)	2/23	8.185150e-03	1.328122e-01	0	0	1.616606e+01	7.768491e+01	NR1H3;APOE
+GO_Biological_Process_2021	sterol metabolic process (GO:0016125)	3/70	8.415974e-03	1.328122e-01	0	0	7.648224e+00	3.654034e+01	CYP27A1;APOE;PPARD
+GO_Biological_Process_2021	cholesterol homeostasis (GO:0042632)	3/71	8.749711e-03	1.328122e-01	0	0	7.535370e+00	3.570812e+01	APOC2;NR1H3;APOE
+GO_Biological_Process_2021	negative regulation of inflammatory response (GO:0050728)	5/212	8.794042e-03	1.328122e-01	0	0	4.168574e+00	1.973270e+01	GNG2;NR1H3;APOE;TNFRSF1B;PPARD
+GO_Biological_Process_2021	cholesterol efflux (GO:0033344)	2/24	8.894764e-03	1.328122e-01	0	0	1.543046e+01	7.286714e+01	APOC2;APOE
+GO_Biological_Process_2021	regulation of ruffle assembly (GO:1900027)	2/24	8.894764e-03	1.328122e-01	0	0	1.543046e+01	7.286714e+01	P2RX4;ARHGAP24
+GO_Biological_Process_2021	positive regulation of transcription from RNA polymerase II promoter in response to stress (GO:0036003)	2/24	8.894764e-03	1.328122e-01	0	0	1.543046e+01	7.286714e+01	ATF3;NFE2L2
+GO_Biological_Process_2021	wound healing, spreading of cells (GO:0044319)	2/24	8.894764e-03	1.328122e-01	0	0	1.543046e+01	7.286714e+01	RHOC;ARHGAP24
+GO_Biological_Process_2021	sterol homeostasis (GO:0055092)	3/72	9.091122e-03	1.339098e-01	0	0	7.425787e+00	3.490459e+01	APOC2;NR1H3;APOE
+GO_Biological_Process_2021	negative regulation of endocytosis (GO:0045806)	2/25	9.630894e-03	1.363334e-01	0	0	1.475883e+01	6.852197e+01	APOC2;NR1H3
+GO_Biological_Process_2021	regulation of cholesterol transport (GO:0032374)	2/25	9.630894e-03	1.363334e-01	0	0	1.475883e+01	6.852197e+01	APOC2;NR1H3
+GO_Biological_Process_2021	positive regulation of lipid metabolic process (GO:0045834)	2/25	9.630894e-03	1.363334e-01	0	0	1.475883e+01	6.852197e+01	APOE;PPARD
+GO_Biological_Process_2021	cholesterol metabolic process (GO:0008203)	3/77	1.091450e-02	1.525232e-01	0	0	6.922297e+00	3.127261e+01	CYP27A1;APOE;PPARD
+GO_Biological_Process_2021	regulation of blood coagulation (GO:0030193)	2/27	1.118136e-02	1.542745e-01	0	0	1.357675e+01	6.100723e+01	APOE;HPSE
+GO_Biological_Process_2021	positive regulation of monooxygenase activity (GO:0032770)	2/28	1.199504e-02	1.634325e-01	0	0	1.305391e+01	5.774087e+01	HTR2B;APOE
+GO_Biological_Process_2021	cellular response to oxygen-containing compound (GO:1901701)	6/323	1.283294e-02	1.705972e-01	0	0	3.276960e+00	1.427359e+01	GNG2;P2RX4;P2RY1;NR1H3;CPEB3;TNFRSF1B
+GO_Biological_Process_2021	regulation of fatty acid biosynthetic process (GO:0042304)	2/29	1.283392e-02	1.705972e-01	0	0	1.256980e+01	5.474983e+01	APOC2;NR1H3
+GO_Biological_Process_2021	plasma membrane invagination (GO:0099024)	2/30	1.369766e-02	1.798849e-01	0	0	1.212027e+01	5.200238e+01	FCGR2B;ARHGAP25
+GO_Biological_Process_2021	negative regulation of defense response (GO:0031348)	3/85	1.424221e-02	1.848097e-01	0	0	6.244428e+00	2.654847e+01	NR1H3;APOE;PPARD
+GO_Biological_Process_2021	regulation of chemotaxis (GO:0050920)	2/32	1.549847e-02	1.964341e-01	0	0	1.131111e+01	4.713356e+01	P2RX4;CXCR4
+GO_Biological_Process_2021	long-chain fatty acid transport (GO:0015909)	2/32	1.549847e-02	1.964341e-01	0	0	1.131111e+01	4.713356e+01	FABP5;APOE
+GO_Biological_Process_2021	positive regulation of protein kinase B signaling (GO:0051897)	4/161	1.571965e-02	1.969474e-01	0	0	4.369759e+00	1.814693e+01	P2RX4;GAB1;CD28;HPSE
+GO_Biological_Process_2021	positive regulation of intracellular signal transduction (GO:1902533)	8/546	1.641275e-02	1.990451e-01	0	0	2.591246e+00	1.064923e+01	CD74;GPRC5B;P2RX4;GAB1;CD28;HTR2B;HPSE;RHOC
+GO_Biological_Process_2021	regulation of cholesterol efflux (GO:0010874)	2/33	1.643491e-02	1.990451e-01	0	0	1.094569e+01	4.496868e+01	NR1H3;APOE
+GO_Biological_Process_2021	positive regulation of cholesterol transport (GO:0032376)	2/33	1.643491e-02	1.990451e-01	0	0	1.094569e+01	4.496868e+01	NR1H3;APOE
+GO_Biological_Process_2021	positive regulation of multicellular organismal process (GO:0051240)	6/345	1.722341e-02	2.056597e-01	0	0	3.060850e+00	1.243160e+01	FABP5;APOC2;CD28;HTR2B;CXCR4;APOE
+GO_Biological_Process_2021	regulation of endothelial cell proliferation (GO:0001936)	3/92	1.757592e-02	2.056597e-01	0	0	5.751259e+00	2.324213e+01	AKT3;HTR2B;APOE
+GO_Biological_Process_2021	T cell activation (GO:0042110)	3/92	1.757592e-02	2.056597e-01	0	0	5.751259e+00	2.324213e+01	CD74;KIF13B;CD28
+GO_Biological_Process_2021	positive regulation of phosphorylation (GO:0042327)	5/253	1.773579e-02	2.056597e-01	0	0	3.472163e+00	1.400035e+01	CD74;RAP2A;P2RY1;PLAUR;MERTK
+GO_Biological_Process_2021	positive regulation of I-kappaB kinase/NF-kappaB signaling (GO:0043123)	4/171	1.916937e-02	2.150303e-01	0	0	4.106014e+00	1.623699e+01	CD74;GPRC5B;HTR2B;RHOC
+GO_Biological_Process_2021	cyclic-nucleotide-mediated signaling (GO:0019935)	2/36	1.938463e-02	2.150303e-01	0	0	9.978381e+00	3.934750e+01	HTR2B;APOE
+GO_Biological_Process_2021	positive regulation of cytokine-mediated signaling pathway (GO:0001961)	2/36	1.938463e-02	2.150303e-01	0	0	9.978381e+00	3.934750e+01	CD74;CXCR4
+GO_Biological_Process_2021	positive regulation of ERK1 and ERK2 cascade (GO:0070374)	4/172	1.953806e-02	2.150303e-01	0	0	4.081366e+00	1.606177e+01	CD74;P2RY1;HTR2B;APOE
+GO_Biological_Process_2021	phagocytosis, engulfment (GO:0006911)	2/37	2.041365e-02	2.150303e-01	0	0	9.692796e+00	3.772001e+01	FCGR2B;ARHGAP25
+GO_Biological_Process_2021	regulation of protein autophosphorylation (GO:0031952)	2/37	2.041365e-02	2.150303e-01	0	0	9.692796e+00	3.772001e+01	RAP2A;ENPP1
+GO_Biological_Process_2021	regulation of protein phosphorylation (GO:0001932)	5/266	2.149836e-02	2.150303e-01	0	0	3.297036e+00	1.265989e+01	CD74;RAP2A;P2RY1;PLAUR;ATF3
+GO_Biological_Process_2021	negative regulation of protein secretion (GO:0050709)	2/39	2.253855e-02	2.150303e-01	0	0	9.167937e+00	3.476966e+01	NR1H3;APOE
+GO_Biological_Process_2021	negative regulation of secretion by cell (GO:1903531)	2/39	2.253855e-02	2.150303e-01	0	0	9.167937e+00	3.476966e+01	APOE;TNFRSF1B
+GO_Biological_Process_2021	regulation of nitric-oxide synthase activity (GO:0050999)	2/39	2.253855e-02	2.150303e-01	0	0	9.167937e+00	3.476966e+01	HTR2B;APOE
+GO_Biological_Process_2021	calcium-mediated signaling (GO:0019722)	3/102	2.303066e-02	2.150303e-01	0	0	5.167712e+00	1.948707e+01	P2RX4;HTR2B;CXCR4
+GO_Biological_Process_2021	positive regulation of cellular protein metabolic process (GO:0032270)	3/102	2.303066e-02	2.150303e-01	0	0	5.167712e+00	1.948707e+01	CD28;NR1H3;CPEB3
+GO_Biological_Process_2021	cellular response to organonitrogen compound (GO:0071417)	3/103	2.362112e-02	2.150303e-01	0	0	5.115776e+00	1.916172e+01	P2RX4;P2RY1;CPEB3
+GO_Biological_Process_2021	negative regulation of blood coagulation (GO:0030195)	2/40	2.363383e-02	2.150303e-01	0	0	8.926226e+00	3.342940e+01	PLAUR;APOE
+GO_Biological_Process_2021	positive regulation of cation transmembrane transport (GO:1904064)	2/41	2.475061e-02	2.150303e-01	0	0	8.696910e+00	3.216904e+01	GNG2;CTSS
+GO_Biological_Process_2021	positive regulation of cellular metabolic process (GO:0031325)	3/105	2.482657e-02	2.150303e-01	0	0	5.014959e+00	1.853449e+01	NR1H3;APOE;PPARD
+GO_Biological_Process_2021	neutrophil degranulation (GO:0043312)	7/481	2.497980e-02	2.150303e-01	0	0	2.558940e+00	9.441689e+00	FABP5;MGST1;PLAUR;HPSE;TNFRSF1B;CTSS;CD33
+GO_Biological_Process_2021	phosphatidylinositol phosphate biosynthetic process (GO:0046854)	2/42	2.588860e-02	2.150303e-01	0	0	8.479060e+00	3.098208e+01	ITPKB;SOCS6
+GO_Biological_Process_2021	negative regulation of apoptotic process (GO:0043066)	7/485	2.597873e-02	2.150303e-01	0	0	2.537003e+00	9.261272e+00	CD74;PSEN2;CD28;HTR2B;PLAUR;APOE;MERTK
+GO_Biological_Process_2021	neutrophil activation involved in immune response (GO:0002283)	7/485	2.597873e-02	2.150303e-01	0	0	2.537003e+00	9.261272e+00	FABP5;MGST1;PLAUR;HPSE;TNFRSF1B;CTSS;CD33
+GO_Biological_Process_2021	neutrophil mediated immunity (GO:0002446)	7/488	2.674570e-02	2.150303e-01	0	0	2.520790e+00	9.128742e+00	FABP5;MGST1;PLAUR;HPSE;TNFRSF1B;CTSS;CD33
+GO_Biological_Process_2021	lipid transport (GO:0006869)	3/109	2.733556e-02	2.150303e-01	0	0	4.824740e+00	1.736697e+01	FABP5;APOE;PPARD
+GO_Biological_Process_2021	pyrimidine nucleoside transport (GO:0015864)	1/5	2.940080e-02	2.150303e-01	0	0	4.211229e+01	1.485188e+02	SLC29A1
+GO_Biological_Process_2021	negative regulation of cholesterol biosynthetic process (GO:0045541)	1/5	2.940080e-02	2.150303e-01	0	0	4.211229e+01	1.485188e+02	APOE
+GO_Biological_Process_2021	negative regulation of cholesterol metabolic process (GO:0090206)	1/5	2.940080e-02	2.150303e-01	0	0	4.211229e+01	1.485188e+02	APOE
+GO_Biological_Process_2021	negative regulation of cysteine-type endopeptidase activity involved in apoptotic signaling pathway (GO:2001268)	1/5	2.940080e-02	2.150303e-01	0	0	4.211229e+01	1.485188e+02	PLAUR
+GO_Biological_Process_2021	negative regulation of dendritic cell differentiation (GO:2001199)	1/5	2.940080e-02	2.150303e-01	0	0	4.211229e+01	1.485188e+02	FCGR2B
+GO_Biological_Process_2021	negative regulation of immunoglobulin production (GO:0002638)	1/5	2.940080e-02	2.150303e-01	0	0	4.211229e+01	1.485188e+02	FCGR2B
+GO_Biological_Process_2021	negative regulation of leukocyte differentiation (GO:1902106)	1/5	2.940080e-02	2.150303e-01	0	0	4.211229e+01	1.485188e+02	FCGR2B
+GO_Biological_Process_2021	negative regulation of lipid transport (GO:0032369)	1/5	2.940080e-02	2.150303e-01	0	0	4.211229e+01	1.485188e+02	NR1H3
+GO_Biological_Process_2021	negative regulation of pinocytosis (GO:0048550)	1/5	2.940080e-02	2.150303e-01	0	0	4.211229e+01	1.485188e+02	NR1H3
+GO_Biological_Process_2021	negative regulation of sterol biosynthetic process (GO:0106119)	1/5	2.940080e-02	2.150303e-01	0	0	4.211229e+01	1.485188e+02	APOE
+GO_Biological_Process_2021	chemokine (C-X-C motif) ligand 12 signaling pathway (GO:0038146)	1/5	2.940080e-02	2.150303e-01	0	0	4.211229e+01	1.485188e+02	CXCR4
+GO_Biological_Process_2021	regulation of low-density lipoprotein particle receptor catabolic process (GO:0032803)	1/5	2.940080e-02	2.150303e-01	0	0	4.211229e+01	1.485188e+02	APOE
+GO_Biological_Process_2021	nucleoside transport (GO:0015858)	1/5	2.940080e-02	2.150303e-01	0	0	4.211229e+01	1.485188e+02	SLC29A1
+GO_Biological_Process_2021	nucleoside triphosphate catabolic process (GO:0009143)	1/5	2.940080e-02	2.150303e-01	0	0	4.211229e+01	1.485188e+02	ENPP1
+GO_Biological_Process_2021	regulation of neutrophil activation (GO:1902563)	1/5	2.940080e-02	2.150303e-01	0	0	4.211229e+01	1.485188e+02	FCGR2B
+GO_Biological_Process_2021	peptidyl-lysine oxidation (GO:0018057)	1/5	2.940080e-02	2.150303e-01	0	0	4.211229e+01	1.485188e+02	LOX
+GO_Biological_Process_2021	regulation of phosphatidylinositol biosynthetic process (GO:0010511)	1/5	2.940080e-02	2.150303e-01	0	0	4.211229e+01	1.485188e+02	HTR2B
+GO_Biological_Process_2021	plus-end-directed vesicle transport along microtubule (GO:0072383)	1/5	2.940080e-02	2.150303e-01	0	0	4.211229e+01	1.485188e+02	KIF3A
+GO_Biological_Process_2021	gastro-intestinal system smooth muscle contraction (GO:0014831)	1/5	2.940080e-02	2.150303e-01	0	0	4.211229e+01	1.485188e+02	HTR2B
+GO_Biological_Process_2021	glutathione transport (GO:0034635)	1/5	2.940080e-02	2.150303e-01	0	0	4.211229e+01	1.485188e+02	MGST1
+GO_Biological_Process_2021	lipid transport across blood-brain barrier (GO:1990379)	1/5	2.940080e-02	2.150303e-01	0	0	4.211229e+01	1.485188e+02	FABP5
+GO_Biological_Process_2021	positive regulation of prostaglandin biosynthetic process (GO:0031394)	1/5	2.940080e-02	2.150303e-01	0	0	4.211229e+01	1.485188e+02	CD74
+GO_Biological_Process_2021	positive regulation of prostaglandin secretion (GO:0032308)	1/5	2.940080e-02	2.150303e-01	0	0	4.211229e+01	1.485188e+02	P2RX4
+GO_Biological_Process_2021	positive regulation of protein catabolic process in the vacuole (GO:1904352)	1/5	2.940080e-02	2.150303e-01	0	0	4.211229e+01	1.485188e+02	RNF128
+GO_Biological_Process_2021	positive regulation of transcription from RNA polymerase II promoter in response to hypoxia (GO:0061419)	1/5	2.940080e-02	2.150303e-01	0	0	4.211229e+01	1.485188e+02	NFE2L2
+GO_Biological_Process_2021	uridine transport (GO:0015862)	1/5	2.940080e-02	2.150303e-01	0	0	4.211229e+01	1.485188e+02	SLC29A1
+GO_Biological_Process_2021	vitamin D3 metabolic process (GO:0070640)	1/5	2.940080e-02	2.150303e-01	0	0	4.211229e+01	1.485188e+02	CYP27A1
+GO_Biological_Process_2021	regulation of B cell proliferation (GO:0030888)	2/46	3.064696e-02	2.150303e-01	0	0	7.706682e+00	2.685950e+01	CD74;FCGR2B
+GO_Biological_Process_2021	positive regulation of cellular component organization (GO:0051130)	3/114	3.065517e-02	2.150303e-01	0	0	4.606244e+00	1.605255e+01	APOC2;APOE;RHOC
+GO_Biological_Process_2021	calcium ion transport (GO:0006816)	3/115	3.134345e-02	2.150303e-01	0	0	4.564886e+00	1.580706e+01	MCOLN3;P2RX4;PSEN2
+GO_Biological_Process_2021	cellular response to molecule of bacterial origin (GO:0071219)	3/115	3.134345e-02	2.150303e-01	0	0	4.564886e+00	1.580706e+01	NR1H3;TNFRSF1B;FCGR2B
+GO_Biological_Process_2021	regulation of interleukin-10 production (GO:0032653)	2/48	3.314604e-02	2.150303e-01	0	0	7.370866e+00	2.511130e+01	CD28;FCGR2B
+GO_Biological_Process_2021	regulation of protein metabolic process (GO:0051246)	2/48	3.314604e-02	2.150303e-01	0	0	7.370866e+00	2.511130e+01	PLAUR;APOE
+GO_Biological_Process_2021	positive regulation of blood vessel endothelial cell migration (GO:0043536)	2/48	3.314604e-02	2.150303e-01	0	0	7.370866e+00	2.511130e+01	P2RX4;AKT3
+GO_Biological_Process_2021	negative regulation of response to external stimulus (GO:0032102)	3/118	3.345684e-02	2.150303e-01	0	0	4.445127e+00	1.510232e+01	NR1H3;APOE;PPARD
+GO_Biological_Process_2021	regulation of cellular protein metabolic process (GO:0032268)	2/49	3.442460e-02	2.150303e-01	0	0	7.213675e+00	2.430276e+01	NR1H3;APOE
+GO_Biological_Process_2021	negative regulation of B cell receptor signaling pathway (GO:0050859)	1/6	3.517729e-02	2.150303e-01	0	0	3.368814e+01	1.127661e+02	FCGR2B
+GO_Biological_Process_2021	pteridine-containing compound biosynthetic process (GO:0042559)	1/6	3.517729e-02	2.150303e-01	0	0	3.368814e+01	1.127661e+02	MTHFS
+GO_Biological_Process_2021	negative regulation of glycogen biosynthetic process (GO:0045719)	1/6	3.517729e-02	2.150303e-01	0	0	3.368814e+01	1.127661e+02	ENPP1
+GO_Biological_Process_2021	negative regulation of lipoprotein particle clearance (GO:0010985)	1/6	3.517729e-02	2.150303e-01	0	0	3.368814e+01	1.127661e+02	APOC2
+GO_Biological_Process_2021	cellular phosphate ion homeostasis (GO:0030643)	1/6	3.517729e-02	2.150303e-01	0	0	3.368814e+01	1.127661e+02	ENPP1
+GO_Biological_Process_2021	cellular trivalent inorganic anion homeostasis (GO:0072502)	1/6	3.517729e-02	2.150303e-01	0	0	3.368814e+01	1.127661e+02	ENPP1
+GO_Biological_Process_2021	neurotransmitter-gated ion channel clustering (GO:0072578)	1/6	3.517729e-02	2.150303e-01	0	0	3.368814e+01	1.127661e+02	APOE
+GO_Biological_Process_2021	regulation of macromolecule biosynthetic process (GO:0010556)	1/6	3.517729e-02	2.150303e-01	0	0	3.368814e+01	1.127661e+02	TNFRSF1B
+GO_Biological_Process_2021	plus-end-directed organelle transport along microtubule (GO:0072386)	1/6	3.517729e-02	2.150303e-01	0	0	3.368814e+01	1.127661e+02	KIF3A
+GO_Biological_Process_2021	regulation of type 2 immune response (GO:0002828)	1/6	3.517729e-02	2.150303e-01	0	0	3.368814e+01	1.127661e+02	CD74
+GO_Biological_Process_2021	regulation of very-low-density lipoprotein particle remodeling (GO:0010901)	1/6	3.517729e-02	2.150303e-01	0	0	3.368814e+01	1.127661e+02	APOC2
+GO_Biological_Process_2021	positive regulation of extrinsic apoptotic signaling pathway via death domain receptors (GO:1902043)	1/6	3.517729e-02	2.150303e-01	0	0	3.368814e+01	1.127661e+02	ATF3
+GO_Biological_Process_2021	response to catecholamine (GO:0071869)	1/6	3.517729e-02	2.150303e-01	0	0	3.368814e+01	1.127661e+02	GNG2
+GO_Biological_Process_2021	positive regulation of microglial cell migration (GO:1904141)	1/6	3.517729e-02	2.150303e-01	0	0	3.368814e+01	1.127661e+02	P2RX4
+GO_Biological_Process_2021	positive regulation of osteoblast proliferation (GO:0033690)	1/6	3.517729e-02	2.150303e-01	0	0	3.368814e+01	1.127661e+02	HPSE
+GO_Biological_Process_2021	striated muscle hypertrophy (GO:0014897)	1/6	3.517729e-02	2.150303e-01	0	0	3.368814e+01	1.127661e+02	HTR2B
+GO_Biological_Process_2021	T-helper 17 cell lineage commitment (GO:0072540)	1/6	3.517729e-02	2.150303e-01	0	0	3.368814e+01	1.127661e+02	LY9
+GO_Biological_Process_2021	positive regulation of sterol transport (GO:0032373)	1/6	3.517729e-02	2.150303e-01	0	0	3.368814e+01	1.127661e+02	NR1H3
+GO_Biological_Process_2021	regulation of protein kinase B signaling (GO:0051896)	4/207	3.526924e-02	2.150303e-01	0	0	3.371686e+00	1.127743e+01	P2RX4;GAB1;CD28;HPSE
+GO_Biological_Process_2021	negative regulation of transport (GO:0051051)	2/51	3.703839e-02	2.150303e-01	0	0	6.918542e+00	2.280213e+01	NR1H3;FCGR2B
+GO_Biological_Process_2021	cholesterol transport (GO:0030301)	2/51	3.703839e-02	2.150303e-01	0	0	6.918542e+00	2.280213e+01	APOC2;APOE
+GO_Biological_Process_2021	fatty acid beta-oxidation (GO:0006635)	2/52	3.837310e-02	2.150303e-01	0	0	6.779829e+00	2.210495e+01	ACOX3;PPARD
+GO_Biological_Process_2021	positive regulation of protein modification process (GO:0031401)	4/214	3.909087e-02	2.150303e-01	0	0	3.258137e+00	1.056244e+01	CD74;RAP2A;P2RY1;PLAUR
+GO_Biological_Process_2021	positive regulation of phagocytosis (GO:0050766)	2/53	3.972599e-02	2.150303e-01	0	0	6.646556e+00	2.144013e+01	MERTK;FCGR2B
+GO_Biological_Process_2021	adenylate cyclase-activating dopamine receptor signaling pathway (GO:0007191)	1/7	4.091969e-02	2.150303e-01	0	0	2.807203e+01	8.972226e+01	GNG2
+GO_Biological_Process_2021	negative regulation of cytoplasmic translation (GO:2000766)	1/7	4.091969e-02	2.150303e-01	0	0	2.807203e+01	8.972226e+01	CPEB3
+GO_Biological_Process_2021	negative regulation of digestive system process (GO:0060457)	1/7	4.091969e-02	2.150303e-01	0	0	2.807203e+01	8.972226e+01	NR1H3
+GO_Biological_Process_2021	negative regulation of glycogen metabolic process (GO:0070874)	1/7	4.091969e-02	2.150303e-01	0	0	2.807203e+01	8.972226e+01	ENPP1
+GO_Biological_Process_2021	negative regulation of interferon-gamma-mediated signaling pathway (GO:0060336)	1/7	4.091969e-02	2.150303e-01	0	0	2.807203e+01	8.972226e+01	NR1H3
+GO_Biological_Process_2021	negative regulation of response to interferon-gamma (GO:0060331)	1/7	4.091969e-02	2.150303e-01	0	0	2.807203e+01	8.972226e+01	NR1H3
+GO_Biological_Process_2021	negative regulation of ruffle assembly (GO:1900028)	1/7	4.091969e-02	2.150303e-01	0	0	2.807203e+01	8.972226e+01	ARHGAP24
+GO_Biological_Process_2021	cellular response to laminar fluid shear stress (GO:0071499)	1/7	4.091969e-02	2.150303e-01	0	0	2.807203e+01	8.972226e+01	NFE2L2
+GO_Biological_Process_2021	cellular response to monoamine stimulus (GO:0071868)	1/7	4.091969e-02	2.150303e-01	0	0	2.807203e+01	8.972226e+01	GNG2
+GO_Biological_Process_2021	cellular response to prostaglandin E stimulus (GO:0071380)	1/7	4.091969e-02	2.150303e-01	0	0	2.807203e+01	8.972226e+01	GNG2
+GO_Biological_Process_2021	Notch receptor processing, ligand-dependent (GO:0035333)	1/7	4.091969e-02	2.150303e-01	0	0	2.807203e+01	8.972226e+01	PSEN2
+GO_Biological_Process_2021	regulation of microglial cell migration (GO:1904139)	1/7	4.091969e-02	2.150303e-01	0	0	2.807203e+01	8.972226e+01	P2RX4
+GO_Biological_Process_2021	regulation of prostaglandin biosynthetic process (GO:0031392)	1/7	4.091969e-02	2.150303e-01	0	0	2.807203e+01	8.972226e+01	CD74
+GO_Biological_Process_2021	positive regulation of amyloid-beta clearance (GO:1900223)	1/7	4.091969e-02	2.150303e-01	0	0	2.807203e+01	8.972226e+01	APOE
+GO_Biological_Process_2021	flavin-containing compound metabolic process (GO:0042726)	1/7	4.091969e-02	2.150303e-01	0	0	2.807203e+01	8.972226e+01	ENPP1
+GO_Biological_Process_2021	positive regulation of chemokine (C-X-C motif) ligand 2 production (GO:2000343)	1/7	4.091969e-02	2.150303e-01	0	0	2.807203e+01	8.972226e+01	CD74
+GO_Biological_Process_2021	glial cell migration (GO:0008347)	1/7	4.091969e-02	2.150303e-01	0	0	2.807203e+01	8.972226e+01	P2RX4
+GO_Biological_Process_2021	positive regulation of ER-associated ubiquitin-dependent protein catabolic process (GO:1903071)	1/7	4.091969e-02	2.150303e-01	0	0	2.807203e+01	8.972226e+01	NFE2L2
+GO_Biological_Process_2021	positive regulation of humoral immune response (GO:0002922)	1/7	4.091969e-02	2.150303e-01	0	0	2.807203e+01	8.972226e+01	FCGR2B
+GO_Biological_Process_2021	positive regulation of icosanoid secretion (GO:0032305)	1/7	4.091969e-02	2.150303e-01	0	0	2.807203e+01	8.972226e+01	P2RX4
+GO_Biological_Process_2021	riboflavin metabolic process (GO:0006771)	1/7	4.091969e-02	2.150303e-01	0	0	2.807203e+01	8.972226e+01	ENPP1
+GO_Biological_Process_2021	positive regulation of phospholipid biosynthetic process (GO:0071073)	1/7	4.091969e-02	2.150303e-01	0	0	2.807203e+01	8.972226e+01	HTR2B
+GO_Biological_Process_2021	positive regulation of receptor catabolic process (GO:2000646)	1/7	4.091969e-02	2.150303e-01	0	0	2.807203e+01	8.972226e+01	APOE
+GO_Biological_Process_2021	T-helper 17 cell differentiation (GO:0072539)	1/7	4.091969e-02	2.150303e-01	0	0	2.807203e+01	8.972226e+01	LY9
+GO_Biological_Process_2021	positive regulation of unsaturated fatty acid biosynthetic process (GO:2001280)	1/7	4.091969e-02	2.150303e-01	0	0	2.807203e+01	8.972226e+01	CD74
+GO_Biological_Process_2021	mitochondrion-endoplasmic reticulum membrane tethering (GO:1990456)	1/7	4.091969e-02	2.150303e-01	0	0	2.807203e+01	8.972226e+01	PSEN2
+GO_Biological_Process_2021	negative regulation of acute inflammatory response (GO:0002674)	1/7	4.091969e-02	2.150303e-01	0	0	2.807203e+01	8.972226e+01	FCGR2B
+GO_Biological_Process_2021	cellular response to insulin stimulus (GO:0032869)	3/129	4.182286e-02	2.150303e-01	0	0	4.054803e+00	1.287121e+01	GAB1;MYO5A;ENPP1
+GO_Biological_Process_2021	triglyceride metabolic process (GO:0006641)	2/55	4.248531e-02	2.150303e-01	0	0	6.395098e+00	2.019953e+01	FABP5;APOE
+GO_Biological_Process_2021	regulation of response to external stimulus (GO:0032101)	3/130	4.263095e-02	2.150303e-01	0	0	4.022672e+00	1.269223e+01	P2RX4;CXCR4;FCGR2B
+GO_Biological_Process_2021	negative regulation of metabolic process (GO:0009892)	2/56	4.389123e-02	2.150303e-01	0	0	6.276353e+00	1.962014e+01	APOC2;NR1H3
+GO_Biological_Process_2021	regulation of I-kappaB kinase/NF-kappaB signaling (GO:0043122)	4/224	4.494640e-02	2.150303e-01	0	0	3.108458e+00	9.643323e+00	CD74;GPRC5B;HTR2B;RHOC
+GO_Biological_Process_2021	positive regulation of proteolysis (GO:0045862)	2/57	4.531430e-02	2.150303e-01	0	0	6.161927e+00	1.906582e+01	APOE;TNFRSF1B
+GO_Biological_Process_2021	negative regulation of cAMP-dependent protein kinase activity (GO:2000480)	1/8	4.662820e-02	2.150303e-01	0	0	2.406053e+01	7.375876e+01	PKIB
+GO_Biological_Process_2021	negative regulation of glucose import (GO:0046325)	1/8	4.662820e-02	2.150303e-01	0	0	2.406053e+01	7.375876e+01	ENPP1
+GO_Biological_Process_2021	regulation of Cdc42 protein signal transduction (GO:0032489)	1/8	4.662820e-02	2.150303e-01	0	0	2.406053e+01	7.375876e+01	APOE
+GO_Biological_Process_2021	negative regulation of long-term synaptic potentiation (GO:1900272)	1/8	4.662820e-02	2.150303e-01	0	0	2.406053e+01	7.375876e+01	APOE
+GO_Biological_Process_2021	cardiac muscle hypertrophy (GO:0003300)	1/8	4.662820e-02	2.150303e-01	0	0	2.406053e+01	7.375876e+01	HTR2B
+GO_Biological_Process_2021	negative regulation of muscle hypertrophy (GO:0014741)	1/8	4.662820e-02	2.150303e-01	0	0	2.406053e+01	7.375876e+01	P2RX4
+GO_Biological_Process_2021	regulation of cytoplasmic translational elongation (GO:1900247)	1/8	4.662820e-02	2.150303e-01	0	0	2.406053e+01	7.375876e+01	CPEB3
+GO_Biological_Process_2021	regulation of extent of cell growth (GO:0061387)	1/8	4.662820e-02	2.150303e-01	0	0	2.406053e+01	7.375876e+01	APOE
+GO_Biological_Process_2021	regulation of extracellular matrix constituent secretion (GO:0003330)	1/8	4.662820e-02	2.150303e-01	0	0	2.406053e+01	7.375876e+01	TNFRSF1B
+GO_Biological_Process_2021	negative regulation of response to reactive oxygen species (GO:1901032)	1/8	4.662820e-02	2.150303e-01	0	0	2.406053e+01	7.375876e+01	NFE2L2
+GO_Biological_Process_2021	negative regulation of T cell mediated cytotoxicity (GO:0001915)	1/8	4.662820e-02	2.150303e-01	0	0	2.406053e+01	7.375876e+01	FCGR2B
+GO_Biological_Process_2021	neurotransmitter reuptake (GO:0098810)	1/8	4.662820e-02	2.150303e-01	0	0	2.406053e+01	7.375876e+01	SLC29A1
+GO_Biological_Process_2021	regulation of nitrogen compound metabolic process (GO:0051171)	1/8	4.662820e-02	2.150303e-01	0	0	2.406053e+01	7.375876e+01	APOE
+GO_Biological_Process_2021	regulation of RNA biosynthetic process (GO:2001141)	1/8	4.662820e-02	2.150303e-01	0	0	2.406053e+01	7.375876e+01	TNFRSF1B
+GO_Biological_Process_2021	positive regulation of cell migration by vascular endothelial growth factor signaling pathway (GO:0038089)	1/8	4.662820e-02	2.150303e-01	0	0	2.406053e+01	7.375876e+01	GAB1
+GO_Biological_Process_2021	fusion of virus membrane with host plasma membrane (GO:0019064)	1/8	4.662820e-02	2.150303e-01	0	0	2.406053e+01	7.375876e+01	CXCR4
+GO_Biological_Process_2021	glyoxylate metabolic process (GO:0046487)	1/8	4.662820e-02	2.150303e-01	0	0	2.406053e+01	7.375876e+01	HYI
+GO_Biological_Process_2021	positive regulation of glial cell migration (GO:1903977)	1/8	4.662820e-02	2.150303e-01	0	0	2.406053e+01	7.375876e+01	P2RX4
+GO_Biological_Process_2021	response to hydroperoxide (GO:0033194)	1/8	4.662820e-02	2.150303e-01	0	0	2.406053e+01	7.375876e+01	GPX3
+GO_Biological_Process_2021	positive regulation of homotypic cell-cell adhesion (GO:0034112)	1/8	4.662820e-02	2.150303e-01	0	0	2.406053e+01	7.375876e+01	PLAUR
+GO_Biological_Process_2021	histidine catabolic process (GO:0006548)	1/8	4.662820e-02	2.150303e-01	0	0	2.406053e+01	7.375876e+01	HAL
+GO_Biological_Process_2021	histidine metabolic process (GO:0006547)	1/8	4.662820e-02	2.150303e-01	0	0	2.406053e+01	7.375876e+01	HAL
+GO_Biological_Process_2021	T-helper cell lineage commitment (GO:0002295)	1/8	4.662820e-02	2.150303e-01	0	0	2.406053e+01	7.375876e+01	LY9
+GO_Biological_Process_2021	membrane fusion involved in viral entry into host cell (GO:0039663)	1/8	4.662820e-02	2.150303e-01	0	0	2.406053e+01	7.375876e+01	CXCR4
+GO_Biological_Process_2021	positive regulation of triglyceride catabolic process (GO:0010898)	1/8	4.662820e-02	2.150303e-01	0	0	2.406053e+01	7.375876e+01	APOC2
+GO_Biological_Process_2021	wound healing, spreading of epidermal cells (GO:0035313)	1/8	4.662820e-02	2.150303e-01	0	0	2.406053e+01	7.375876e+01	ARHGAP24
+GO_Biological_Process_2021	regulation of calcium ion transport (GO:0051924)	2/58	4.675430e-02	2.150303e-01	0	0	6.051587e+00	1.853510e+01	P2RX4;CD33
+GO_Biological_Process_2021	regulation of phagocytosis (GO:0050764)	2/58	4.675430e-02	2.150303e-01	0	0	6.051587e+00	1.853510e+01	MERTK;FCGR2B
+GO_Biological_Process_2021	protein localization to plasma membrane (GO:0072659)	3/136	4.764321e-02	2.181979e-01	0	0	3.840031e+00	1.168911e+01	RAP2A;P2RY1;MYO5A
+GO_Biological_Process_2021	phospholipid transport (GO:0015914)	2/59	4.821095e-02	2.198742e-01	0	0	5.945119e+00	1.802661e+01	APOC2;APOE
+GO_Biological_Process_2021	positive regulation of cytokine production (GO:0001819)	5/335	4.999549e-02	2.208368e-01	0	0	2.598485e+00	7.784599e+00	CD74;CD28;HTR2B;HPSE;LY9
+GO_Biological_Process_2021	protein localization to cell periphery (GO:1990778)	3/140	5.113886e-02	2.208368e-01	0	0	3.727158e+00	1.108163e+01	RAP2A;P2RY1;MYO5A
+GO_Biological_Process_2021	regulation of small GTPase mediated signal transduction (GO:0051056)	3/141	5.203181e-02	2.208368e-01	0	0	3.699963e+00	1.093672e+01	RHOC;ARHGAP25;ARHGAP24
+GO_Biological_Process_2021	positive regulation of cellular catabolic process (GO:0031331)	3/141	5.203181e-02	2.208368e-01	0	0	3.699963e+00	1.093672e+01	APOC2;APOE;TNFRSF1B
+GO_Biological_Process_2021	negative regulation of bone resorption (GO:0045779)	1/9	5.230302e-02	2.208368e-01	0	0	2.105191e+01	6.211789e+01	GPR137B
+GO_Biological_Process_2021	amyloid-beta formation (GO:0034205)	1/9	5.230302e-02	2.208368e-01	0	0	2.105191e+01	6.211789e+01	PSEN2
+GO_Biological_Process_2021	negative regulation of leukocyte degranulation (GO:0043301)	1/9	5.230302e-02	2.208368e-01	0	0	2.105191e+01	6.211789e+01	FCGR2B
+GO_Biological_Process_2021	negative regulation of lipid localization (GO:1905953)	1/9	5.230302e-02	2.208368e-01	0	0	2.105191e+01	6.211789e+01	NR1H3
+GO_Biological_Process_2021	regulation of dendritic cell antigen processing and presentation (GO:0002604)	1/9	5.230302e-02	2.208368e-01	0	0	2.105191e+01	6.211789e+01	FCGR2B
+GO_Biological_Process_2021	negative regulation of production of molecular mediator of immune response (GO:0002701)	1/9	5.230302e-02	2.208368e-01	0	0	2.105191e+01	6.211789e+01	FCGR2B
+GO_Biological_Process_2021	regulation of ER-associated ubiquitin-dependent protein catabolic process (GO:1903069)	1/9	5.230302e-02	2.208368e-01	0	0	2.105191e+01	6.211789e+01	NFE2L2
+GO_Biological_Process_2021	regulation of lipid transport (GO:0032368)	1/9	5.230302e-02	2.208368e-01	0	0	2.105191e+01	6.211789e+01	NR1H3
+GO_Biological_Process_2021	Notch receptor processing (GO:0007220)	1/9	5.230302e-02	2.208368e-01	0	0	2.105191e+01	6.211789e+01	PSEN2
+GO_Biological_Process_2021	regulation of pinocytosis (GO:0048548)	1/9	5.230302e-02	2.208368e-01	0	0	2.105191e+01	6.211789e+01	NR1H3
+GO_Biological_Process_2021	positive regulation of cholesterol esterification (GO:0010873)	1/9	5.230302e-02	2.208368e-01	0	0	2.105191e+01	6.211789e+01	APOE
+GO_Biological_Process_2021	lipoprotein metabolic process (GO:0042157)	1/9	5.230302e-02	2.208368e-01	0	0	2.105191e+01	6.211789e+01	APOE
+GO_Biological_Process_2021	tetrahydrofolate interconversion (GO:0035999)	1/9	5.230302e-02	2.208368e-01	0	0	2.105191e+01	6.211789e+01	MTHFS
+GO_Biological_Process_2021	monocarboxylic acid metabolic process (GO:0032787)	3/143	5.384034e-02	2.208368e-01	0	0	3.646736e+00	1.065479e+01	HYI;MTHFS;PPARD
+GO_Biological_Process_2021	regulation of ERK1 and ERK2 cascade (GO:0070372)	4/238	5.392594e-02	2.208368e-01	0	0	2.920401e+00	8.527992e+00	CD74;P2RY1;HTR2B;APOE
+GO_Biological_Process_2021	actin cytoskeleton reorganization (GO:0031532)	2/63	5.419937e-02	2.208368e-01	0	0	5.554154e+00	1.619084e+01	RAP2A;GAB1
+GO_Biological_Process_2021	negative regulation of intrinsic apoptotic signaling pathway (GO:2001243)	2/64	5.573573e-02	2.208368e-01	0	0	5.464296e+00	1.577615e+01	PLAUR;NFE2L2
+GO_Biological_Process_2021	diterpenoid metabolic process (GO:0016101)	2/64	5.573573e-02	2.208368e-01	0	0	5.464296e+00	1.577615e+01	APOC2;APOE
+GO_Biological_Process_2021	plasma membrane organization (GO:0007009)	2/64	5.573573e-02	2.208368e-01	0	0	5.464296e+00	1.577615e+01	AHNAK2;CXCR4
+GO_Biological_Process_2021	protein catabolic process (GO:0030163)	2/64	5.573573e-02	2.208368e-01	0	0	5.464296e+00	1.577615e+01	APOE;SOCS6
+GO_Biological_Process_2021	chemical homeostasis (GO:0048878)	2/65	5.728731e-02	2.208368e-01	0	0	5.377289e+00	1.537731e+01	NR1H3;ACOX3
+GO_Biological_Process_2021	regulation of RNA metabolic process (GO:0051252)	2/65	5.728731e-02	2.208368e-01	0	0	5.377289e+00	1.537731e+01	AHNAK2;TNFRSF1B
+GO_Biological_Process_2021	positive regulation of cytosolic calcium ion concentration (GO:0007204)	3/147	5.754716e-02	2.208368e-01	0	0	3.544720e+00	1.012071e+01	P2RX4;P2RY1;CXCR4
+GO_Biological_Process_2021	Rap protein signal transduction (GO:0032486)	1/10	5.794434e-02	2.208368e-01	0	0	1.871186e+01	5.329649e+01	RAP2A
+GO_Biological_Process_2021	negative regulation of extracellular matrix organization (GO:1903054)	1/10	5.794434e-02	2.208368e-01	0	0	1.871186e+01	5.329649e+01	TNFRSF1B
+GO_Biological_Process_2021	negative regulation of humoral immune response mediated by circulating immunoglobulin (GO:0002924)	1/10	5.794434e-02	2.208368e-01	0	0	1.871186e+01	5.329649e+01	FCGR2B
+GO_Biological_Process_2021	negative regulation of protein autophosphorylation (GO:0031953)	1/10	5.794434e-02	2.208368e-01	0	0	1.871186e+01	5.329649e+01	ENPP1
+GO_Biological_Process_2021	regulation of hair cycle (GO:0042634)	1/10	5.794434e-02	2.208368e-01	0	0	1.871186e+01	5.329649e+01	HPSE
+GO_Biological_Process_2021	cellular response to prostaglandin stimulus (GO:0071379)	1/10	5.794434e-02	2.208368e-01	0	0	1.871186e+01	5.329649e+01	GNG2
+GO_Biological_Process_2021	cellular response to purine-containing compound (GO:0071415)	1/10	5.794434e-02	2.208368e-01	0	0	1.871186e+01	5.329649e+01	P2RY1
+GO_Biological_Process_2021	regulation of hydrogen peroxide-induced cell death (GO:1903205)	1/10	5.794434e-02	2.208368e-01	0	0	1.871186e+01	5.329649e+01	NFE2L2
+GO_Biological_Process_2021	phosphate ion homeostasis (GO:0055062)	1/10	5.794434e-02	2.208368e-01	0	0	1.871186e+01	5.329649e+01	ENPP1
+GO_Biological_Process_2021	positive regulation by symbiont of entry into host (GO:0075294)	1/10	5.794434e-02	2.208368e-01	0	0	1.871186e+01	5.329649e+01	CD74
+GO_Biological_Process_2021	G protein-coupled serotonin receptor signaling pathway (GO:0098664)	1/10	5.794434e-02	2.208368e-01	0	0	1.871186e+01	5.329649e+01	HTR2B
+GO_Biological_Process_2021	positive regulation of coagulation (GO:0050820)	1/10	5.794434e-02	2.208368e-01	0	0	1.871186e+01	5.329649e+01	HPSE
+GO_Biological_Process_2021	positive regulation of hemostasis (GO:1900048)	1/10	5.794434e-02	2.208368e-01	0	0	1.871186e+01	5.329649e+01	HPSE
+GO_Biological_Process_2021	response to laminar fluid shear stress (GO:0034616)	1/10	5.794434e-02	2.208368e-01	0	0	1.871186e+01	5.329649e+01	NFE2L2
+GO_Biological_Process_2021	positive regulation of monocyte differentiation (GO:0045657)	1/10	5.794434e-02	2.208368e-01	0	0	1.871186e+01	5.329649e+01	CD74
+GO_Biological_Process_2021	positive regulation of mRNA 3'-end processing (GO:0031442)	1/10	5.794434e-02	2.208368e-01	0	0	1.871186e+01	5.329649e+01	CPEB3
+GO_Biological_Process_2021	microtubule anchoring at centrosome (GO:0034454)	1/10	5.794434e-02	2.208368e-01	0	0	1.871186e+01	5.329649e+01	KIF3A
+GO_Biological_Process_2021	positive regulation of toll-like receptor 4 signaling pathway (GO:0034145)	1/10	5.794434e-02	2.208368e-01	0	0	1.871186e+01	5.329649e+01	NR1H3
+GO_Biological_Process_2021	positive regulation of viral entry into host cell (GO:0046598)	1/10	5.794434e-02	2.208368e-01	0	0	1.871186e+01	5.329649e+01	CD74
+GO_Biological_Process_2021	myelin maintenance (GO:0043217)	1/10	5.794434e-02	2.208368e-01	0	0	1.871186e+01	5.329649e+01	CXCR4
+GO_Biological_Process_2021	positive regulation of transferase activity (GO:0051347)	3/148	5.849240e-02	2.213165e-01	0	0	3.520095e+00	9.993052e+00	CD74;PKIB;MERTK
+GO_Biological_Process_2021	cellular response to organic cyclic compound (GO:0071407)	3/150	6.040488e-02	2.213165e-01	0	0	3.471851e+00	9.744393e+00	GNG2;P2RX4;P2RY1
+GO_Biological_Process_2021	regulation of translational initiation (GO:0006446)	2/68	6.203110e-02	2.213165e-01	0	0	5.132090e+00	1.426782e+01	EIF4A2;ATF3
+GO_Biological_Process_2021	actin filament organization (GO:0007015)	3/152	6.234651e-02	2.213165e-01	0	0	3.424902e+00	9.504265e+00	MYO5A;RHOC;ARHGAP25
+GO_Biological_Process_2021	protein oxidation (GO:0018158)	1/11	6.355236e-02	2.213165e-01	0	0	1.683983e+01	4.640874e+01	LOX
+GO_Biological_Process_2021	negative regulation of bone remodeling (GO:0046851)	1/11	6.355236e-02	2.213165e-01	0	0	1.683983e+01	4.640874e+01	GPR137B
+GO_Biological_Process_2021	negative regulation of cholesterol transport (GO:0032375)	1/11	6.355236e-02	2.213165e-01	0	0	1.683983e+01	4.640874e+01	APOC2
+GO_Biological_Process_2021	angiogenesis involved in wound healing (GO:0060055)	1/11	6.355236e-02	2.213165e-01	0	0	1.683983e+01	4.640874e+01	HPSE
+GO_Biological_Process_2021	regulation of cysteine-type endopeptidase activity involved in apoptotic signaling pathway (GO:2001267)	1/11	6.355236e-02	2.213165e-01	0	0	1.683983e+01	4.640874e+01	PLAUR
+GO_Biological_Process_2021	PERK-mediated unfolded protein response (GO:0036499)	1/11	6.355236e-02	2.213165e-01	0	0	1.683983e+01	4.640874e+01	NFE2L2
+GO_Biological_Process_2021	regulation of phospholipase activity (GO:0010517)	1/11	6.355236e-02	2.213165e-01	0	0	1.683983e+01	4.640874e+01	APOC2
+GO_Biological_Process_2021	positive regulation by host of viral process (GO:0044794)	1/11	6.355236e-02	2.213165e-01	0	0	1.683983e+01	4.640874e+01	APOE
+GO_Biological_Process_2021	establishment of epithelial cell apical/basal polarity (GO:0045198)	1/11	6.355236e-02	2.213165e-01	0	0	1.683983e+01	4.640874e+01	RAP2A
+GO_Biological_Process_2021	fatty acid homeostasis (GO:0055089)	1/11	6.355236e-02	2.213165e-01	0	0	1.683983e+01	4.640874e+01	APOE
+GO_Biological_Process_2021	regulation of T cell mediated immunity (GO:0002709)	1/11	6.355236e-02	2.213165e-01	0	0	1.683983e+01	4.640874e+01	TNFRSF1B
+GO_Biological_Process_2021	response to prostaglandin E (GO:0034695)	1/11	6.355236e-02	2.213165e-01	0	0	1.683983e+01	4.640874e+01	GNG2
+GO_Biological_Process_2021	inositol phosphate biosynthetic process (GO:0032958)	1/11	6.355236e-02	2.213165e-01	0	0	1.683983e+01	4.640874e+01	ITPKB
+GO_Biological_Process_2021	positive regulation of myelination (GO:0031643)	1/11	6.355236e-02	2.213165e-01	0	0	1.683983e+01	4.640874e+01	TNFRSF1B
+GO_Biological_Process_2021	positive regulation of phospholipid transport (GO:2001140)	1/11	6.355236e-02	2.213165e-01	0	0	1.683983e+01	4.640874e+01	APOE
+GO_Biological_Process_2021	lipoprotein biosynthetic process (GO:0042158)	1/11	6.355236e-02	2.213165e-01	0	0	1.683983e+01	4.640874e+01	APOE
+GO_Biological_Process_2021	lipoprotein catabolic process (GO:0042159)	1/11	6.355236e-02	2.213165e-01	0	0	1.683983e+01	4.640874e+01	APOE
+GO_Biological_Process_2021	tetrahydrofolate metabolic process (GO:0046653)	1/11	6.355236e-02	2.213165e-01	0	0	1.683983e+01	4.640874e+01	MTHFS
+GO_Biological_Process_2021	positive regulation of transcription from RNA polymerase II promoter in response to endoplasmic reticulum stress (GO:1990440)	1/11	6.355236e-02	2.213165e-01	0	0	1.683983e+01	4.640874e+01	ATF3
+GO_Biological_Process_2021	positive regulation of triglyceride biosynthetic process (GO:0010867)	1/11	6.355236e-02	2.213165e-01	0	0	1.683983e+01	4.640874e+01	NR1H3
+GO_Biological_Process_2021	vasoconstriction (GO:0042310)	1/11	6.355236e-02	2.213165e-01	0	0	1.683983e+01	4.640874e+01	HTR2B
+GO_Biological_Process_2021	protein kinase C signaling (GO:0070528)	1/11	6.355236e-02	2.213165e-01	0	0	1.683983e+01	4.640874e+01	HTR2B
+GO_Biological_Process_2021	protein kinase C-activating G protein-coupled receptor signaling pathway (GO:0007205)	1/11	6.355236e-02	2.213165e-01	0	0	1.683983e+01	4.640874e+01	HTR2B
+GO_Biological_Process_2021	wound healing (GO:0042060)	2/70	6.526556e-02	2.249216e-01	0	0	4.980644e+00	1.359362e+01	AHNAK2;HPSE
+GO_Biological_Process_2021	positive regulation of secretion by cell (GO:1903532)	2/72	6.855549e-02	2.249216e-01	0	0	4.837851e+00	1.296598e+01	P2RX4;CD33
+GO_Biological_Process_2021	negative regulation of B cell proliferation (GO:0030889)	1/12	6.912728e-02	2.249216e-01	0	0	1.530817e+01	4.090045e+01	FCGR2B
+GO_Biological_Process_2021	negative regulation of cardiac muscle hypertrophy (GO:0010614)	1/12	6.912728e-02	2.249216e-01	0	0	1.530817e+01	4.090045e+01	P2RX4
+GO_Biological_Process_2021	regulation of amyloid precursor protein catabolic process (GO:1902991)	1/12	6.912728e-02	2.249216e-01	0	0	1.530817e+01	4.090045e+01	APOE
+GO_Biological_Process_2021	negative regulation of glucose transmembrane transport (GO:0010829)	1/12	6.912728e-02	2.249216e-01	0	0	1.530817e+01	4.090045e+01	ENPP1
+GO_Biological_Process_2021	negative regulation of hemostasis (GO:1900047)	1/12	6.912728e-02	2.249216e-01	0	0	1.530817e+01	4.090045e+01	APOE
+GO_Biological_Process_2021	negative regulation of leukocyte apoptotic process (GO:2000107)	1/12	6.912728e-02	2.249216e-01	0	0	1.530817e+01	4.090045e+01	MERTK
+GO_Biological_Process_2021	regulation of cholesterol esterification (GO:0010872)	1/12	6.912728e-02	2.249216e-01	0	0	1.530817e+01	4.090045e+01	APOE
+GO_Biological_Process_2021	regulation of dendritic cell differentiation (GO:2001198)	1/12	6.912728e-02	2.249216e-01	0	0	1.530817e+01	4.090045e+01	FCGR2B
+GO_Biological_Process_2021	cellular response to fluid shear stress (GO:0071498)	1/12	6.912728e-02	2.249216e-01	0	0	1.530817e+01	4.090045e+01	NFE2L2
+GO_Biological_Process_2021	cellular response to nitrogen levels (GO:0043562)	1/12	6.912728e-02	2.249216e-01	0	0	1.530817e+01	4.090045e+01	GABARAPL1
+GO_Biological_Process_2021	cellular response to nitrogen starvation (GO:0006995)	1/12	6.912728e-02	2.249216e-01	0	0	1.530817e+01	4.090045e+01	GABARAPL1
+GO_Biological_Process_2021	cellular response to thyroid hormone stimulus (GO:0097067)	1/12	6.912728e-02	2.249216e-01	0	0	1.530817e+01	4.090045e+01	CTSS
+GO_Biological_Process_2021	neurotransmitter uptake (GO:0001504)	1/12	6.912728e-02	2.249216e-01	0	0	1.530817e+01	4.090045e+01	SLC29A1
+GO_Biological_Process_2021	phasic smooth muscle contraction (GO:0014821)	1/12	6.912728e-02	2.249216e-01	0	0	1.530817e+01	4.090045e+01	HTR2B
+GO_Biological_Process_2021	regulation of triglyceride catabolic process (GO:0010896)	1/12	6.912728e-02	2.249216e-01	0	0	1.530817e+01	4.090045e+01	APOC2
+GO_Biological_Process_2021	melanocyte differentiation (GO:0030318)	1/12	6.912728e-02	2.249216e-01	0	0	1.530817e+01	4.090045e+01	ENPP1
+GO_Biological_Process_2021	microtubule anchoring at microtubule organizing center (GO:0072393)	1/12	6.912728e-02	2.249216e-01	0	0	1.530817e+01	4.090045e+01	KIF3A
+GO_Biological_Process_2021	mitochondrial genome maintenance (GO:0000002)	1/12	6.912728e-02	2.249216e-01	0	0	1.530817e+01	4.090045e+01	AKT3
+GO_Biological_Process_2021	modulation by host of viral process (GO:0044788)	1/12	6.912728e-02	2.249216e-01	0	0	1.530817e+01	4.090045e+01	APOE
+GO_Biological_Process_2021	negative regulation of amyloid fibril formation (GO:1905907)	1/12	6.912728e-02	2.249216e-01	0	0	1.530817e+01	4.090045e+01	APOE
+GO_Biological_Process_2021	proteolysis involved in cellular protein catabolic process (GO:0051603)	2/74	7.189915e-02	2.267118e-01	0	0	4.702991e+00	1.238058e+01	SOCS6;CTSS
+GO_Biological_Process_2021	positive regulation of immune response (GO:0050778)	2/75	7.359058e-02	2.267118e-01	0	0	4.638333e+00	1.210251e+01	CD74;FCGR2B
+GO_Biological_Process_2021	positive regulation of lymphocyte proliferation (GO:0050671)	2/75	7.359058e-02	2.267118e-01	0	0	4.638333e+00	1.210251e+01	CD74;CD28
+GO_Biological_Process_2021	negative regulation of cellular senescence (GO:2000773)	1/13	7.466929e-02	2.267118e-01	0	0	1.403178e+01	3.640807e+01	AKT3
+GO_Biological_Process_2021	negative regulation of hydrogen peroxide-induced cell death (GO:1903206)	1/13	7.466929e-02	2.267118e-01	0	0	1.403178e+01	3.640807e+01	NFE2L2
+GO_Biological_Process_2021	negative regulation of intrinsic apoptotic signaling pathway in response to DNA damage by p53 class mediator (GO:1902166)	1/13	7.466929e-02	2.267118e-01	0	0	1.403178e+01	3.640807e+01	CD74
+GO_Biological_Process_2021	negative regulation of macrophage derived foam cell differentiation (GO:0010745)	1/13	7.466929e-02	2.267118e-01	0	0	1.403178e+01	3.640807e+01	NR1H3
+GO_Biological_Process_2021	regulation of chemokine (C-X-C motif) ligand 2 production (GO:2000341)	1/13	7.466929e-02	2.267118e-01	0	0	1.403178e+01	3.640807e+01	CD74
+GO_Biological_Process_2021	regulation of homotypic cell-cell adhesion (GO:0034110)	1/13	7.466929e-02	2.267118e-01	0	0	1.403178e+01	3.640807e+01	PLAUR
+GO_Biological_Process_2021	plasma membrane repair (GO:0001778)	1/13	7.466929e-02	2.267118e-01	0	0	1.403178e+01	3.640807e+01	AHNAK2
+GO_Biological_Process_2021	entry into host (GO:0044409)	1/13	7.466929e-02	2.267118e-01	0	0	1.403178e+01	3.640807e+01	CXCR4
+GO_Biological_Process_2021	regulation of receptor signaling pathway via STAT (GO:1904892)	1/13	7.466929e-02	2.267118e-01	0	0	1.403178e+01	3.640807e+01	IL7R
+GO_Biological_Process_2021	positive regulation of calcium-mediated signaling (GO:0050850)	1/13	7.466929e-02	2.267118e-01	0	0	1.403178e+01	3.640807e+01	P2RX4
+GO_Biological_Process_2021	positive regulation of ERAD pathway (GO:1904294)	1/13	7.466929e-02	2.267118e-01	0	0	1.403178e+01	3.640807e+01	NFE2L2
+GO_Biological_Process_2021	relaxation of cardiac muscle (GO:0055119)	1/13	7.466929e-02	2.267118e-01	0	0	1.403178e+01	3.640807e+01	P2RX4
+GO_Biological_Process_2021	high-density lipoprotein particle assembly (GO:0034380)	1/13	7.466929e-02	2.267118e-01	0	0	1.403178e+01	3.640807e+01	APOE
+GO_Biological_Process_2021	response to thyroid hormone (GO:0097066)	1/13	7.466929e-02	2.267118e-01	0	0	1.403178e+01	3.640807e+01	CTSS
+GO_Biological_Process_2021	positive regulation of lipid transport (GO:0032370)	1/13	7.466929e-02	2.267118e-01	0	0	1.403178e+01	3.640807e+01	APOE
+GO_Biological_Process_2021	positive regulation of nuclear-transcribed mRNA poly(A) tail shortening (GO:0060213)	1/13	7.466929e-02	2.267118e-01	0	0	1.403178e+01	3.640807e+01	CPEB3
+GO_Biological_Process_2021	mature B cell differentiation involved in immune response (GO:0002313)	1/13	7.466929e-02	2.267118e-01	0	0	1.403178e+01	3.640807e+01	FCGR2B
+GO_Biological_Process_2021	positive regulation of steroid metabolic process (GO:0045940)	1/13	7.466929e-02	2.267118e-01	0	0	1.403178e+01	3.640807e+01	APOE
+GO_Biological_Process_2021	positive regulation of transporter activity (GO:0032411)	1/13	7.466929e-02	2.267118e-01	0	0	1.403178e+01	3.640807e+01	NR1H3
+GO_Biological_Process_2021	positive regulation of vascular endothelial cell proliferation (GO:1905564)	1/13	7.466929e-02	2.267118e-01	0	0	1.403178e+01	3.640807e+01	AKT3
+GO_Biological_Process_2021	negative regulation of alcohol biosynthetic process (GO:1902931)	1/13	7.466929e-02	2.267118e-01	0	0	1.403178e+01	3.640807e+01	APOE
+GO_Biological_Process_2021	regulation of T cell proliferation (GO:0042129)	2/76	7.529481e-02	2.271638e-01	0	0	4.575422e+00	1.183361e+01	CD28;TNFRSF1B
+GO_Biological_Process_2021	water-soluble vitamin metabolic process (GO:0006767)	2/76	7.529481e-02	2.271638e-01	0	0	4.575422e+00	1.183361e+01	ENPP1;MTHFS
+GO_Biological_Process_2021	positive regulation of endothelial cell proliferation (GO:0001938)	2/77	7.701162e-02	2.271638e-01	0	0	4.514188e+00	1.157347e+01	AKT3;HTR2B
+GO_Biological_Process_2021	negative regulation of programmed cell death (GO:0043069)	5/381	7.743775e-02	2.271638e-01	0	0	2.275219e+00	5.820650e+00	CD74;PSEN2;CD28;HTR2B;PLAUR
+GO_Biological_Process_2021	negative regulation of protein serine/threonine kinase activity (GO:0071901)	2/78	7.874081e-02	2.271638e-01	0	0	4.454566e+00	1.132170e+01	PKIB;APOE
+GO_Biological_Process_2021	protein localization to vacuole (GO:0072665)	1/14	8.017858e-02	2.271638e-01	0	0	1.295176e+01	3.268375e+01	RNF128
+GO_Biological_Process_2021	negative regulation of bone mineralization (GO:0030502)	1/14	8.017858e-02	2.271638e-01	0	0	1.295176e+01	3.268375e+01	ENPP1
+GO_Biological_Process_2021	negative regulation of cell activation (GO:0050866)	1/14	8.017858e-02	2.271638e-01	0	0	1.295176e+01	3.268375e+01	APOE
+GO_Biological_Process_2021	amyloid precursor protein catabolic process (GO:0042987)	1/14	8.017858e-02	2.271638e-01	0	0	1.295176e+01	3.268375e+01	PSEN2
+GO_Biological_Process_2021	negative regulation of coagulation (GO:0050819)	1/14	8.017858e-02	2.271638e-01	0	0	1.295176e+01	3.268375e+01	APOE
+GO_Biological_Process_2021	negative regulation of DNA damage response, signal transduction by p53 class mediator (GO:0043518)	1/14	8.017858e-02	2.271638e-01	0	0	1.295176e+01	3.268375e+01	CD74
+GO_Biological_Process_2021	regulation of cAMP-dependent protein kinase activity (GO:2000479)	1/14	8.017858e-02	2.271638e-01	0	0	1.295176e+01	3.268375e+01	PKIB
+GO_Biological_Process_2021	negative regulation of neuroinflammatory response (GO:0150079)	1/14	8.017858e-02	2.271638e-01	0	0	1.295176e+01	3.268375e+01	TNFRSF1B
+GO_Biological_Process_2021	negative regulation of pri-miRNA transcription by RNA polymerase II (GO:1902894)	1/14	8.017858e-02	2.271638e-01	0	0	1.295176e+01	3.268375e+01	PPARD
+GO_Biological_Process_2021	regulation of intrinsic apoptotic signaling pathway in response to DNA damage by p53 class mediator (GO:1902165)	1/14	8.017858e-02	2.271638e-01	0	0	1.295176e+01	3.268375e+01	CD74
+GO_Biological_Process_2021	regulation of lipase activity (GO:0060191)	1/14	8.017858e-02	2.271638e-01	0	0	1.295176e+01	3.268375e+01	RHOC
+GO_Biological_Process_2021	nucleoside phosphate catabolic process (GO:1901292)	1/14	8.017858e-02	2.271638e-01	0	0	1.295176e+01	3.268375e+01	ENPP1
+GO_Biological_Process_2021	nucleoside triphosphate metabolic process (GO:0009141)	1/14	8.017858e-02	2.271638e-01	0	0	1.295176e+01	3.268375e+01	ENPP1
+GO_Biological_Process_2021	dicarboxylic acid catabolic process (GO:0043649)	1/14	8.017858e-02	2.271638e-01	0	0	1.295176e+01	3.268375e+01	MTHFS
+GO_Biological_Process_2021	polarized epithelial cell differentiation (GO:0030859)	1/14	8.017858e-02	2.271638e-01	0	0	1.295176e+01	3.268375e+01	RAP2A
+GO_Biological_Process_2021	relaxation of muscle (GO:0090075)	1/14	8.017858e-02	2.271638e-01	0	0	1.295176e+01	3.268375e+01	P2RX4
+GO_Biological_Process_2021	microvillus organization (GO:0032528)	1/14	8.017858e-02	2.271638e-01	0	0	1.295176e+01	3.268375e+01	RAP2A
+GO_Biological_Process_2021	positive regulation of type 2 immune response (GO:0002830)	1/14	8.017858e-02	2.271638e-01	0	0	1.295176e+01	3.268375e+01	CD74
+GO_Biological_Process_2021	vascular endothelial growth factor signaling pathway (GO:0038084)	1/14	8.017858e-02	2.271638e-01	0	0	1.295176e+01	3.268375e+01	GAB1
+GO_Biological_Process_2021	positive regulation of MAPK cascade (GO:0043410)	4/274	8.112260e-02	2.271638e-01	0	0	2.526377e+00	6.345737e+00	CD74;P2RY1;HTR2B;APOE
+GO_Biological_Process_2021	regulation of fat cell differentiation (GO:0045598)	2/80	8.223548e-02	2.271638e-01	0	0	4.339908e+00	1.084182e+01	ENPP1;PPARD
+GO_Biological_Process_2021	regulation of interleukin-8 production (GO:0032677)	2/81	8.400057e-02	2.271638e-01	0	0	4.284756e+00	1.061305e+01	CD74;CD33
+GO_Biological_Process_2021	phospholipase C-activating G protein-coupled receptor signaling pathway (GO:0007200)	2/81	8.400057e-02	2.271638e-01	0	0	4.284756e+00	1.061305e+01	P2RY1;HTR2B
+GO_Biological_Process_2021	positive regulation of cellular amide metabolic process (GO:0034250)	2/81	8.400057e-02	2.271638e-01	0	0	4.284756e+00	1.061305e+01	CD28;CPEB3
+GO_Biological_Process_2021	aflatoxin metabolic process (GO:0046222)	1/15	8.565534e-02	2.271638e-01	0	0	1.202603e+01	2.955305e+01	MGST1
+GO_Biological_Process_2021	regulation of amyloid fibril formation (GO:1905906)	1/15	8.565534e-02	2.271638e-01	0	0	1.202603e+01	2.955305e+01	APOE
+GO_Biological_Process_2021	negative regulation of leukocyte mediated cytotoxicity (GO:0001911)	1/15	8.565534e-02	2.271638e-01	0	0	1.202603e+01	2.955305e+01	FCGR2B
+GO_Biological_Process_2021	regulation of cytoplasmic translation (GO:2000765)	1/15	8.565534e-02	2.271638e-01	0	0	1.202603e+01	2.955305e+01	CPEB3
+GO_Biological_Process_2021	regulation of endothelial cell chemotaxis (GO:2001026)	1/15	8.565534e-02	2.271638e-01	0	0	1.202603e+01	2.955305e+01	P2RX4
+GO_Biological_Process_2021	cellular response to arsenic-containing substance (GO:0071243)	1/15	8.565534e-02	2.271638e-01	0	0	1.202603e+01	2.955305e+01	ATF3
+GO_Biological_Process_2021	organic heteropentacyclic compound metabolic process (GO:1901376)	1/15	8.565534e-02	2.271638e-01	0	0	1.202603e+01	2.955305e+01	MGST1
+GO_Biological_Process_2021	regulation of nuclear-transcribed mRNA catabolic process, deadenylation-dependent decay (GO:1900151)	1/15	8.565534e-02	2.271638e-01	0	0	1.202603e+01	2.955305e+01	CPEB3
+GO_Biological_Process_2021	regulation of nuclear-transcribed mRNA poly(A) tail shortening (GO:0060211)	1/15	8.565534e-02	2.271638e-01	0	0	1.202603e+01	2.955305e+01	CPEB3
+GO_Biological_Process_2021	peptidyl-tyrosine autophosphorylation (GO:0038083)	1/15	8.565534e-02	2.271638e-01	0	0	1.202603e+01	2.955305e+01	AATK
+GO_Biological_Process_2021	establishment of apical/basal cell polarity (GO:0035089)	1/15	8.565534e-02	2.271638e-01	0	0	1.202603e+01	2.955305e+01	RAP2A
+GO_Biological_Process_2021	fatty acid beta-oxidation using acyl-CoA oxidase (GO:0033540)	1/15	8.565534e-02	2.271638e-01	0	0	1.202603e+01	2.955305e+01	ACOX3
+GO_Biological_Process_2021	fibrinolysis (GO:0042730)	1/15	8.565534e-02	2.271638e-01	0	0	1.202603e+01	2.955305e+01	PLAUR
+GO_Biological_Process_2021	regulation of triglyceride biosynthetic process (GO:0010866)	1/15	8.565534e-02	2.271638e-01	0	0	1.202603e+01	2.955305e+01	NR1H3
+GO_Biological_Process_2021	positive regulation of endothelial cell chemotaxis (GO:2001028)	1/15	8.565534e-02	2.271638e-01	0	0	1.202603e+01	2.955305e+01	P2RX4
+GO_Biological_Process_2021	response to acidic pH (GO:0010447)	1/15	8.565534e-02	2.271638e-01	0	0	1.202603e+01	2.955305e+01	CTSS
+GO_Biological_Process_2021	integrated stress response signaling (GO:0140467)	1/15	8.565534e-02	2.271638e-01	0	0	1.202603e+01	2.955305e+01	NFE2L2
+GO_Biological_Process_2021	positive regulation of nuclear-transcribed mRNA catabolic process, deadenylation-dependent decay (GO:1900153)	1/15	8.565534e-02	2.271638e-01	0	0	1.202603e+01	2.955305e+01	CPEB3
+GO_Biological_Process_2021	macrophage migration (GO:1905517)	1/15	8.565534e-02	2.271638e-01	0	0	1.202603e+01	2.955305e+01	P2RX4
+GO_Biological_Process_2021	positive regulation of response to cytokine stimulus (GO:0060760)	1/15	8.565534e-02	2.271638e-01	0	0	1.202603e+01	2.955305e+01	CD74
+GO_Biological_Process_2021	microvillus assembly (GO:0030033)	1/15	8.565534e-02	2.271638e-01	0	0	1.202603e+01	2.955305e+01	RAP2A
+GO_Biological_Process_2021	prostanoid biosynthetic process (GO:0046457)	1/15	8.565534e-02	2.271638e-01	0	0	1.202603e+01	2.955305e+01	CD74
+GO_Biological_Process_2021	mycotoxin metabolic process (GO:0043385)	1/15	8.565534e-02	2.271638e-01	0	0	1.202603e+01	2.955305e+01	MGST1
+GO_Biological_Process_2021	regulation of defense response (GO:0031347)	2/83	8.756525e-02	2.316653e-01	0	0	4.178538e+00	1.017629e+01	APOE;FCGR2B
+GO_Biological_Process_2021	response to insulin (GO:0032868)	2/84	8.936444e-02	2.327408e-01	0	0	4.127371e+00	9.967735e+00	ENPP1;MYO5A
+GO_Biological_Process_2021	regulation of translation (GO:0006417)	3/178	9.011459e-02	2.327408e-01	0	0	2.912217e+00	7.008754e+00	EIF4A2;CD28;CPEB3
+GO_Biological_Process_2021	3'-UTR-mediated mRNA destabilization (GO:0061158)	1/16	9.109976e-02	2.327408e-01	0	0	1.122373e+01	2.688981e+01	CPEB3
+GO_Biological_Process_2021	regulation of amyloid-beta clearance (GO:1900221)	1/16	9.109976e-02	2.327408e-01	0	0	1.122373e+01	2.688981e+01	APOE
+GO_Biological_Process_2021	B cell activation involved in immune response (GO:0002312)	1/16	9.109976e-02	2.327408e-01	0	0	1.122373e+01	2.688981e+01	FCGR2B
+GO_Biological_Process_2021	basement membrane organization (GO:0071711)	1/16	9.109976e-02	2.327408e-01	0	0	1.122373e+01	2.688981e+01	CTSS
+GO_Biological_Process_2021	negative regulation of platelet activation (GO:0010544)	1/16	9.109976e-02	2.327408e-01	0	0	1.122373e+01	2.688981e+01	APOE
+GO_Biological_Process_2021	dendritic cell chemotaxis (GO:0002407)	1/16	9.109976e-02	2.327408e-01	0	0	1.122373e+01	2.688981e+01	CXCR4
+GO_Biological_Process_2021	regulation of monocyte differentiation (GO:0045655)	1/16	9.109976e-02	2.327408e-01	0	0	1.122373e+01	2.688981e+01	CD74
+GO_Biological_Process_2021	epiboly involved in wound healing (GO:0090505)	1/16	9.109976e-02	2.327408e-01	0	0	1.122373e+01	2.688981e+01	RHOC
+GO_Biological_Process_2021	regulation of Rac protein signal transduction (GO:0035020)	1/16	9.109976e-02	2.327408e-01	0	0	1.122373e+01	2.688981e+01	ARHGAP24
+GO_Biological_Process_2021	response to organophosphorus (GO:0046683)	1/16	9.109976e-02	2.327408e-01	0	0	1.122373e+01	2.688981e+01	P2RX4
+GO_Biological_Process_2021	positive regulation of small molecule metabolic process (GO:0062013)	1/16	9.109976e-02	2.327408e-01	0	0	1.122373e+01	2.688981e+01	PPARD
+GO_Biological_Process_2021	positive regulation of TORC1 signaling (GO:1904263)	1/16	9.109976e-02	2.327408e-01	0	0	1.122373e+01	2.688981e+01	GPR137B
+GO_Biological_Process_2021	positive regulation of protein catabolic process (GO:0045732)	2/85	9.117462e-02	2.327408e-01	0	0	4.077438e+00	9.765377e+00	APOE;TNFRSF1B
+GO_Biological_Process_2021	negative regulation of cellular amide metabolic process (GO:0034249)	2/86	9.299558e-02	2.351860e-01	0	0	4.028694e+00	9.568966e+00	APOE;CPEB3
+GO_Biological_Process_2021	regulation of neuron death (GO:1901214)	2/86	9.299558e-02	2.351860e-01	0	0	4.028694e+00	9.568966e+00	TNFRSF1B;FCGR2B
+GO_Biological_Process_2021	positive regulation of endothelial cell migration (GO:0010595)	2/86	9.299558e-02	2.351860e-01	0	0	4.028694e+00	9.568966e+00	P2RX4;AKT3
+GO_Biological_Process_2021	transport across blood-brain barrier (GO:0150104)	2/86	9.299558e-02	2.351860e-01	0	0	4.028694e+00	9.568966e+00	FABP5;SLC29A1
+GO_Biological_Process_2021	calcium ion transmembrane transport (GO:0070588)	2/87	9.482715e-02	2.362541e-01	0	0	3.981096e+00	9.378266e+00	MCOLN3;P2RX4
+GO_Biological_Process_2021	regulation of transcription from RNA polymerase II promoter in response to stress (GO:0043618)	2/87	9.482715e-02	2.362541e-01	0	0	3.981096e+00	9.378266e+00	ATF3;NFE2L2
+GO_Biological_Process_2021	negative regulation of cell aging (GO:0090344)	1/17	9.651204e-02	2.362541e-01	0	0	1.052172e+01	2.460069e+01	AKT3
+GO_Biological_Process_2021	amyloid-beta metabolic process (GO:0050435)	1/17	9.651204e-02	2.362541e-01	0	0	1.052172e+01	2.460069e+01	PSEN2
+GO_Biological_Process_2021	negative regulation of interleukin-10 production (GO:0032693)	1/17	9.651204e-02	2.362541e-01	0	0	1.052172e+01	2.460069e+01	FCGR2B
+GO_Biological_Process_2021	negative regulation of intrinsic apoptotic signaling pathway by p53 class mediator (GO:1902254)	1/17	9.651204e-02	2.362541e-01	0	0	1.052172e+01	2.460069e+01	CD74
+GO_Biological_Process_2021	regulation of cholesterol biosynthetic process (GO:0045540)	1/17	9.651204e-02	2.362541e-01	0	0	1.052172e+01	2.460069e+01	APOE
+GO_Biological_Process_2021	negative regulation of phagocytosis (GO:0050765)	1/17	9.651204e-02	2.362541e-01	0	0	1.052172e+01	2.460069e+01	FCGR2B
+GO_Biological_Process_2021	regulation of Golgi organization (GO:1903358)	1/17	9.651204e-02	2.362541e-01	0	0	1.052172e+01	2.460069e+01	MYO5A
+GO_Biological_Process_2021	regulation of osteoblast proliferation (GO:0033688)	1/17	9.651204e-02	2.362541e-01	0	0	1.052172e+01	2.460069e+01	HPSE
+GO_Biological_Process_2021	positive regulation of blood coagulation (GO:0030194)	1/17	9.651204e-02	2.362541e-01	0	0	1.052172e+01	2.460069e+01	HPSE
+GO_Biological_Process_2021	positive regulation of telomere capping (GO:1904355)	1/17	9.651204e-02	2.362541e-01	0	0	1.052172e+01	2.460069e+01	PKIB
+GO_Biological_Process_2021	modified amino acid transport (GO:0072337)	1/17	9.651204e-02	2.362541e-01	0	0	1.052172e+01	2.460069e+01	MGST1
+GO_Biological_Process_2021	negative regulation of amyloid-beta formation (GO:1902430)	1/17	9.651204e-02	2.362541e-01	0	0	1.052172e+01	2.460069e+01	APOE
+GO_Biological_Process_2021	retrograde transport, endosome to Golgi (GO:0042147)	2/88	9.666912e-02	2.362541e-01	0	0	3.934605e+00	9.193053e+00	TMEM87B;DENND2A
+GO_Biological_Process_2021	positive regulation of binding (GO:0051099)	2/90	1.003836e-01	2.378216e-01	0	0	3.844794e+00	8.838247e+00	PLAUR;APOE
+GO_Biological_Process_2021	pulmonary valve development (GO:0003177)	1/18	1.018924e-01	2.378216e-01	0	0	9.902293e+00	2.261524e+01	TNFRSF1B
+GO_Biological_Process_2021	regulation of adaptive immune response (GO:0002819)	1/18	1.018924e-01	2.378216e-01	0	0	9.902293e+00	2.261524e+01	FCGR2B
+GO_Biological_Process_2021	negative regulation of interleukin-8 production (GO:0032717)	1/18	1.018924e-01	2.378216e-01	0	0	9.902293e+00	2.261524e+01	CD33
+GO_Biological_Process_2021	carbohydrate derivative transport (GO:1901264)	1/18	1.018924e-01	2.378216e-01	0	0	9.902293e+00	2.261524e+01	SLC29A1
+GO_Biological_Process_2021	regulation of fatty acid metabolic process (GO:0019217)	1/18	1.018924e-01	2.378216e-01	0	0	9.902293e+00	2.261524e+01	PPARD
+GO_Biological_Process_2021	negative regulation of signal transduction by p53 class mediator (GO:1901797)	1/18	1.018924e-01	2.378216e-01	0	0	9.902293e+00	2.261524e+01	CD74
+GO_Biological_Process_2021	cellular response to zinc ion (GO:0071294)	1/18	1.018924e-01	2.378216e-01	0	0	9.902293e+00	2.261524e+01	P2RX4
+GO_Biological_Process_2021	nitric oxide mediated signal transduction (GO:0007263)	1/18	1.018924e-01	2.378216e-01	0	0	9.902293e+00	2.261524e+01	APOE
+GO_Biological_Process_2021	dendritic cell migration (GO:0036336)	1/18	1.018924e-01	2.378216e-01	0	0	9.902293e+00	2.261524e+01	CXCR4
+GO_Biological_Process_2021	regulation of mRNA polyadenylation (GO:1900363)	1/18	1.018924e-01	2.378216e-01	0	0	9.902293e+00	2.261524e+01	CPEB3
+GO_Biological_Process_2021	regulation of oxidative stress-induced intrinsic apoptotic signaling pathway (GO:1902175)	1/18	1.018924e-01	2.378216e-01	0	0	9.902293e+00	2.261524e+01	NFE2L2
+GO_Biological_Process_2021	pigment granule transport (GO:0051904)	1/18	1.018924e-01	2.378216e-01	0	0	9.902293e+00	2.261524e+01	MYO5A
+GO_Biological_Process_2021	positive regulation of cell migration involved in sprouting angiogenesis (GO:0090050)	1/18	1.018924e-01	2.378216e-01	0	0	9.902293e+00	2.261524e+01	AKT3
+GO_Biological_Process_2021	regulation of vascular endothelial cell proliferation (GO:1905562)	1/18	1.018924e-01	2.378216e-01	0	0	9.902293e+00	2.261524e+01	AKT3
+GO_Biological_Process_2021	response to axon injury (GO:0048678)	1/18	1.018924e-01	2.378216e-01	0	0	9.902293e+00	2.261524e+01	P2RX4
+GO_Biological_Process_2021	positive regulation of interleukin-4 production (GO:0032753)	1/18	1.018924e-01	2.378216e-01	0	0	9.902293e+00	2.261524e+01	CD28
+GO_Biological_Process_2021	positive regulation of nervous system process (GO:0031646)	1/18	1.018924e-01	2.378216e-01	0	0	9.902293e+00	2.261524e+01	TNFRSF1B
+GO_Biological_Process_2021	positive regulation of phosphoprotein phosphatase activity (GO:0032516)	1/18	1.018924e-01	2.378216e-01	0	0	9.902293e+00	2.261524e+01	CD33
+GO_Biological_Process_2021	positive regulation of response to endoplasmic reticulum stress (GO:1905898)	1/18	1.018924e-01	2.378216e-01	0	0	9.902293e+00	2.261524e+01	FCGR2B
+GO_Biological_Process_2021	melanosome transport (GO:0032402)	1/18	1.018924e-01	2.378216e-01	0	0	9.902293e+00	2.261524e+01	MYO5A
+GO_Biological_Process_2021	regulation of lipid metabolic process (GO:0019216)	2/92	1.041374e-01	2.385563e-01	0	0	3.758974e+00	8.502965e+00	APOC2;PPARD
+GO_Biological_Process_2021	retinoid metabolic process (GO:0001523)	2/92	1.041374e-01	2.385563e-01	0	0	3.758974e+00	8.502965e+00	APOC2;APOE
+GO_Biological_Process_2021	negative regulation of calcium ion transport (GO:0051926)	1/19	1.072409e-01	2.385563e-01	0	0	9.351695e+00	2.087932e+01	CD33
+GO_Biological_Process_2021	purine ribonucleoside bisphosphate metabolic process (GO:0034035)	1/19	1.072409e-01	2.385563e-01	0	0	9.351695e+00	2.087932e+01	ENPP1
+GO_Biological_Process_2021	negative regulation of immune system process (GO:0002683)	1/19	1.072409e-01	2.385563e-01	0	0	9.351695e+00	2.087932e+01	FCGR2B
+GO_Biological_Process_2021	negative regulation of oxidative stress-induced intrinsic apoptotic signaling pathway (GO:1902176)	1/19	1.072409e-01	2.385563e-01	0	0	9.351695e+00	2.087932e+01	NFE2L2
+GO_Biological_Process_2021	cellular response to interleukin-7 (GO:0098761)	1/19	1.072409e-01	2.385563e-01	0	0	9.351695e+00	2.087932e+01	IL7R
+GO_Biological_Process_2021	neural crest cell differentiation (GO:0014033)	1/19	1.072409e-01	2.385563e-01	0	0	9.351695e+00	2.087932e+01	HTR2B
+GO_Biological_Process_2021	regulation of lymphocyte proliferation (GO:0050670)	1/19	1.072409e-01	2.385563e-01	0	0	9.351695e+00	2.087932e+01	TNFRSF1B
+GO_Biological_Process_2021	cytoplasmic translational initiation (GO:0002183)	1/19	1.072409e-01	2.385563e-01	0	0	9.351695e+00	2.087932e+01	EIF4A2
+GO_Biological_Process_2021	regulation of neuroinflammatory response (GO:0150077)	1/19	1.072409e-01	2.385563e-01	0	0	9.351695e+00	2.087932e+01	TNFRSF1B
+GO_Biological_Process_2021	establishment of melanosome localization (GO:0032401)	1/19	1.072409e-01	2.385563e-01	0	0	9.351695e+00	2.087932e+01	MYO5A
+GO_Biological_Process_2021	regulation of T cell cytokine production (GO:0002724)	1/19	1.072409e-01	2.385563e-01	0	0	9.351695e+00	2.087932e+01	TNFRSF1B
+GO_Biological_Process_2021	folic acid metabolic process (GO:0046655)	1/19	1.072409e-01	2.385563e-01	0	0	9.351695e+00	2.087932e+01	MTHFS
+GO_Biological_Process_2021	positive regulation of macrophage migration (GO:1905523)	1/19	1.072409e-01	2.385563e-01	0	0	9.351695e+00	2.087932e+01	P2RX4
+GO_Biological_Process_2021	interleukin-7-mediated signaling pathway (GO:0038111)	1/19	1.072409e-01	2.385563e-01	0	0	9.351695e+00	2.087932e+01	IL7R
+GO_Biological_Process_2021	positive regulation of neutrophil chemotaxis (GO:0090023)	1/19	1.072409e-01	2.385563e-01	0	0	9.351695e+00	2.087932e+01	CD74
+GO_Biological_Process_2021	striated muscle cell differentiation (GO:0051146)	1/19	1.072409e-01	2.385563e-01	0	0	9.351695e+00	2.087932e+01	PLD3
+GO_Biological_Process_2021	synaptic transmission, cholinergic (GO:0007271)	1/19	1.072409e-01	2.385563e-01	0	0	9.351695e+00	2.087932e+01	APOE
+GO_Biological_Process_2021	postsynaptic membrane organization (GO:0001941)	1/19	1.072409e-01	2.385563e-01	0	0	9.351695e+00	2.087932e+01	APOE
+GO_Biological_Process_2021	vesicle transport along actin filament (GO:0030050)	1/19	1.072409e-01	2.385563e-01	0	0	9.351695e+00	2.087932e+01	MYO5A
+GO_Biological_Process_2021	prostaglandin biosynthetic process (GO:0001516)	1/19	1.072409e-01	2.385563e-01	0	0	9.351695e+00	2.087932e+01	CD74
+GO_Biological_Process_2021	negative regulation of amyloid precursor protein catabolic process (GO:1902992)	1/19	1.072409e-01	2.385563e-01	0	0	9.351695e+00	2.087932e+01	APOE
+GO_Biological_Process_2021	negative regulation of cell death (GO:0060548)	2/94	1.079293e-01	2.386266e-01	0	0	3.676886e+00	8.185774e+00	HTR2B;TNFRSF1B
+GO_Biological_Process_2021	negative regulation of cellular protein metabolic process (GO:0032269)	2/94	1.079293e-01	2.386266e-01	0	0	3.676886e+00	8.185774e+00	APOE;CPEB3
+GO_Biological_Process_2021	regulation of kinase activity (GO:0043549)	2/94	1.079293e-01	2.386266e-01	0	0	3.676886e+00	8.185774e+00	CD74;MERTK
+GO_Biological_Process_2021	protein localization to membrane (GO:0072657)	3/195	1.106011e-01	2.440390e-01	0	0	2.652074e+00	5.839403e+00	RAP2A;P2RY1;MYO5A
+GO_Biological_Process_2021	negative regulation of osteoclast differentiation (GO:0045671)	1/20	1.125579e-01	2.458679e-01	0	0	8.859054e+00	1.935073e+01	GPR137B
+GO_Biological_Process_2021	cellular modified amino acid biosynthetic process (GO:0042398)	1/20	1.125579e-01	2.458679e-01	0	0	8.859054e+00	1.935073e+01	MTHFS
+GO_Biological_Process_2021	establishment of epithelial cell polarity (GO:0090162)	1/20	1.125579e-01	2.458679e-01	0	0	8.859054e+00	1.935073e+01	RAP2A
+GO_Biological_Process_2021	folic acid-containing compound metabolic process (GO:0006760)	1/20	1.125579e-01	2.458679e-01	0	0	8.859054e+00	1.935073e+01	MTHFS
+GO_Biological_Process_2021	glucose transmembrane transport (GO:1904659)	1/20	1.125579e-01	2.458679e-01	0	0	8.859054e+00	1.935073e+01	PPARD
+GO_Biological_Process_2021	protein maturation (GO:0051604)	2/97	1.136852e-01	2.468465e-01	0	0	3.560234e+00	7.741094e+00	PSEN2;CTSS
+GO_Biological_Process_2021	regulation of MAP kinase activity (GO:0043405)	2/97	1.136852e-01	2.468465e-01	0	0	3.560234e+00	7.741094e+00	HTR2B;APOE
+GO_Biological_Process_2021	positive regulation of cold-induced thermogenesis (GO:0120162)	2/97	1.136852e-01	2.468465e-01	0	0	3.560234e+00	7.741094e+00	FABP5;CXCR4
+GO_Biological_Process_2021	negative regulation of neuron death (GO:1901215)	2/98	1.156214e-01	2.494162e-01	0	0	3.522970e+00	7.600577e+00	APOE;TNFRSF1B
+GO_Biological_Process_2021	positive regulation of stress-activated MAPK cascade (GO:0032874)	2/99	1.175660e-01	2.494162e-01	0	0	3.486475e+00	7.463690e+00	RELL1;FCGR2B
+GO_Biological_Process_2021	actin filament-based transport (GO:0099515)	1/21	1.178434e-01	2.494162e-01	0	0	8.415678e+00	1.799607e+01	MYO5A
+GO_Biological_Process_2021	purinergic nucleotide receptor signaling pathway (GO:0035590)	1/21	1.178434e-01	2.494162e-01	0	0	8.415678e+00	1.799607e+01	P2RX4
+GO_Biological_Process_2021	regulation of cholesterol metabolic process (GO:0090181)	1/21	1.178434e-01	2.494162e-01	0	0	8.415678e+00	1.799607e+01	APOE
+GO_Biological_Process_2021	negative regulation of small GTPase mediated signal transduction (GO:0051058)	1/21	1.178434e-01	2.494162e-01	0	0	8.415678e+00	1.799607e+01	ARHGAP25
+GO_Biological_Process_2021	heparan sulfate proteoglycan metabolic process (GO:0030201)	1/21	1.178434e-01	2.494162e-01	0	0	8.415678e+00	1.799607e+01	HPSE
+GO_Biological_Process_2021	response to progesterone (GO:0032570)	1/21	1.178434e-01	2.494162e-01	0	0	8.415678e+00	1.799607e+01	NR1H3
+GO_Biological_Process_2021	hydrogen peroxide catabolic process (GO:0042744)	1/21	1.178434e-01	2.494162e-01	0	0	8.415678e+00	1.799607e+01	GPX3
+GO_Biological_Process_2021	sensory perception of pain (GO:0019233)	1/21	1.178434e-01	2.494162e-01	0	0	8.415678e+00	1.799607e+01	P2RX4
+GO_Biological_Process_2021	melanosome localization (GO:0032400)	1/21	1.178434e-01	2.494162e-01	0	0	8.415678e+00	1.799607e+01	MYO5A
+GO_Biological_Process_2021	positive regulation of transcription from RNA polymerase II promoter involved in cellular response to chemical stimulus (GO:1901522)	1/21	1.178434e-01	2.494162e-01	0	0	8.415678e+00	1.799607e+01	NFE2L2
+GO_Biological_Process_2021	myotube differentiation (GO:0014902)	1/21	1.178434e-01	2.494162e-01	0	0	8.415678e+00	1.799607e+01	PLD3
+GO_Biological_Process_2021	positive regulation of translation (GO:0045727)	2/100	1.195189e-01	2.524720e-01	0	0	3.450724e+00	7.330307e+00	CD28;CPEB3
+GO_Biological_Process_2021	cellular response to chemical stress (GO:0062197)	2/101	1.214799e-01	2.526866e-01	0	0	3.415695e+00	7.200308e+00	GPX3;NFE2L2
+GO_Biological_Process_2021	negative regulation of cellular process (GO:0048523)	6/566	1.218565e-01	2.526866e-01	0	0	1.831953e+00	3.856099e+00	HTR2B;NR1H3;ENPP1;TNFRSF1B;FCGR2B;CD33
+GO_Biological_Process_2021	negative regulation of B cell activation (GO:0050869)	1/22	1.230978e-01	2.526866e-01	0	0	8.014528e+00	1.678864e+01	FCGR2B
+GO_Biological_Process_2021	negative regulation of biomineral tissue development (GO:0070168)	1/22	1.230978e-01	2.526866e-01	0	0	8.014528e+00	1.678864e+01	ENPP1
+GO_Biological_Process_2021	negative regulation of lymphocyte activation (GO:0051250)	1/22	1.230978e-01	2.526866e-01	0	0	8.014528e+00	1.678864e+01	FCGR2B
+GO_Biological_Process_2021	regulation of platelet activation (GO:0010543)	1/22	1.230978e-01	2.526866e-01	0	0	8.014528e+00	1.678864e+01	APOE
+GO_Biological_Process_2021	glutamate metabolic process (GO:0006536)	1/22	1.230978e-01	2.526866e-01	0	0	8.014528e+00	1.678864e+01	MTHFS
+GO_Biological_Process_2021	glutathione derivative biosynthetic process (GO:1901687)	1/22	1.230978e-01	2.526866e-01	0	0	8.014528e+00	1.678864e+01	MGST1
+GO_Biological_Process_2021	glutathione derivative metabolic process (GO:1901685)	1/22	1.230978e-01	2.526866e-01	0	0	8.014528e+00	1.678864e+01	MGST1
+GO_Biological_Process_2021	positive regulation of granulocyte chemotaxis (GO:0071624)	1/22	1.230978e-01	2.526866e-01	0	0	8.014528e+00	1.678864e+01	CD74
+GO_Biological_Process_2021	positive regulation of lipid catabolic process (GO:0050996)	1/22	1.230978e-01	2.526866e-01	0	0	8.014528e+00	1.678864e+01	APOC2
+GO_Biological_Process_2021	positive regulation of neutrophil migration (GO:1902624)	1/22	1.230978e-01	2.526866e-01	0	0	8.014528e+00	1.678864e+01	CD74
+GO_Biological_Process_2021	membrane protein intracellular domain proteolysis (GO:0031293)	1/22	1.230978e-01	2.526866e-01	0	0	8.014528e+00	1.678864e+01	PSEN2
+GO_Biological_Process_2021	proteasomal ubiquitin-independent protein catabolic process (GO:0010499)	1/22	1.230978e-01	2.526866e-01	0	0	8.014528e+00	1.678864e+01	NFE2L2
+GO_Biological_Process_2021	protein localization to cell junction (GO:1902414)	1/22	1.230978e-01	2.526866e-01	0	0	8.014528e+00	1.678864e+01	KIF3A
+GO_Biological_Process_2021	regulation of cell death (GO:0010941)	2/102	1.234489e-01	2.529310e-01	0	0	3.381368e+00	7.073578e+00	HTR2B;TNFRSF1B
+GO_Biological_Process_2021	negative regulation of gene expression (GO:0010629)	4/322	1.259340e-01	2.547722e-01	0	0	2.139787e+00	4.433633e+00	CD28;APOE;CPEB3;FCGR2B
+GO_Biological_Process_2021	regulation of B cell receptor signaling pathway (GO:0050855)	1/23	1.283211e-01	2.547722e-01	0	0	7.649846e+00	1.570682e+01	FCGR2B
+GO_Biological_Process_2021	regulation of calcium ion transmembrane transport (GO:1903169)	1/23	1.283211e-01	2.547722e-01	0	0	7.649846e+00	1.570682e+01	PSEN2
+GO_Biological_Process_2021	negative regulation of smoothened signaling pathway (GO:0045879)	1/23	1.283211e-01	2.547722e-01	0	0	7.649846e+00	1.570682e+01	ENPP1
+GO_Biological_Process_2021	regulation of interferon-gamma-mediated signaling pathway (GO:0060334)	1/23	1.283211e-01	2.547722e-01	0	0	7.649846e+00	1.570682e+01	NR1H3
+GO_Biological_Process_2021	regulation of interleukin-4 production (GO:0032673)	1/23	1.283211e-01	2.547722e-01	0	0	7.649846e+00	1.570682e+01	CD28
+GO_Biological_Process_2021	ERK1 and ERK2 cascade (GO:0070371)	1/23	1.283211e-01	2.547722e-01	0	0	7.649846e+00	1.570682e+01	HTR2B
+GO_Biological_Process_2021	regulation of steroid metabolic process (GO:0019218)	1/23	1.283211e-01	2.547722e-01	0	0	7.649846e+00	1.570682e+01	APOE
+GO_Biological_Process_2021	regulation of supramolecular fiber organization (GO:1902903)	1/23	1.283211e-01	2.547722e-01	0	0	7.649846e+00	1.570682e+01	APOE
+GO_Biological_Process_2021	regulation of telomere capping (GO:1904353)	1/23	1.283211e-01	2.547722e-01	0	0	7.649846e+00	1.570682e+01	PKIB
+GO_Biological_Process_2021	regulation of toll-like receptor 4 signaling pathway (GO:0034143)	1/23	1.283211e-01	2.547722e-01	0	0	7.649846e+00	1.570682e+01	NR1H3
+GO_Biological_Process_2021	hexose transmembrane transport (GO:0008645)	1/23	1.283211e-01	2.547722e-01	0	0	7.649846e+00	1.570682e+01	PPARD
+GO_Biological_Process_2021	positive regulation of interleukin-17 production (GO:0032740)	1/23	1.283211e-01	2.547722e-01	0	0	7.649846e+00	1.570682e+01	LY9
+GO_Biological_Process_2021	positive regulation of protein autophosphorylation (GO:0031954)	1/23	1.283211e-01	2.547722e-01	0	0	7.649846e+00	1.570682e+01	RAP2A
+GO_Biological_Process_2021	membrane protein ectodomain proteolysis (GO:0006509)	1/23	1.283211e-01	2.547722e-01	0	0	7.649846e+00	1.570682e+01	PSEN2
+GO_Biological_Process_2021	triglyceride catabolic process (GO:0019433)	1/23	1.283211e-01	2.547722e-01	0	0	7.649846e+00	1.570682e+01	FABP5
+GO_Biological_Process_2021	vesicle transport along microtubule (GO:0047496)	1/23	1.283211e-01	2.547722e-01	0	0	7.649846e+00	1.570682e+01	KIF3A
+GO_Biological_Process_2021	activation of GTPase activity (GO:0090630)	2/105	1.294020e-01	2.559858e-01	0	0	3.282383e+00	6.711920e+00	ARHGAP25;ARHGAP24
+GO_Biological_Process_2021	regulation of JNK cascade (GO:0046328)	2/105	1.294020e-01	2.559858e-01	0	0	3.282383e+00	6.711920e+00	RAP2A;FCGR2B
+GO_Biological_Process_2021	protein processing (GO:0016485)	2/106	1.314013e-01	2.584898e-01	0	0	3.250657e+00	6.597208e+00	PSEN2;CTSS
+GO_Biological_Process_2021	cellular response to peptide hormone stimulus (GO:0071375)	2/106	1.314013e-01	2.584898e-01	0	0	3.250657e+00	6.597208e+00	ENPP1;MYO5A
+GO_Biological_Process_2021	phosphate-containing compound metabolic process (GO:0006796)	3/212	1.326948e-01	2.584898e-01	0	0	2.434252e+00	4.916467e+00	ITPKB;HTR2B;ENPP1
+GO_Biological_Process_2021	regulation of cardiac muscle hypertrophy (GO:0010611)	1/24	1.335135e-01	2.584898e-01	0	0	7.316875e+00	1.473291e+01	P2RX4
+GO_Biological_Process_2021	negative regulation of lipid metabolic process (GO:0045833)	1/24	1.335135e-01	2.584898e-01	0	0	7.316875e+00	1.473291e+01	APOC2
+GO_Biological_Process_2021	regulation of cytokine production involved in immune response (GO:0002718)	1/24	1.335135e-01	2.584898e-01	0	0	7.316875e+00	1.473291e+01	TNFRSF1B
+GO_Biological_Process_2021	negative regulation of ossification (GO:0030279)	1/24	1.335135e-01	2.584898e-01	0	0	7.316875e+00	1.473291e+01	ENPP1
+GO_Biological_Process_2021	cellular response to catecholamine stimulus (GO:0071870)	1/24	1.335135e-01	2.584898e-01	0	0	7.316875e+00	1.473291e+01	GNG2
+GO_Biological_Process_2021	positive regulation of p38MAPK cascade (GO:1900745)	1/24	1.335135e-01	2.584898e-01	0	0	7.316875e+00	1.473291e+01	RELL1
+GO_Biological_Process_2021	positive regulation of phospholipase activity (GO:0010518)	1/24	1.335135e-01	2.584898e-01	0	0	7.316875e+00	1.473291e+01	APOC2
+GO_Biological_Process_2021	lymphocyte activation involved in immune response (GO:0002285)	1/24	1.335135e-01	2.584898e-01	0	0	7.316875e+00	1.473291e+01	CD74
+GO_Biological_Process_2021	positive regulation of viral life cycle (GO:1903902)	1/24	1.335135e-01	2.584898e-01	0	0	7.316875e+00	1.473291e+01	CD74
+GO_Biological_Process_2021	positive regulation of GTPase activity (GO:0043547)	3/214	1.353900e-01	2.616580e-01	0	0	2.410933e+00	4.820892e+00	RGS1;ARHGAP25;ARHGAP24
+GO_Biological_Process_2021	3'-phosphoadenosine 5'-phosphosulfate metabolic process (GO:0050427)	1/25	1.386753e-01	2.624237e-01	0	0	7.011653e+00	1.385236e+01	ENPP1
+GO_Biological_Process_2021	negative regulation of antigen receptor-mediated signaling pathway (GO:0050858)	1/25	1.386753e-01	2.624237e-01	0	0	7.011653e+00	1.385236e+01	FCGR2B
+GO_Biological_Process_2021	receptor signaling pathway via STAT (GO:0097696)	1/25	1.386753e-01	2.624237e-01	0	0	7.011653e+00	1.385236e+01	SOCS6
+GO_Biological_Process_2021	regulation of calcium ion import (GO:0090279)	1/25	1.386753e-01	2.624237e-01	0	0	7.011653e+00	1.385236e+01	PSEN2
+GO_Biological_Process_2021	negative regulation of ion transport (GO:0043271)	1/25	1.386753e-01	2.624237e-01	0	0	7.011653e+00	1.385236e+01	CD33
+GO_Biological_Process_2021	negative regulation of response to endoplasmic reticulum stress (GO:1903573)	1/25	1.386753e-01	2.624237e-01	0	0	7.011653e+00	1.385236e+01	NR1H3
+GO_Biological_Process_2021	negative regulation of sequestering of calcium ion (GO:0051283)	1/25	1.386753e-01	2.624237e-01	0	0	7.011653e+00	1.385236e+01	HTR2B
+GO_Biological_Process_2021	regulation of neutrophil chemotaxis (GO:0090022)	1/25	1.386753e-01	2.624237e-01	0	0	7.011653e+00	1.385236e+01	CD74
+GO_Biological_Process_2021	regulation of proteolysis involved in cellular protein catabolic process (GO:1903050)	1/25	1.386753e-01	2.624237e-01	0	0	7.011653e+00	1.385236e+01	APOE
+GO_Biological_Process_2021	positive regulation of ERBB signaling pathway (GO:1901186)	1/25	1.386753e-01	2.624237e-01	0	0	7.011653e+00	1.385236e+01	PLAUR
+GO_Biological_Process_2021	positive regulation of release of cytochrome c from mitochondria (GO:0090200)	1/25	1.386753e-01	2.624237e-01	0	0	7.011653e+00	1.385236e+01	PLAUR
+GO_Biological_Process_2021	positive regulation of vascular endothelial growth factor production (GO:0010575)	1/25	1.386753e-01	2.624237e-01	0	0	7.011653e+00	1.385236e+01	HPSE
+GO_Biological_Process_2021	cellular response to lipid (GO:0071396)	3/219	1.422103e-01	2.661276e-01	0	0	2.354526e+00	4.592381e+00	MGST1;NR1H3;TNFRSF1B
+GO_Biological_Process_2021	proteoglycan metabolic process (GO:0006029)	1/26	1.438066e-01	2.661276e-01	0	0	6.730847e+00	1.305304e+01	HPSE
+GO_Biological_Process_2021	regulation of biomineral tissue development (GO:0070167)	1/26	1.438066e-01	2.661276e-01	0	0	6.730847e+00	1.305304e+01	ENPP1
+GO_Biological_Process_2021	negative regulation of interleukin-1 beta production (GO:0032691)	1/26	1.438066e-01	2.661276e-01	0	0	6.730847e+00	1.305304e+01	CD33
+GO_Biological_Process_2021	negative regulation of intrinsic apoptotic signaling pathway in response to DNA damage (GO:1902230)	1/26	1.438066e-01	2.661276e-01	0	0	6.730847e+00	1.305304e+01	CD74
+GO_Biological_Process_2021	negative regulation of protein transport (GO:0051224)	1/26	1.438066e-01	2.661276e-01	0	0	6.730847e+00	1.305304e+01	APOE
+GO_Biological_Process_2021	negative regulation of receptor-mediated endocytosis (GO:0048261)	1/26	1.438066e-01	2.661276e-01	0	0	6.730847e+00	1.305304e+01	APOC2
+GO_Biological_Process_2021	cellular response to drug (GO:0035690)	1/26	1.438066e-01	2.661276e-01	0	0	6.730847e+00	1.305304e+01	RAP2A
+GO_Biological_Process_2021	negative regulation of signaling receptor activity (GO:2000272)	1/26	1.438066e-01	2.661276e-01	0	0	6.730847e+00	1.305304e+01	CNRIP1
+GO_Biological_Process_2021	regulation of glycogen biosynthetic process (GO:0005979)	1/26	1.438066e-01	2.661276e-01	0	0	6.730847e+00	1.305304e+01	ENPP1
+GO_Biological_Process_2021	regulation of myelination (GO:0031641)	1/26	1.438066e-01	2.661276e-01	0	0	6.730847e+00	1.305304e+01	TNFRSF1B
+GO_Biological_Process_2021	positive regulation of interleukin-2 production (GO:0032743)	1/26	1.438066e-01	2.661276e-01	0	0	6.730847e+00	1.305304e+01	CD28
+GO_Biological_Process_2021	positive regulation of ion transmembrane transporter activity (GO:0032414)	1/26	1.438066e-01	2.661276e-01	0	0	6.730847e+00	1.305304e+01	CTSS
+GO_Biological_Process_2021	positive regulation of metabolic process (GO:0009893)	2/113	1.455882e-01	2.687239e-01	0	0	3.044583e+00	5.866830e+00	FABP5;CXCR4
+GO_Biological_Process_2021	negative regulation of cell motility (GO:2000146)	2/114	1.476406e-01	2.687239e-01	0	0	3.017247e+00	5.771916e+00	CD74;RAP2A
+GO_Biological_Process_2021	response to lipid (GO:0033993)	2/114	1.476406e-01	2.687239e-01	0	0	3.017247e+00	5.771916e+00	GPX3;PPARD
+GO_Biological_Process_2021	positive regulation of kinase activity (GO:0033674)	2/114	1.476406e-01	2.687239e-01	0	0	3.017247e+00	5.771916e+00	CD74;MERTK
+GO_Biological_Process_2021	negative regulation of endothelial cell apoptotic process (GO:2000352)	1/27	1.489076e-01	2.687239e-01	0	0	6.471643e+00	1.232479e+01	NFE2L2
+GO_Biological_Process_2021	negative regulation of insulin receptor signaling pathway (GO:0046627)	1/27	1.489076e-01	2.687239e-01	0	0	6.471643e+00	1.232479e+01	ENPP1
+GO_Biological_Process_2021	bile acid biosynthetic process (GO:0006699)	1/27	1.489076e-01	2.687239e-01	0	0	6.471643e+00	1.232479e+01	CYP27A1
+GO_Biological_Process_2021	negative regulation of plasma membrane bounded cell projection assembly (GO:0120033)	1/27	1.489076e-01	2.687239e-01	0	0	6.471643e+00	1.232479e+01	ARHGAP24
+GO_Biological_Process_2021	cellular lipid catabolic process (GO:0044242)	1/27	1.489076e-01	2.687239e-01	0	0	6.471643e+00	1.232479e+01	PPARD
+GO_Biological_Process_2021	regulation of vascular endothelial growth factor production (GO:0010574)	1/27	1.489076e-01	2.687239e-01	0	0	6.471643e+00	1.232479e+01	HPSE
+GO_Biological_Process_2021	release of sequestered calcium ion into cytosol (GO:0051209)	1/27	1.489076e-01	2.687239e-01	0	0	6.471643e+00	1.232479e+01	HTR2B
+GO_Biological_Process_2021	positive regulation of nitric oxide biosynthetic process (GO:0045429)	1/27	1.489076e-01	2.687239e-01	0	0	6.471643e+00	1.232479e+01	P2RX4
+GO_Biological_Process_2021	positive regulation of nuclear division (GO:0051785)	1/27	1.489076e-01	2.687239e-01	0	0	6.471643e+00	1.232479e+01	CD28
+GO_Biological_Process_2021	positive regulation of toll-like receptor signaling pathway (GO:0034123)	1/27	1.489076e-01	2.687239e-01	0	0	6.471643e+00	1.232479e+01	NR1H3
+GO_Biological_Process_2021	monocarboxylic acid catabolic process (GO:0072329)	1/27	1.489076e-01	2.687239e-01	0	0	6.471643e+00	1.232479e+01	PPARD
+GO_Biological_Process_2021	positive regulation of protein metabolic process (GO:0051247)	2/115	1.496989e-01	2.689687e-01	0	0	2.990394e+00	5.679144e+00	NR1H3;APOE
+GO_Biological_Process_2021	cytosolic transport (GO:0016482)	2/116	1.517631e-01	2.689687e-01	0	0	2.964013e+00	5.588451e+00	TMEM87B;DENND2A
+GO_Biological_Process_2021	regulation of protein-containing complex assembly (GO:0043254)	2/116	1.517631e-01	2.689687e-01	0	0	2.964013e+00	5.588451e+00	APOE;RHOC
+GO_Biological_Process_2021	negative regulation of cellular response to insulin stimulus (GO:1900077)	1/28	1.539784e-01	2.689687e-01	0	0	6.231638e+00	1.165904e+01	ENPP1
+GO_Biological_Process_2021	regulation of B cell activation (GO:0050864)	1/28	1.539784e-01	2.689687e-01	0	0	6.231638e+00	1.165904e+01	FCGR2B
+GO_Biological_Process_2021	regulation of calcium-mediated signaling (GO:0050848)	1/28	1.539784e-01	2.689687e-01	0	0	6.231638e+00	1.165904e+01	P2RX4
+GO_Biological_Process_2021	negative regulation of oxidative stress-induced cell death (GO:1903202)	1/28	1.539784e-01	2.689687e-01	0	0	6.231638e+00	1.165904e+01	NFE2L2
+GO_Biological_Process_2021	regulation of DNA damage response, signal transduction by p53 class mediator (GO:0043516)	1/28	1.539784e-01	2.689687e-01	0	0	6.231638e+00	1.165904e+01	CD74
+GO_Biological_Process_2021	cellular response to acid chemical (GO:0071229)	1/28	1.539784e-01	2.689687e-01	0	0	6.231638e+00	1.165904e+01	CPEB3
+GO_Biological_Process_2021	regulation of immunoglobulin production (GO:0002637)	1/28	1.539784e-01	2.689687e-01	0	0	6.231638e+00	1.165904e+01	FCGR2B
+GO_Biological_Process_2021	regulation of multicellular organismal development (GO:2000026)	1/28	1.539784e-01	2.689687e-01	0	0	6.231638e+00	1.165904e+01	HPSE
+GO_Biological_Process_2021	regulation of plasma membrane bounded cell projection organization (GO:0120035)	1/28	1.539784e-01	2.689687e-01	0	0	6.231638e+00	1.165904e+01	FCGR2B
+GO_Biological_Process_2021	regulation of postsynapse organization (GO:0099175)	1/28	1.539784e-01	2.689687e-01	0	0	6.231638e+00	1.165904e+01	FCGR2B
+GO_Biological_Process_2021	regulation of small molecule metabolic process (GO:0062012)	1/28	1.539784e-01	2.689687e-01	0	0	6.231638e+00	1.165904e+01	APOE
+GO_Biological_Process_2021	positive regulation of fibroblast proliferation (GO:0048146)	1/28	1.539784e-01	2.689687e-01	0	0	6.231638e+00	1.165904e+01	CD74
+GO_Biological_Process_2021	response to ketone (GO:1901654)	1/28	1.539784e-01	2.689687e-01	0	0	6.231638e+00	1.165904e+01	NR1H3
+GO_Biological_Process_2021	positive regulation of nitric oxide metabolic process (GO:1904407)	1/28	1.539784e-01	2.689687e-01	0	0	6.231638e+00	1.165904e+01	P2RX4
+GO_Biological_Process_2021	sulfur compound transport (GO:0072348)	1/28	1.539784e-01	2.689687e-01	0	0	6.231638e+00	1.165904e+01	MGST1
+GO_Biological_Process_2021	T cell activation involved in immune response (GO:0002286)	1/28	1.539784e-01	2.689687e-01	0	0	6.231638e+00	1.165904e+01	CD74
+GO_Biological_Process_2021	protein localization to lysosome (GO:0061462)	1/28	1.539784e-01	2.689687e-01	0	0	6.231638e+00	1.165904e+01	RNF128
+GO_Biological_Process_2021	supramolecular fiber organization (GO:0097435)	4/351	1.571256e-01	2.738247e-01	0	0	1.958050e+00	3.623783e+00	LOX;MYO5A;RHOC;ARHGAP25
+GO_Biological_Process_2021	negative regulation of myeloid leukocyte differentiation (GO:0002762)	1/29	1.590193e-01	2.738247e-01	0	0	6.008777e+00	1.104852e+01	GPR137B
+GO_Biological_Process_2021	negative regulation of transferase activity (GO:0051348)	1/29	1.590193e-01	2.738247e-01	0	0	6.008777e+00	1.104852e+01	EIF4A2
+GO_Biological_Process_2021	negative regulation of wound healing (GO:0061045)	1/29	1.590193e-01	2.738247e-01	0	0	6.008777e+00	1.104852e+01	APOE
+GO_Biological_Process_2021	regulation of neuronal synaptic plasticity (GO:0048168)	1/29	1.590193e-01	2.738247e-01	0	0	6.008777e+00	1.104852e+01	APOE
+GO_Biological_Process_2021	regulation of response to biotic stimulus (GO:0002831)	1/29	1.590193e-01	2.738247e-01	0	0	6.008777e+00	1.104852e+01	FCGR2B
+GO_Biological_Process_2021	response to zinc ion (GO:0010043)	1/29	1.590193e-01	2.738247e-01	0	0	6.008777e+00	1.104852e+01	P2RX4
+GO_Biological_Process_2021	hydrogen peroxide metabolic process (GO:0042743)	1/29	1.590193e-01	2.738247e-01	0	0	6.008777e+00	1.104852e+01	GPX3
+GO_Biological_Process_2021	positive regulation of viral genome replication (GO:0045070)	1/29	1.590193e-01	2.738247e-01	0	0	6.008777e+00	1.104852e+01	CD28
+GO_Biological_Process_2021	cellular response to lipopolysaccharide (GO:0071222)	2/120	1.600755e-01	2.746639e-01	0	0	2.862958e+00	5.245253e+00	NR1H3;TNFRSF1B
+GO_Biological_Process_2021	cytoskeleton organization (GO:0007010)	2/120	1.600755e-01	2.746639e-01	0	0	2.862958e+00	5.245253e+00	APOE;RHOC
+GO_Biological_Process_2021	positive regulation of gene expression (GO:0010628)	5/482	1.602626e-01	2.746639e-01	0	0	1.784177e+00	3.266725e+00	CD74;CD28;HTR2B;CPEB3;NFE2L2
+GO_Biological_Process_2021	negative regulation of interleukin-1 production (GO:0032692)	1/30	1.640304e-01	2.789284e-01	0	0	5.801286e+00	1.048701e+01	CD33
+GO_Biological_Process_2021	regulation of long-term synaptic potentiation (GO:1900271)	1/30	1.640304e-01	2.789284e-01	0	0	5.801286e+00	1.048701e+01	APOE
+GO_Biological_Process_2021	phosphatidylcholine acyl-chain remodeling (GO:0036151)	1/30	1.640304e-01	2.789284e-01	0	0	5.801286e+00	1.048701e+01	NR1H3
+GO_Biological_Process_2021	positive regulation of B cell proliferation (GO:0030890)	1/30	1.640304e-01	2.789284e-01	0	0	5.801286e+00	1.048701e+01	CD74
+GO_Biological_Process_2021	regulation of striated muscle contraction (GO:0006942)	1/30	1.640304e-01	2.789284e-01	0	0	5.801286e+00	1.048701e+01	P2RX4
+GO_Biological_Process_2021	regulation of anatomical structure morphogenesis (GO:0022603)	2/123	1.663643e-01	2.820173e-01	0	0	2.791552e+00	5.006858e+00	RAP2A;KIF13B
+GO_Biological_Process_2021	positive regulation of epithelial cell proliferation (GO:0050679)	2/123	1.663643e-01	2.820173e-01	0	0	2.791552e+00	5.006858e+00	AKT3;HTR2B
+GO_Biological_Process_2021	aminoglycan catabolic process (GO:0006026)	1/31	1.690119e-01	2.830916e-01	0	0	5.607627e+00	9.969163e+00	HPSE
+GO_Biological_Process_2021	receptor signaling pathway via JAK-STAT (GO:0007259)	1/31	1.690119e-01	2.830916e-01	0	0	5.607627e+00	9.969163e+00	SOCS6
+GO_Biological_Process_2021	regulation of cellular senescence (GO:2000772)	1/31	1.690119e-01	2.830916e-01	0	0	5.607627e+00	9.969163e+00	AKT3
+GO_Biological_Process_2021	regulation of developmental growth (GO:0048638)	1/31	1.690119e-01	2.830916e-01	0	0	5.607627e+00	9.969163e+00	APOE
+GO_Biological_Process_2021	negative regulation of response to DNA damage stimulus (GO:2001021)	1/31	1.690119e-01	2.830916e-01	0	0	5.607627e+00	9.969163e+00	CD74
+GO_Biological_Process_2021	regulation of macrophage derived foam cell differentiation (GO:0010743)	1/31	1.690119e-01	2.830916e-01	0	0	5.607627e+00	9.969163e+00	NR1H3
+GO_Biological_Process_2021	prostaglandin metabolic process (GO:0006693)	1/31	1.690119e-01	2.830916e-01	0	0	5.607627e+00	9.969163e+00	CD74
+GO_Biological_Process_2021	positive regulation of cellular process (GO:0048522)	6/625	1.690758e-01	2.830916e-01	0	0	1.652280e+00	2.936775e+00	P2RX4;HTR2B;IL7R;MERTK;TNFRSF1B;FCGR2B
+GO_Biological_Process_2021	cellular response to oxidative stress (GO:0034599)	2/125	1.705809e-01	2.847369e-01	0	0	2.745883e+00	4.856219e+00	GPX3;NFE2L2
+GO_Biological_Process_2021	regulation of protein secretion (GO:0050708)	2/125	1.705809e-01	2.847369e-01	0	0	2.745883e+00	4.856219e+00	APOE;CD33
+GO_Biological_Process_2021	phosphatidylinositol biosynthetic process (GO:0006661)	2/126	1.726960e-01	2.851438e-01	0	0	2.723601e+00	4.783249e+00	ITPKB;SOCS6
+GO_Biological_Process_2021	activation of phospholipase C activity (GO:0007202)	1/32	1.739639e-01	2.851438e-01	0	0	5.426463e+00	9.490381e+00	HTR2B
+GO_Biological_Process_2021	regulation of cell migration involved in sprouting angiogenesis (GO:0090049)	1/32	1.739639e-01	2.851438e-01	0	0	5.426463e+00	9.490381e+00	AKT3
+GO_Biological_Process_2021	regulation of cellular biosynthetic process (GO:0031326)	1/32	1.739639e-01	2.851438e-01	0	0	5.426463e+00	9.490381e+00	TNFRSF1B
+GO_Biological_Process_2021	regulation of dendrite morphogenesis (GO:0048814)	1/32	1.739639e-01	2.851438e-01	0	0	5.426463e+00	9.490381e+00	RAP2A
+GO_Biological_Process_2021	ERBB2 signaling pathway (GO:0038128)	1/32	1.739639e-01	2.851438e-01	0	0	5.426463e+00	9.490381e+00	GAB1
+GO_Biological_Process_2021	establishment or maintenance of epithelial cell apical/basal polarity (GO:0045197)	1/32	1.739639e-01	2.851438e-01	0	0	5.426463e+00	9.490381e+00	RAP2A
+GO_Biological_Process_2021	response to amino acid (GO:0043200)	1/32	1.739639e-01	2.851438e-01	0	0	5.426463e+00	9.490381e+00	CPEB3
+GO_Biological_Process_2021	positive regulation of interleukin-10 production (GO:0032733)	1/32	1.739639e-01	2.851438e-01	0	0	5.426463e+00	9.490381e+00	CD28
+GO_Biological_Process_2021	positive regulation of receptor signaling pathway via STAT (GO:1904894)	1/32	1.739639e-01	2.851438e-01	0	0	5.426463e+00	9.490381e+00	IL7R
+GO_Biological_Process_2021	membrane depolarization (GO:0051899)	1/32	1.739639e-01	2.851438e-01	0	0	5.426463e+00	9.490381e+00	P2RX4
+GO_Biological_Process_2021	positive regulation of telomere maintenance (GO:0032206)	1/32	1.739639e-01	2.851438e-01	0	0	5.426463e+00	9.490381e+00	PKIB
+GO_Biological_Process_2021	apoptotic cell clearance (GO:0043277)	1/33	1.788867e-01	2.913179e-01	0	0	5.256621e+00	9.046658e+00	NR1H3
+GO_Biological_Process_2021	bile acid metabolic process (GO:0008206)	1/33	1.788867e-01	2.913179e-01	0	0	5.256621e+00	9.046658e+00	CYP27A1
+GO_Biological_Process_2021	regulation of interleukin-17 production (GO:0032660)	1/33	1.788867e-01	2.913179e-01	0	0	5.256621e+00	9.046658e+00	LY9
+GO_Biological_Process_2021	positive regulation of telomere maintenance via telomerase (GO:0032212)	1/33	1.788867e-01	2.913179e-01	0	0	5.256621e+00	9.046658e+00	PKIB
+GO_Biological_Process_2021	positive regulation of macromolecule biosynthetic process (GO:0010557)	2/129	1.790669e-01	2.913179e-01	0	0	2.658860e+00	4.573227e+00	CD28;CPEB3
+GO_Biological_Process_2021	positive regulation of protein phosphorylation (GO:0001934)	4/371	1.801572e-01	2.926547e-01	0	0	1.849449e+00	3.169818e+00	CD74;RAP2A;P2RY1;PLAUR
+GO_Biological_Process_2021	regulation of primary metabolic process (GO:0080090)	2/130	1.811988e-01	2.928664e-01	0	0	2.637954e+00	4.506050e+00	APOE;PPARD
+GO_Biological_Process_2021	cellular response to metal ion (GO:0071248)	2/131	1.833344e-01	2.928664e-01	0	0	2.617372e+00	4.440223e+00	ITPKB;P2RX4
+GO_Biological_Process_2021	negative regulation of blood vessel endothelial cell migration (GO:0043537)	1/34	1.837804e-01	2.928664e-01	0	0	5.097072e+00	8.634511e+00	APOE
+GO_Biological_Process_2021	regulation of amyloid-beta formation (GO:1902003)	1/34	1.837804e-01	2.928664e-01	0	0	5.097072e+00	8.634511e+00	APOE
+GO_Biological_Process_2021	autophagosome maturation (GO:0097352)	1/34	1.837804e-01	2.928664e-01	0	0	5.097072e+00	8.634511e+00	GABARAPL1
+GO_Biological_Process_2021	cellular response to amino acid stimulus (GO:0071230)	1/34	1.837804e-01	2.928664e-01	0	0	5.097072e+00	8.634511e+00	CPEB3
+GO_Biological_Process_2021	cellular response to vascular endothelial growth factor stimulus (GO:0035924)	1/34	1.837804e-01	2.928664e-01	0	0	5.097072e+00	8.634511e+00	GAB1
+GO_Biological_Process_2021	phosphatidylinositol 3-kinase signaling (GO:0014065)	1/34	1.837804e-01	2.928664e-01	0	0	5.097072e+00	8.634511e+00	HTR2B
+GO_Biological_Process_2021	positive regulation of calcium ion transport into cytosol (GO:0010524)	1/34	1.837804e-01	2.928664e-01	0	0	5.097072e+00	8.634511e+00	P2RX4
+GO_Biological_Process_2021	positive regulation of DNA binding (GO:0043388)	1/34	1.837804e-01	2.928664e-01	0	0	5.097072e+00	8.634511e+00	PLAUR
+GO_Biological_Process_2021	positive regulation of epidermal growth factor receptor signaling pathway (GO:0045742)	1/34	1.837804e-01	2.928664e-01	0	0	5.097072e+00	8.634511e+00	PLAUR
+GO_Biological_Process_2021	response to steroid hormone (GO:0048545)	1/34	1.837804e-01	2.928664e-01	0	0	5.097072e+00	8.634511e+00	NR1H3
+GO_Biological_Process_2021	positive regulation of telomerase activity (GO:0051973)	1/34	1.837804e-01	2.928664e-01	0	0	5.097072e+00	8.634511e+00	PKIB
+GO_Biological_Process_2021	acylglycerol catabolic process (GO:0046464)	1/35	1.886452e-01	2.962871e-01	0	0	4.946909e+00	8.250888e+00	FABP5
+GO_Biological_Process_2021	negative regulation of epithelial cell migration (GO:0010633)	1/35	1.886452e-01	2.962871e-01	0	0	4.946909e+00	8.250888e+00	APOE
+GO_Biological_Process_2021	blood vessel diameter maintenance (GO:0097746)	1/35	1.886452e-01	2.962871e-01	0	0	4.946909e+00	8.250888e+00	HTR2B
+GO_Biological_Process_2021	cellular response to amyloid-beta (GO:1904646)	1/35	1.886452e-01	2.962871e-01	0	0	4.946909e+00	8.250888e+00	FCGR2B
+GO_Biological_Process_2021	negative regulation of Ras protein signal transduction (GO:0046580)	1/35	1.886452e-01	2.962871e-01	0	0	4.946909e+00	8.250888e+00	ARHGAP24
+GO_Biological_Process_2021	cellular response to hydrogen peroxide (GO:0070301)	1/35	1.886452e-01	2.962871e-01	0	0	4.946909e+00	8.250888e+00	NFE2L2
+GO_Biological_Process_2021	regulation of lipid biosynthetic process (GO:0046890)	1/35	1.886452e-01	2.962871e-01	0	0	4.946909e+00	8.250888e+00	APOE
+GO_Biological_Process_2021	oxoacid metabolic process (GO:0043436)	1/35	1.886452e-01	2.962871e-01	0	0	4.946909e+00	8.250888e+00	ENPP1
+GO_Biological_Process_2021	regulation of TORC1 signaling (GO:1903432)	1/35	1.886452e-01	2.962871e-01	0	0	4.946909e+00	8.250888e+00	GPR137B
+GO_Biological_Process_2021	regulation of trans-synaptic signaling (GO:0099177)	1/35	1.886452e-01	2.962871e-01	0	0	4.946909e+00	8.250888e+00	FABP5
+GO_Biological_Process_2021	positive regulation of nucleic acid-templated transcription (GO:1903508)	5/511	1.889364e-01	2.963175e-01	0	0	1.679409e+00	2.798474e+00	CD74;NR1H3;HIVEP3;APOE;PPARD
+GO_Biological_Process_2021	positive regulation of peptidyl-tyrosine phosphorylation (GO:0050731)	2/134	1.897636e-01	2.971872e-01	0	0	2.557498e+00	4.250501e+00	CD74;GPRC5B
+GO_Biological_Process_2021	aortic valve development (GO:0003176)	1/36	1.934812e-01	2.978736e-01	0	0	4.805327e+00	7.893110e+00	TNFRSF1B
+GO_Biological_Process_2021	negative regulation of fat cell differentiation (GO:0045599)	1/36	1.934812e-01	2.978736e-01	0	0	4.805327e+00	7.893110e+00	ENPP1
+GO_Biological_Process_2021	axonal transport (GO:0098930)	1/36	1.934812e-01	2.978736e-01	0	0	4.805327e+00	7.893110e+00	KIF3A
+GO_Biological_Process_2021	regulation of cardiac muscle contraction (GO:0055117)	1/36	1.934812e-01	2.978736e-01	0	0	4.805327e+00	7.893110e+00	P2RX4
+GO_Biological_Process_2021	regulation of ossification (GO:0030278)	1/36	1.934812e-01	2.978736e-01	0	0	4.805327e+00	7.893110e+00	ENPP1
+GO_Biological_Process_2021	regulation of osteoclast differentiation (GO:0045670)	1/36	1.934812e-01	2.978736e-01	0	0	4.805327e+00	7.893110e+00	GPR137B
+GO_Biological_Process_2021	regulation of sodium ion transport (GO:0002028)	1/36	1.934812e-01	2.978736e-01	0	0	4.805327e+00	7.893110e+00	P2RX4
+GO_Biological_Process_2021	positive regulation of mitotic nuclear division (GO:0045840)	1/36	1.934812e-01	2.978736e-01	0	0	4.805327e+00	7.893110e+00	CD28
+GO_Biological_Process_2021	positive regulation of myeloid leukocyte differentiation (GO:0002763)	1/36	1.934812e-01	2.978736e-01	0	0	4.805327e+00	7.893110e+00	CD74
+GO_Biological_Process_2021	positive regulation of telomere maintenance via telomere lengthening (GO:1904358)	1/36	1.934812e-01	2.978736e-01	0	0	4.805327e+00	7.893110e+00	PKIB
+GO_Biological_Process_2021	mitochondrion disassembly (GO:0061726)	1/36	1.934812e-01	2.978736e-01	0	0	4.805327e+00	7.893110e+00	GABARAPL1
+GO_Biological_Process_2021	Wnt signaling pathway, calcium modulating pathway (GO:0007223)	1/36	1.934812e-01	2.978736e-01	0	0	4.805327e+00	7.893110e+00	GNG2
+GO_Biological_Process_2021	negative regulation of inflammatory response to antigenic stimulus (GO:0002862)	2/136	1.940669e-01	2.983539e-01	0	0	2.519071e+00	4.130150e+00	GNG2;FCGR2B
+GO_Biological_Process_2021	anterograde axonal transport (GO:0008089)	1/37	1.982886e-01	3.014429e-01	0	0	4.671610e+00	7.558813e+00	KIF3A
+GO_Biological_Process_2021	negative regulation of endothelial cell proliferation (GO:0001937)	1/37	1.982886e-01	3.014429e-01	0	0	4.671610e+00	7.558813e+00	APOE
+GO_Biological_Process_2021	negative regulation of epithelial cell apoptotic process (GO:1904036)	1/37	1.982886e-01	3.014429e-01	0	0	4.671610e+00	7.558813e+00	NFE2L2
+GO_Biological_Process_2021	regulation of glucose import (GO:0046324)	1/37	1.982886e-01	3.014429e-01	0	0	4.671610e+00	7.558813e+00	ENPP1
+GO_Biological_Process_2021	neural crest cell migration (GO:0001755)	1/37	1.982886e-01	3.014429e-01	0	0	4.671610e+00	7.558813e+00	HTR2B
+GO_Biological_Process_2021	regulation of p38MAPK cascade (GO:1900744)	1/37	1.982886e-01	3.014429e-01	0	0	4.671610e+00	7.558813e+00	RELL1
+GO_Biological_Process_2021	positive regulation of calcium ion transport (GO:0051928)	1/37	1.982886e-01	3.014429e-01	0	0	4.671610e+00	7.558813e+00	P2RX4
+GO_Biological_Process_2021	glutamine family amino acid metabolic process (GO:0009064)	1/37	1.982886e-01	3.014429e-01	0	0	4.671610e+00	7.558813e+00	MTHFS
+GO_Biological_Process_2021	transcription initiation from RNA polymerase II promoter (GO:0006367)	2/140	2.027106e-01	3.065702e-01	0	0	2.445559e+00	3.903053e+00	NR1H3;PPARD
+GO_Biological_Process_2021	negative regulation of endothelial cell migration (GO:0010596)	1/38	2.030676e-01	3.065702e-01	0	0	4.545121e+00	7.245906e+00	APOE
+GO_Biological_Process_2021	regulation of axon extension (GO:0030516)	1/38	2.030676e-01	3.065702e-01	0	0	4.545121e+00	7.245906e+00	APOE
+GO_Biological_Process_2021	positive regulation of potassium ion transport (GO:0043268)	1/38	2.030676e-01	3.065702e-01	0	0	4.545121e+00	7.245906e+00	GNG2
+GO_Biological_Process_2021	mRNA destabilization (GO:0061157)	1/38	2.030676e-01	3.065702e-01	0	0	4.545121e+00	7.245906e+00	CPEB3
+GO_Biological_Process_2021	Ras protein signal transduction (GO:0007265)	2/142	2.070493e-01	3.086131e-01	0	0	2.410379e+00	3.795860e+00	RAP2A;RASGRP3
+GO_Biological_Process_2021	negative regulation of cellular metabolic process (GO:0031324)	1/39	2.078184e-01	3.086131e-01	0	0	4.425290e+00	6.952532e+00	APOE
+GO_Biological_Process_2021	negative regulation of lymphocyte proliferation (GO:0050672)	1/39	2.078184e-01	3.086131e-01	0	0	4.425290e+00	6.952532e+00	FCGR2B
+GO_Biological_Process_2021	regulation of cellular component biogenesis (GO:0044087)	1/39	2.078184e-01	3.086131e-01	0	0	4.425290e+00	6.952532e+00	APOE
+GO_Biological_Process_2021	regulation of dendrite development (GO:0050773)	1/39	2.078184e-01	3.086131e-01	0	0	4.425290e+00	6.952532e+00	RAP2A
+GO_Biological_Process_2021	cellular response to ketone (GO:1901655)	1/39	2.078184e-01	3.086131e-01	0	0	4.425290e+00	6.952532e+00	GNG2
+GO_Biological_Process_2021	organophosphate biosynthetic process (GO:0090407)	1/39	2.078184e-01	3.086131e-01	0	0	4.425290e+00	6.952532e+00	ITPKB
+GO_Biological_Process_2021	regulation of protein tyrosine kinase activity (GO:0061097)	1/39	2.078184e-01	3.086131e-01	0	0	4.425290e+00	6.952532e+00	GPRC5B
+GO_Biological_Process_2021	regulation of receptor-mediated endocytosis (GO:0048259)	1/39	2.078184e-01	3.086131e-01	0	0	4.425290e+00	6.952532e+00	APOC2
+GO_Biological_Process_2021	regulation of viral entry into host cell (GO:0046596)	1/39	2.078184e-01	3.086131e-01	0	0	4.425290e+00	6.952532e+00	CD74
+GO_Biological_Process_2021	membrane protein proteolysis (GO:0033619)	1/39	2.078184e-01	3.086131e-01	0	0	4.425290e+00	6.952532e+00	PSEN2
+GO_Biological_Process_2021	vesicle cytoskeletal trafficking (GO:0099518)	1/39	2.078184e-01	3.086131e-01	0	0	4.425290e+00	6.952532e+00	MYO5A
+GO_Biological_Process_2021	receptor-mediated endocytosis (GO:0006898)	2/143	2.092225e-01	3.102756e-01	0	0	2.393162e+00	3.743760e+00	APOE;FCGR2B
+GO_Biological_Process_2021	negative regulation of cell migration (GO:0030336)	2/144	2.113981e-01	3.118032e-01	0	0	2.376189e+00	3.692626e+00	CD74;RAP2A
+GO_Biological_Process_2021	autophagy of mitochondrion (GO:0000422)	1/40	2.125411e-01	3.118032e-01	0	0	4.311604e+00	6.677036e+00	GABARAPL1
+GO_Biological_Process_2021	regulation of nitric oxide biosynthetic process (GO:0045428)	1/40	2.125411e-01	3.118032e-01	0	0	4.311604e+00	6.677036e+00	P2RX4
+GO_Biological_Process_2021	positive regulation of catalytic activity (GO:0043085)	1/40	2.125411e-01	3.118032e-01	0	0	4.311604e+00	6.677036e+00	PSEN2
+GO_Biological_Process_2021	positive regulation of cation channel activity (GO:2001259)	1/40	2.125411e-01	3.118032e-01	0	0	4.311604e+00	6.677036e+00	CTSS
+GO_Biological_Process_2021	intraciliary transport involved in cilium assembly (GO:0035735)	1/40	2.125411e-01	3.118032e-01	0	0	4.311604e+00	6.677036e+00	KIF3A
+GO_Biological_Process_2021	stem cell differentiation (GO:0048863)	1/40	2.125411e-01	3.118032e-01	0	0	4.311604e+00	6.677036e+00	HTR2B
+GO_Biological_Process_2021	positive regulation of wound healing (GO:0090303)	1/40	2.125411e-01	3.118032e-01	0	0	4.311604e+00	6.677036e+00	HPSE
+GO_Biological_Process_2021	phosphorylation (GO:0016310)	4/400	2.153885e-01	3.152957e-01	0	0	1.711462e+00	2.627629e+00	AKT3;HTR2B;AATK;MERTK
+GO_Biological_Process_2021	acylglycerol metabolic process (GO:0006639)	1/41	2.172358e-01	3.152957e-01	0	0	4.203602e+00	6.417940e+00	APOE
+GO_Biological_Process_2021	cortical cytoskeleton organization (GO:0030865)	1/41	2.172358e-01	3.152957e-01	0	0	4.203602e+00	6.417940e+00	RHOC
+GO_Biological_Process_2021	regulation of release of cytochrome c from mitochondria (GO:0090199)	1/41	2.172358e-01	3.152957e-01	0	0	4.203602e+00	6.417940e+00	PLAUR
+GO_Biological_Process_2021	hexose metabolic process (GO:0019318)	1/41	2.172358e-01	3.152957e-01	0	0	4.203602e+00	6.417940e+00	PPARD
+GO_Biological_Process_2021	import into cell (GO:0098657)	1/41	2.172358e-01	3.152957e-01	0	0	4.203602e+00	6.417940e+00	SLC29A1
+GO_Biological_Process_2021	T cell differentiation (GO:0030217)	1/41	2.172358e-01	3.152957e-01	0	0	4.203602e+00	6.417940e+00	CD28
+GO_Biological_Process_2021	positive regulation of TOR signaling (GO:0032008)	1/41	2.172358e-01	3.152957e-01	0	0	4.203602e+00	6.417940e+00	GPR137B
+GO_Biological_Process_2021	regulation of cytosolic calcium ion concentration (GO:0051480)	2/148	2.201225e-01	3.190605e-01	0	0	2.310619e+00	3.497287e+00	P2RY1;CXCR4
+GO_Biological_Process_2021	calcium ion transmembrane import into cytosol (GO:0097553)	1/42	2.219028e-01	3.195166e-01	0	0	4.100868e+00	6.173921e+00	HTR2B
+GO_Biological_Process_2021	regulation of chemokine production (GO:0032642)	1/42	2.219028e-01	3.195166e-01	0	0	4.100868e+00	6.173921e+00	CD74
+GO_Biological_Process_2021	regulation of DNA recombination (GO:0000018)	1/42	2.219028e-01	3.195166e-01	0	0	4.100868e+00	6.173921e+00	IL7R
+GO_Biological_Process_2021	regulation of nervous system development (GO:0051960)	1/42	2.219028e-01	3.195166e-01	0	0	4.100868e+00	6.173921e+00	TNFRSF1B
+GO_Biological_Process_2021	positive regulation of protein tyrosine kinase activity (GO:0061098)	1/42	2.219028e-01	3.195166e-01	0	0	4.100868e+00	6.173921e+00	GPRC5B
+GO_Biological_Process_2021	positive regulation of hydrolase activity (GO:0051345)	2/149	2.223086e-01	3.196785e-01	0	0	2.294785e+00	3.450642e+00	RGS1;RHOC
+GO_Biological_Process_2021	brain development (GO:0007420)	2/150	2.244965e-01	3.219752e-01	0	0	2.279164e+00	3.404832e+00	AATK;CXCR4
+GO_Biological_Process_2021	response to cytokine (GO:0034097)	2/150	2.244965e-01	3.219752e-01	0	0	2.279164e+00	3.404832e+00	CD74;CXCR4
+GO_Biological_Process_2021	regulation of cytokine production involved in inflammatory response (GO:1900015)	1/43	2.265423e-01	3.236318e-01	0	0	4.003027e+00	5.943789e+00	PLD3
+GO_Biological_Process_2021	positive regulation of neuron differentiation (GO:0045666)	1/43	2.265423e-01	3.236318e-01	0	0	4.003027e+00	5.943789e+00	GPRC5B
+GO_Biological_Process_2021	positive regulation of phospholipase C activity (GO:0010863)	1/43	2.265423e-01	3.236318e-01	0	0	4.003027e+00	5.943789e+00	HTR2B
+GO_Biological_Process_2021	regulation of endothelial cell apoptotic process (GO:2000351)	1/44	2.311542e-01	3.267939e-01	0	0	3.909736e+00	5.726473e+00	NFE2L2
+GO_Biological_Process_2021	neurogenesis (GO:0022008)	1/44	2.311542e-01	3.267939e-01	0	0	3.909736e+00	5.726473e+00	CXCR4
+GO_Biological_Process_2021	positive regulation of biosynthetic process (GO:0009891)	1/44	2.311542e-01	3.267939e-01	0	0	3.909736e+00	5.726473e+00	APOE
+GO_Biological_Process_2021	positive regulation of cell division (GO:0051781)	1/44	2.311542e-01	3.267939e-01	0	0	3.909736e+00	5.726473e+00	HTR2B
+GO_Biological_Process_2021	response to amyloid-beta (GO:1904645)	1/44	2.311542e-01	3.267939e-01	0	0	3.909736e+00	5.726473e+00	FCGR2B
+GO_Biological_Process_2021	positive regulation of mRNA catabolic process (GO:0061014)	1/44	2.311542e-01	3.267939e-01	0	0	3.909736e+00	5.726473e+00	CPEB3
+GO_Biological_Process_2021	positive regulation of potassium ion transmembrane transport (GO:1901381)	1/44	2.311542e-01	3.267939e-01	0	0	3.909736e+00	5.726473e+00	GNG2
+GO_Biological_Process_2021	positive regulation of stress fiber assembly (GO:0051496)	1/44	2.311542e-01	3.267939e-01	0	0	3.909736e+00	5.726473e+00	RHOC
+GO_Biological_Process_2021	negative regulation of T cell activation (GO:0050868)	1/45	2.357389e-01	3.311282e-01	0	0	3.820686e+00	5.521006e+00	FCGR2B
+GO_Biological_Process_2021	regulation of insulin receptor signaling pathway (GO:0046626)	1/45	2.357389e-01	3.311282e-01	0	0	3.820686e+00	5.521006e+00	ENPP1
+GO_Biological_Process_2021	neural crest cell development (GO:0014032)	1/45	2.357389e-01	3.311282e-01	0	0	3.820686e+00	5.521006e+00	HTR2B
+GO_Biological_Process_2021	regulation of pri-miRNA transcription by RNA polymerase II (GO:1902893)	1/45	2.357389e-01	3.311282e-01	0	0	3.820686e+00	5.521006e+00	PPARD
+GO_Biological_Process_2021	positive regulation of chemotaxis (GO:0050921)	1/45	2.357389e-01	3.311282e-01	0	0	3.820686e+00	5.521006e+00	P2RX4
+GO_Biological_Process_2021	regulation of DNA metabolic process (GO:0051052)	1/46	2.402966e-01	3.353691e-01	0	0	3.735593e+00	5.326513e+00	IL7R
+GO_Biological_Process_2021	regulation of fibroblast proliferation (GO:0048145)	1/46	2.402966e-01	3.353691e-01	0	0	3.735593e+00	5.326513e+00	CD74
+GO_Biological_Process_2021	negative regulation of tumor necrosis factor production (GO:0032720)	1/46	2.402966e-01	3.353691e-01	0	0	3.735593e+00	5.326513e+00	CD33
+GO_Biological_Process_2021	regulation of telomerase activity (GO:0051972)	1/46	2.402966e-01	3.353691e-01	0	0	3.735593e+00	5.326513e+00	PKIB
+GO_Biological_Process_2021	positive regulation of response to stimulus (GO:0048584)	1/46	2.402966e-01	3.353691e-01	0	0	3.735593e+00	5.326513e+00	FCGR2B
+GO_Biological_Process_2021	organonitrogen compound biosynthetic process (GO:1901566)	2/158	2.420528e-01	3.373882e-01	0	0	2.161407e+00	3.066170e+00	MGST1;APOE
+GO_Biological_Process_2021	response to lipopolysaccharide (GO:0032496)	2/159	2.442526e-01	3.377996e-01	0	0	2.147531e+00	3.027057e+00	NR1H3;TNFRSF1B
+GO_Biological_Process_2021	negative regulation of cold-induced thermogenesis (GO:0120163)	1/47	2.448272e-01	3.377996e-01	0	0	3.654200e+00	5.142200e+00	NR1H3
+GO_Biological_Process_2021	regulation of DNA binding (GO:0051101)	1/47	2.448272e-01	3.377996e-01	0	0	3.654200e+00	5.142200e+00	PLAUR
+GO_Biological_Process_2021	polyol metabolic process (GO:0019751)	1/47	2.448272e-01	3.377996e-01	0	0	3.654200e+00	5.142200e+00	ITPKB
+GO_Biological_Process_2021	epidermal growth factor receptor signaling pathway (GO:0007173)	1/47	2.448272e-01	3.377996e-01	0	0	3.654200e+00	5.142200e+00	GAB1
+GO_Biological_Process_2021	positive regulation of cell-cell adhesion (GO:0022409)	1/47	2.448272e-01	3.377996e-01	0	0	3.654200e+00	5.142200e+00	PLAUR
+GO_Biological_Process_2021	regulation of T cell activation (GO:0050863)	1/47	2.448272e-01	3.377996e-01	0	0	3.654200e+00	5.142200e+00	TNFRSF1B
+GO_Biological_Process_2021	positive regulation of neuron death (GO:1901216)	1/47	2.448272e-01	3.377996e-01	0	0	3.654200e+00	5.142200e+00	FCGR2B
+GO_Biological_Process_2021	negative regulation of MAP kinase activity (GO:0043407)	1/48	2.493311e-01	3.405650e-01	0	0	3.576271e+00	4.967347e+00	APOE
+GO_Biological_Process_2021	cellular response to alcohol (GO:0097306)	1/48	2.493311e-01	3.405650e-01	0	0	3.576271e+00	4.967347e+00	GNG2
+GO_Biological_Process_2021	negative regulation of tumor necrosis factor superfamily cytokine production (GO:1903556)	1/48	2.493311e-01	3.405650e-01	0	0	3.576271e+00	4.967347e+00	CD33
+GO_Biological_Process_2021	regulation of interleukin-2 production (GO:0032663)	1/48	2.493311e-01	3.405650e-01	0	0	3.576271e+00	4.967347e+00	CD28
+GO_Biological_Process_2021	cognition (GO:0050890)	1/48	2.493311e-01	3.405650e-01	0	0	3.576271e+00	4.967347e+00	GPR155
+GO_Biological_Process_2021	positive regulation of endocytosis (GO:0045807)	1/48	2.493311e-01	3.405650e-01	0	0	3.576271e+00	4.967347e+00	APOE
+GO_Biological_Process_2021	inositol phosphate metabolic process (GO:0043647)	1/48	2.493311e-01	3.405650e-01	0	0	3.576271e+00	4.967347e+00	ITPKB
+GO_Biological_Process_2021	myelination (GO:0042552)	1/48	2.493311e-01	3.405650e-01	0	0	3.576271e+00	4.967347e+00	CXCR4
+GO_Biological_Process_2021	negative regulation of cell projection organization (GO:0031345)	1/49	2.538083e-01	3.449514e-01	0	0	3.501589e+00	4.801295e+00	APOE
+GO_Biological_Process_2021	regulation of stress-activated MAPK cascade (GO:0032872)	1/49	2.538083e-01	3.449514e-01	0	0	3.501589e+00	4.801295e+00	RAP2A
+GO_Biological_Process_2021	response to hydrogen peroxide (GO:0042542)	1/49	2.538083e-01	3.449514e-01	0	0	3.501589e+00	4.801295e+00	NFE2L2
+GO_Biological_Process_2021	mitotic cytokinesis (GO:0000281)	1/49	2.538083e-01	3.449514e-01	0	0	3.501589e+00	4.801295e+00	RHOC
+GO_Biological_Process_2021	regulation of neuron projection development (GO:0010975)	2/165	2.574667e-01	3.494878e-01	0	0	2.067852e+00	2.805795e+00	KIF13B;APOE
+GO_Biological_Process_2021	organic hydroxy compound biosynthetic process (GO:1901617)	1/50	2.582590e-01	3.496923e-01	0	0	3.429955e+00	4.643447e+00	CYP27A1
+GO_Biological_Process_2021	positive regulation of ion transport (GO:0043270)	1/50	2.582590e-01	3.496923e-01	0	0	3.429955e+00	4.643447e+00	P2RX4
+GO_Biological_Process_2021	regulation of axonogenesis (GO:0050770)	1/51	2.626834e-01	3.530517e-01	0	0	3.361186e+00	4.493253e+00	KIF13B
+GO_Biological_Process_2021	positive regulation of actin filament bundle assembly (GO:0032233)	1/51	2.626834e-01	3.530517e-01	0	0	3.361186e+00	4.493253e+00	RHOC
+GO_Biological_Process_2021	positive regulation of fat cell differentiation (GO:0045600)	1/51	2.626834e-01	3.530517e-01	0	0	3.361186e+00	4.493253e+00	PPARD
+GO_Biological_Process_2021	sensory perception (GO:0007600)	1/51	2.626834e-01	3.530517e-01	0	0	3.361186e+00	4.493253e+00	P2RX4
+GO_Biological_Process_2021	intrinsic apoptotic signaling pathway in response to DNA damage (GO:0008630)	1/51	2.626834e-01	3.530517e-01	0	0	3.361186e+00	4.493253e+00	TNFRSF1B
+GO_Biological_Process_2021	mesenchymal cell differentiation (GO:0048762)	1/51	2.626834e-01	3.530517e-01	0	0	3.361186e+00	4.493253e+00	HTR2B
+GO_Biological_Process_2021	DNA-templated transcription, initiation (GO:0006352)	2/168	2.640797e-01	3.544912e-01	0	0	2.030172e+00	2.703183e+00	NR1H3;PPARD
+GO_Biological_Process_2021	ameboidal-type cell migration (GO:0001667)	1/52	2.670817e-01	3.567635e-01	0	0	3.295115e+00	4.350213e+00	HTR2B
+GO_Biological_Process_2021	negative regulation of protein metabolic process (GO:0051248)	1/52	2.670817e-01	3.567635e-01	0	0	3.295115e+00	4.350213e+00	APOE
+GO_Biological_Process_2021	regulation of intrinsic apoptotic signaling pathway (GO:2001242)	1/52	2.670817e-01	3.567635e-01	0	0	3.295115e+00	4.350213e+00	PLAUR
+GO_Biological_Process_2021	regulation of telomere maintenance via telomerase (GO:0032210)	1/52	2.670817e-01	3.567635e-01	0	0	3.295115e+00	4.350213e+00	PKIB
+GO_Biological_Process_2021	regulation of immune effector process (GO:0002697)	1/53	2.714539e-01	3.608351e-01	0	0	3.231584e+00	4.213866e+00	FCGR2B
+GO_Biological_Process_2021	positive regulation of B cell activation (GO:0050871)	1/53	2.714539e-01	3.608351e-01	0	0	3.231584e+00	4.213866e+00	CD74
+GO_Biological_Process_2021	positive regulation of chemokine production (GO:0032722)	1/53	2.714539e-01	3.608351e-01	0	0	3.231584e+00	4.213866e+00	CD74
+GO_Biological_Process_2021	heart morphogenesis (GO:0003007)	1/53	2.714539e-01	3.608351e-01	0	0	3.231584e+00	4.213866e+00	HTR2B
+GO_Biological_Process_2021	regulation of humoral immune response (GO:0002920)	1/54	2.758003e-01	3.635094e-01	0	0	3.170451e+00	4.083789e+00	FCGR2B
+GO_Biological_Process_2021	regulation of potassium ion transmembrane transport (GO:1901379)	1/54	2.758003e-01	3.635094e-01	0	0	3.170451e+00	4.083789e+00	GNG2
+GO_Biological_Process_2021	regulation of proteasomal protein catabolic process (GO:0061136)	1/54	2.758003e-01	3.635094e-01	0	0	3.170451e+00	4.083789e+00	APOE
+GO_Biological_Process_2021	regulation of proteolysis (GO:0030162)	1/54	2.758003e-01	3.635094e-01	0	0	3.170451e+00	4.083789e+00	PLAUR
+GO_Biological_Process_2021	glycosaminoglycan metabolic process (GO:0030203)	1/54	2.758003e-01	3.635094e-01	0	0	3.170451e+00	4.083789e+00	HPSE
+GO_Biological_Process_2021	inorganic anion transport (GO:0015698)	1/54	2.758003e-01	3.635094e-01	0	0	3.170451e+00	4.083789e+00	ENPP1
+GO_Biological_Process_2021	unsaturated fatty acid metabolic process (GO:0033559)	1/54	2.758003e-01	3.635094e-01	0	0	3.170451e+00	4.083789e+00	EPHX1
+GO_Biological_Process_2021	negative regulation of cysteine-type endopeptidase activity involved in apoptotic process (GO:0043154)	1/55	2.801209e-01	3.678696e-01	0	0	3.111582e+00	3.959594e+00	PLAUR
+GO_Biological_Process_2021	negative regulation of cytokine-mediated signaling pathway (GO:0001960)	1/55	2.801209e-01	3.678696e-01	0	0	3.111582e+00	3.959594e+00	NR1H3
+GO_Biological_Process_2021	glycoprotein metabolic process (GO:0009100)	1/55	2.801209e-01	3.678696e-01	0	0	3.111582e+00	3.959594e+00	HPSE
+GO_Biological_Process_2021	positive regulation of developmental process (GO:0051094)	2/177	2.839168e-01	3.712736e-01	0	0	1.924884e+00	2.423572e+00	APOE;CPEB3
+GO_Biological_Process_2021	protein-containing complex disassembly (GO:0032984)	1/56	2.844160e-01	3.712736e-01	0	0	3.054854e+00	3.840921e+00	GABARAPL1
+GO_Biological_Process_2021	autophagosome organization (GO:1905037)	1/56	2.844160e-01	3.712736e-01	0	0	3.054854e+00	3.840921e+00	GABARAPL1
+GO_Biological_Process_2021	blood vessel morphogenesis (GO:0048514)	1/56	2.844160e-01	3.712736e-01	0	0	3.054854e+00	3.840921e+00	LOX
+GO_Biological_Process_2021	glycosaminoglycan catabolic process (GO:0006027)	1/56	2.844160e-01	3.712736e-01	0	0	3.054854e+00	3.840921e+00	HPSE
+GO_Biological_Process_2021	negative regulation of immune response (GO:0050777)	2/178	2.861191e-01	3.730500e-01	0	0	1.913850e+00	2.394891e+00	GNG2;FCGR2B
+GO_Biological_Process_2021	regulation of immune response (GO:0050776)	2/179	2.883207e-01	3.732709e-01	0	0	1.902941e+00	2.366653e+00	FCGR2B;CD33
+GO_Biological_Process_2021	arachidonic acid metabolic process (GO:0019369)	1/57	2.886857e-01	3.732709e-01	0	0	3.000151e+00	3.727439e+00	EPHX1
+GO_Biological_Process_2021	regulation of bone mineralization (GO:0030500)	1/57	2.886857e-01	3.732709e-01	0	0	3.000151e+00	3.727439e+00	ENPP1
+GO_Biological_Process_2021	cellular response to peptide (GO:1901653)	1/57	2.886857e-01	3.732709e-01	0	0	3.000151e+00	3.727439e+00	FCGR2B
+GO_Biological_Process_2021	regulation of mitotic nuclear division (GO:0007088)	1/57	2.886857e-01	3.732709e-01	0	0	3.000151e+00	3.727439e+00	CD28
+GO_Biological_Process_2021	dicarboxylic acid metabolic process (GO:0043648)	1/57	2.886857e-01	3.732709e-01	0	0	3.000151e+00	3.727439e+00	MTHFS
+GO_Biological_Process_2021	icosanoid metabolic process (GO:0006690)	1/57	2.886857e-01	3.732709e-01	0	0	3.000151e+00	3.727439e+00	EPHX1
+GO_Biological_Process_2021	autophagosome assembly (GO:0000045)	1/58	2.929301e-01	3.769702e-01	0	0	2.947368e+00	3.618842e+00	GABARAPL1
+GO_Biological_Process_2021	negative regulation of neuron projection development (GO:0010977)	1/58	2.929301e-01	3.769702e-01	0	0	2.947368e+00	3.618842e+00	APOE
+GO_Biological_Process_2021	positive regulation of mitochondrion organization (GO:0010822)	1/58	2.929301e-01	3.769702e-01	0	0	2.947368e+00	3.618842e+00	PLAUR
+GO_Biological_Process_2021	positive regulation of protein binding (GO:0032092)	1/58	2.929301e-01	3.769702e-01	0	0	2.947368e+00	3.618842e+00	APOE
+GO_Biological_Process_2021	negative regulation of cytokine production (GO:0001818)	2/182	2.949213e-01	3.790851e-01	0	0	1.870940e+00	2.284506e+00	FCGR2B;CD33
+GO_Biological_Process_2021	negative regulation of autophagy (GO:0010507)	1/59	2.971494e-01	3.806026e-01	0	0	2.896406e+00	3.514847e+00	HTR2B
+GO_Biological_Process_2021	fatty acid oxidation (GO:0019395)	1/59	2.971494e-01	3.806026e-01	0	0	2.896406e+00	3.514847e+00	PPARD
+GO_Biological_Process_2021	response to reactive oxygen species (GO:0000302)	1/59	2.971494e-01	3.806026e-01	0	0	2.896406e+00	3.514847e+00	APOE
+GO_Biological_Process_2021	adenylate cyclase-inhibiting G protein-coupled receptor signaling pathway (GO:0007193)	1/60	3.013437e-01	3.841692e-01	0	0	2.847170e+00	3.415192e+00	RGS1
+GO_Biological_Process_2021	apical junction assembly (GO:0043297)	1/60	3.013437e-01	3.841692e-01	0	0	2.847170e+00	3.415192e+00	RHOC
+GO_Biological_Process_2021	cellular protein catabolic process (GO:0044257)	1/60	3.013437e-01	3.841692e-01	0	0	2.847170e+00	3.415192e+00	CTSS
+GO_Biological_Process_2021	Notch signaling pathway (GO:0007219)	1/60	3.013437e-01	3.841692e-01	0	0	2.847170e+00	3.415192e+00	PSEN2
+GO_Biological_Process_2021	regulation of endocytosis (GO:0030100)	1/61	3.055132e-01	3.876710e-01	0	0	2.799576e+00	3.319632e+00	APOE
+GO_Biological_Process_2021	pattern recognition receptor signaling pathway (GO:0002221)	1/61	3.055132e-01	3.876710e-01	0	0	2.799576e+00	3.319632e+00	CTSS
+GO_Biological_Process_2021	positive regulation of DNA biosynthetic process (GO:2000573)	1/61	3.055132e-01	3.876710e-01	0	0	2.799576e+00	3.319632e+00	PKIB
+GO_Biological_Process_2021	positive regulation of interleukin-8 production (GO:0032757)	1/61	3.055132e-01	3.876710e-01	0	0	2.799576e+00	3.319632e+00	CD74
+GO_Biological_Process_2021	glucose metabolic process (GO:0006006)	1/62	3.096580e-01	3.924736e-01	0	0	2.753543e+00	3.227941e+00	PPARD
+GO_Biological_Process_2021	regulation of GTPase activity (GO:0043087)	2/189	3.102878e-01	3.928149e-01	0	0	1.800265e+00	2.106769e+00	RGS1;GPR137B
+GO_Biological_Process_2021	positive regulation of cell population proliferation (GO:0008284)	4/474	3.119492e-01	3.944601e-01	0	0	1.436522e+00	1.673426e+00	CD74;HTR2B;HPSE;IL7R
+GO_Biological_Process_2021	cellular response to reactive oxygen species (GO:0034614)	1/63	3.137783e-01	3.953970e-01	0	0	2.708994e+00	3.139910e+00	NFE2L2
+GO_Biological_Process_2021	positive regulation of viral process (GO:0048524)	1/63	3.137783e-01	3.953970e-01	0	0	2.708994e+00	3.139910e+00	CD28
+GO_Biological_Process_2021	monocarboxylic acid biosynthetic process (GO:0072330)	1/63	3.137783e-01	3.953970e-01	0	0	2.708994e+00	3.139910e+00	CYP27A1
+GO_Biological_Process_2021	negative regulation of cell differentiation (GO:0045596)	2/191	3.146670e-01	3.960589e-01	0	0	1.781034e+00	2.059303e+00	NR1H3;ENPP1
+GO_Biological_Process_2021	regulation of innate immune response (GO:0045088)	1/64	3.178742e-01	3.996343e-01	0	0	2.665860e+00	3.055340e+00	FCGR2B
+GO_Biological_Process_2021	negative regulation of macromolecule metabolic process (GO:0010605)	2/194	3.212245e-01	4.024324e-01	0	0	1.752938e+00	1.990663e+00	CD28;APOE
+GO_Biological_Process_2021	cellular response to tumor necrosis factor (GO:0071356)	2/194	3.212245e-01	4.024324e-01	0	0	1.752938e+00	1.990663e+00	TNFRSF1B;NFE2L2
+GO_Biological_Process_2021	regulation of cellular catabolic process (GO:0031329)	1/65	3.219459e-01	4.024324e-01	0	0	2.624073e+00	2.974050e+00	GPR137B
+GO_Biological_Process_2021	G protein-coupled receptor signaling pathway, coupled to cyclic nucleotide second messenger (GO:0007187)	1/65	3.219459e-01	4.024324e-01	0	0	2.624073e+00	2.974050e+00	HTR2B
+GO_Biological_Process_2021	steroid biosynthetic process (GO:0006694)	1/65	3.219459e-01	4.024324e-01	0	0	2.624073e+00	2.974050e+00	CYP27A1
+GO_Biological_Process_2021	cellular response to cytokine stimulus (GO:0071345)	4/482	3.227207e-01	4.029387e-01	0	0	1.411897e+00	1.596811e+00	CXCR4;TNFRSF1B;SOCS6;NFE2L2
+GO_Biological_Process_2021	cell-cell junction assembly (GO:0007043)	1/66	3.259935e-01	4.042468e-01	0	0	2.583572e+00	2.895869e+00	RHOC
+GO_Biological_Process_2021	cellular component disassembly (GO:0022411)	1/66	3.259935e-01	4.042468e-01	0	0	2.583572e+00	2.895869e+00	CTSS
+GO_Biological_Process_2021	ERBB signaling pathway (GO:0038127)	1/66	3.259935e-01	4.042468e-01	0	0	2.583572e+00	2.895869e+00	GAB1
+GO_Biological_Process_2021	extracellular matrix disassembly (GO:0022617)	1/66	3.259935e-01	4.042468e-01	0	0	2.583572e+00	2.895869e+00	CTSS
+GO_Biological_Process_2021	positive regulation of cell death (GO:0010942)	1/66	3.259935e-01	4.042468e-01	0	0	2.583572e+00	2.895869e+00	FCGR2B
+GO_Biological_Process_2021	positive regulation of T cell proliferation (GO:0042102)	1/66	3.259935e-01	4.042468e-01	0	0	2.583572e+00	2.895869e+00	CD28
+GO_Biological_Process_2021	negative regulation of intracellular signal transduction (GO:1902532)	2/198	3.299445e-01	4.078443e-01	0	0	1.716815e+00	1.903657e+00	PLAUR;ARHGAP25
+GO_Biological_Process_2021	regulation of epidermal growth factor receptor signaling pathway (GO:0042058)	1/67	3.300171e-01	4.078443e-01	0	0	2.544299e+00	2.820637e+00	PLAUR
+GO_Biological_Process_2021	regulation of viral genome replication (GO:0045069)	1/67	3.300171e-01	4.078443e-01	0	0	2.544299e+00	2.820637e+00	CD28
+GO_Biological_Process_2021	negative regulation of cellular catabolic process (GO:0031330)	1/69	3.379930e-01	4.148788e-01	0	0	2.469217e+00	2.678434e+00	HTR2B
+GO_Biological_Process_2021	cell chemotaxis (GO:0060326)	1/69	3.379930e-01	4.148788e-01	0	0	2.469217e+00	2.678434e+00	CXCR4
+GO_Biological_Process_2021	cellular response to calcium ion (GO:0071277)	1/69	3.379930e-01	4.148788e-01	0	0	2.469217e+00	2.678434e+00	ITPKB
+GO_Biological_Process_2021	peptidyl-tyrosine phosphorylation (GO:0018108)	1/69	3.379930e-01	4.148788e-01	0	0	2.469217e+00	2.678434e+00	AATK
+GO_Biological_Process_2021	positive regulation of MAP kinase activity (GO:0043406)	1/69	3.379930e-01	4.148788e-01	0	0	2.469217e+00	2.678434e+00	HTR2B
+GO_Biological_Process_2021	positive regulation of protein transport (GO:0051222)	1/69	3.379930e-01	4.148788e-01	0	0	2.469217e+00	2.678434e+00	CD33
+GO_Biological_Process_2021	axon guidance (GO:0007411)	2/203	3.408019e-01	4.178561e-01	0	0	1.673683e+00	1.801642e+00	GAB1;CXCR4
+GO_Biological_Process_2021	regulation of plasma membrane bounded cell projection assembly (GO:0120032)	1/70	3.419456e-01	4.183173e-01	0	0	2.433309e+00	2.611193e+00	P2RX4
+GO_Biological_Process_2021	fatty acid catabolic process (GO:0009062)	1/70	3.419456e-01	4.183173e-01	0	0	2.433309e+00	2.611193e+00	PPARD
+GO_Biological_Process_2021	proteasomal protein catabolic process (GO:0010498)	2/205	3.451302e-01	4.202937e-01	0	0	1.657025e+00	1.762799e+00	SOCS6;NFE2L2
+GO_Biological_Process_2021	negative regulation of neuron apoptotic process (GO:0043524)	1/71	3.458747e-01	4.202937e-01	0	0	2.398426e+00	2.546358e+00	APOE
+GO_Biological_Process_2021	nucleic acid metabolic process (GO:0090304)	1/71	3.458747e-01	4.202937e-01	0	0	2.398426e+00	2.546358e+00	ENPP1
+GO_Biological_Process_2021	phosphatidylinositol-mediated signaling (GO:0048015)	1/71	3.458747e-01	4.202937e-01	0	0	2.398426e+00	2.546358e+00	HTR2B
+GO_Biological_Process_2021	Fc-gamma receptor signaling pathway involved in phagocytosis (GO:0038096)	1/71	3.458747e-01	4.202937e-01	0	0	2.398426e+00	2.546358e+00	FCGR2B
+GO_Biological_Process_2021	positive regulation of cellular protein localization (GO:1903829)	1/71	3.458747e-01	4.202937e-01	0	0	2.398426e+00	2.546358e+00	GPR137B
+GO_Biological_Process_2021	negative regulation of epithelial cell proliferation (GO:0050680)	1/72	3.497806e-01	4.222158e-01	0	0	2.364526e+00	2.483814e+00	APOE
+GO_Biological_Process_2021	negative regulation of supramolecular fiber organization (GO:1902904)	1/72	3.497806e-01	4.222158e-01	0	0	2.364526e+00	2.483814e+00	APOE
+GO_Biological_Process_2021	cytoskeleton-dependent cytokinesis (GO:0061640)	1/72	3.497806e-01	4.222158e-01	0	0	2.364526e+00	2.483814e+00	RHOC
+GO_Biological_Process_2021	extrinsic apoptotic signaling pathway (GO:0097191)	1/72	3.497806e-01	4.222158e-01	0	0	2.364526e+00	2.483814e+00	TNFRSF1B
+GO_Biological_Process_2021	Fc-gamma receptor signaling pathway (GO:0038094)	1/72	3.497806e-01	4.222158e-01	0	0	2.364526e+00	2.483814e+00	FCGR2B
+GO_Biological_Process_2021	positive regulation of protein secretion (GO:0050714)	1/72	3.497806e-01	4.222158e-01	0	0	2.364526e+00	2.483814e+00	CD33
+GO_Biological_Process_2021	regulation of actin filament-based process (GO:0032970)	1/73	3.536634e-01	4.236188e-01	0	0	2.331568e+00	2.423454e+00	RHOC
+GO_Biological_Process_2021	regulation of hydrolase activity (GO:0051336)	1/73	3.536634e-01	4.236188e-01	0	0	2.331568e+00	2.423454e+00	GPR137B
+GO_Biological_Process_2021	neurotransmitter transport (GO:0006836)	1/73	3.536634e-01	4.236188e-01	0	0	2.331568e+00	2.423454e+00	SLC29A1
+GO_Biological_Process_2021	regulation of Rho protein signal transduction (GO:0035023)	1/73	3.536634e-01	4.236188e-01	0	0	2.331568e+00	2.423454e+00	APOE
+GO_Biological_Process_2021	response to molecule of bacterial origin (GO:0002237)	1/73	3.536634e-01	4.236188e-01	0	0	2.331568e+00	2.423454e+00	FCGR2B
+GO_Biological_Process_2021	positive regulation of JNK cascade (GO:0046330)	1/73	3.536634e-01	4.236188e-01	0	0	2.331568e+00	2.423454e+00	FCGR2B
+GO_Biological_Process_2021	insulin receptor signaling pathway (GO:0008286)	1/73	3.536634e-01	4.236188e-01	0	0	2.331568e+00	2.423454e+00	GAB1
+GO_Biological_Process_2021	regulation of cytokine-mediated signaling pathway (GO:0001959)	1/74	3.575232e-01	4.268349e-01	0	0	2.299512e+00	2.365175e+00	CD74
+GO_Biological_Process_2021	regulation of stress fiber assembly (GO:0051492)	1/74	3.575232e-01	4.268349e-01	0	0	2.299512e+00	2.365175e+00	RHOC
+GO_Biological_Process_2021	Fc receptor mediated stimulatory signaling pathway (GO:0002431)	1/74	3.575232e-01	4.268349e-01	0	0	2.299512e+00	2.365175e+00	FCGR2B
+GO_Biological_Process_2021	nucleic acid phosphodiester bond hydrolysis (GO:0090305)	1/75	3.613601e-01	4.300028e-01	0	0	2.268323e+00	2.308882e+00	ENPP1
+GO_Biological_Process_2021	regulation of transcription from RNA polymerase II promoter in response to hypoxia (GO:0061418)	1/75	3.613601e-01	4.300028e-01	0	0	2.268323e+00	2.308882e+00	NFE2L2
+GO_Biological_Process_2021	positive regulation of T cell activation (GO:0050870)	1/75	3.613601e-01	4.300028e-01	0	0	2.268323e+00	2.308882e+00	CD28
+GO_Biological_Process_2021	negative regulation of multicellular organismal process (GO:0051241)	2/214	3.644910e-01	4.321824e-01	0	0	1.585954e+00	1.600629e+00	NR1H3;FCGR2B
+GO_Biological_Process_2021	regulation of cell division (GO:0051302)	1/76	3.651743e-01	4.321824e-01	0	0	2.237966e+00	2.254483e+00	HTR2B
+GO_Biological_Process_2021	cellular response to hormone stimulus (GO:0032870)	1/76	3.651743e-01	4.321824e-01	0	0	2.237966e+00	2.254483e+00	CTSS
+GO_Biological_Process_2021	regulation of RNA splicing (GO:0043484)	1/76	3.651743e-01	4.321824e-01	0	0	2.237966e+00	2.254483e+00	AHNAK2
+GO_Biological_Process_2021	positive regulation of interleukin-6 production (GO:0032755)	1/76	3.651743e-01	4.321824e-01	0	0	2.237966e+00	2.254483e+00	CD74
+GO_Biological_Process_2021	purine ribonucleotide metabolic process (GO:0009150)	1/77	3.689660e-01	4.352520e-01	0	0	2.208408e+00	2.201895e+00	ENPP1
+GO_Biological_Process_2021	phosphatidylcholine metabolic process (GO:0046470)	1/77	3.689660e-01	4.352520e-01	0	0	2.208408e+00	2.201895e+00	NR1H3
+GO_Biological_Process_2021	positive regulation of phosphatidylinositol 3-kinase signaling (GO:0014068)	1/77	3.689660e-01	4.352520e-01	0	0	2.208408e+00	2.201895e+00	GAB1
+GO_Biological_Process_2021	negative regulation of apoptotic signaling pathway (GO:2001234)	1/78	3.727351e-01	4.387487e-01	0	0	2.179617e+00	2.151036e+00	PLAUR
+GO_Biological_Process_2021	protein modification process (GO:0036211)	1/78	3.727351e-01	4.387487e-01	0	0	2.179617e+00	2.151036e+00	LOX
+GO_Biological_Process_2021	regulation of ion transport (GO:0043269)	1/79	3.764819e-01	4.415297e-01	0	0	2.151565e+00	2.101832e+00	P2RX4
+GO_Biological_Process_2021	regulation of neuron differentiation (GO:0045664)	1/79	3.764819e-01	4.415297e-01	0	0	2.151565e+00	2.101832e+00	GPRC5B
+GO_Biological_Process_2021	positive regulation of proteasomal ubiquitin-dependent protein catabolic process (GO:0032436)	1/79	3.764819e-01	4.415297e-01	0	0	2.151565e+00	2.101832e+00	NFE2L2
+GO_Biological_Process_2021	protein transport (GO:0015031)	3/369	3.767180e-01	4.415297e-01	0	0	1.378957e+00	1.346218e+00	CD74;KIF3A;APOE
+GO_Biological_Process_2021	regulation of organelle organization (GO:0033043)	1/80	3.802066e-01	4.446622e-01	0	0	2.124222e+00	2.054209e+00	MYO5A
+GO_Biological_Process_2021	response to interferon-gamma (GO:0034341)	1/80	3.802066e-01	4.446622e-01	0	0	2.124222e+00	2.054209e+00	CD74
+GO_Biological_Process_2021	ephrin receptor signaling pathway (GO:0048013)	1/82	3.875898e-01	4.528112e-01	0	0	2.071563e+00	1.963443e+00	PSEN2
+GO_Biological_Process_2021	regulation of interleukin-1 beta production (GO:0032651)	1/83	3.912486e-01	4.551345e-01	0	0	2.046197e+00	1.920176e+00	CD33
+GO_Biological_Process_2021	peptide metabolic process (GO:0006518)	1/83	3.912486e-01	4.551345e-01	0	0	2.046197e+00	1.920176e+00	PSEN2
+GO_Biological_Process_2021	epidermis development (GO:0008544)	1/83	3.912486e-01	4.551345e-01	0	0	2.046197e+00	1.920176e+00	FABP5
+GO_Biological_Process_2021	long-chain fatty acid metabolic process (GO:0001676)	1/83	3.912486e-01	4.551345e-01	0	0	2.046197e+00	1.920176e+00	EPHX1
+GO_Biological_Process_2021	vascular transport (GO:0010232)	1/84	3.948858e-01	4.588758e-01	0	0	2.021442e+00	1.878240e+00	SLC29A1
+GO_Biological_Process_2021	inflammatory response (GO:0006954)	2/230	3.983577e-01	4.620920e-01	0	0	1.473459e+00	1.356179e+00	CXCR4;FCGR2B
+GO_Biological_Process_2021	retrograde vesicle-mediated transport, Golgi to endoplasmic reticulum (GO:0006890)	1/85	3.985014e-01	4.620920e-01	0	0	1.997276e+00	1.837582e+00	KIF3A
+GO_Biological_Process_2021	apoptotic process (GO:0006915)	2/231	4.004479e-01	4.633568e-01	0	0	1.466950e+00	1.342511e+00	CXCR4;PPARD
+GO_Biological_Process_2021	regulation of autophagy (GO:0010506)	2/231	4.004479e-01	4.633568e-01	0	0	1.466950e+00	1.342511e+00	HTR2B;GPR137B
+GO_Biological_Process_2021	positive regulation of macromolecule metabolic process (GO:0010604)	3/384	4.008674e-01	4.633568e-01	0	0	1.323649e+00	1.209980e+00	CD74;CD28;NFE2L2
+GO_Biological_Process_2021	sensory perception of mechanical stimulus (GO:0050954)	1/88	4.092202e-01	4.715116e-01	0	0	1.928112e+00	1.722772e+00	P2RX4
+GO_Biological_Process_2021	positive regulation of neuron projection development (GO:0010976)	1/88	4.092202e-01	4.715116e-01	0	0	1.928112e+00	1.722772e+00	APOE
+GO_Biological_Process_2021	metal ion transport (GO:0030001)	1/88	4.092202e-01	4.715116e-01	0	0	1.928112e+00	1.722772e+00	PSEN2
+GO_Biological_Process_2021	regulation of cation channel activity (GO:2001257)	1/89	4.127509e-01	4.725824e-01	0	0	1.906106e+00	1.686734e+00	CTSS
+GO_Biological_Process_2021	regulation of endothelial cell migration (GO:0010594)	1/89	4.127509e-01	4.725824e-01	0	0	1.906106e+00	1.686734e+00	APOE
+GO_Biological_Process_2021	collagen fibril organization (GO:0030199)	1/89	4.127509e-01	4.725824e-01	0	0	1.906106e+00	1.686734e+00	LOX
+GO_Biological_Process_2021	positive regulation of inflammatory response (GO:0050729)	1/89	4.127509e-01	4.725824e-01	0	0	1.906106e+00	1.686734e+00	GPRC5B
+GO_Biological_Process_2021	post-Golgi vesicle-mediated transport (GO:0006892)	1/89	4.127509e-01	4.725824e-01	0	0	1.906106e+00	1.686734e+00	MYO5A
+GO_Biological_Process_2021	protein import (GO:0017038)	1/89	4.127509e-01	4.725824e-01	0	0	1.906106e+00	1.686734e+00	APOE
+GO_Biological_Process_2021	cellular amino acid catabolic process (GO:0009063)	1/90	4.162606e-01	4.756017e-01	0	0	1.884593e+00	1.651740e+00	HAL
+GO_Biological_Process_2021	negative regulation of translation (GO:0017148)	1/90	4.162606e-01	4.756017e-01	0	0	1.884593e+00	1.651740e+00	CPEB3
+GO_Biological_Process_2021	axonogenesis (GO:0007409)	2/240	4.191055e-01	4.775856e-01	0	0	1.410831e+00	1.226905e+00	GAB1;CXCR4
+GO_Biological_Process_2021	regulation of actin cytoskeleton organization (GO:0032956)	1/91	4.197495e-01	4.775856e-01	0	0	1.863559e+00	1.617750e+00	RHOC
+GO_Biological_Process_2021	toll-like receptor signaling pathway (GO:0002224)	1/91	4.197495e-01	4.775856e-01	0	0	1.863559e+00	1.617750e+00	CTSS
+GO_Biological_Process_2021	positive regulation of supramolecular fiber organization (GO:1902905)	1/91	4.197495e-01	4.775856e-01	0	0	1.863559e+00	1.617750e+00	APOE
+GO_Biological_Process_2021	regulation of peptidyl-tyrosine phosphorylation (GO:0050730)	1/92	4.232178e-01	4.805286e-01	0	0	1.842988e+00	1.584727e+00	CD74
+GO_Biological_Process_2021	positive regulation of cellular component biogenesis (GO:0044089)	1/92	4.232178e-01	4.805286e-01	0	0	1.842988e+00	1.584727e+00	RHOC
+GO_Biological_Process_2021	regulation of heart contraction (GO:0008016)	1/93	4.266655e-01	4.834360e-01	0	0	1.822863e+00	1.552632e+00	P2RX4
+GO_Biological_Process_2021	cytoplasmic translation (GO:0002181)	1/93	4.266655e-01	4.834360e-01	0	0	1.822863e+00	1.552632e+00	EIF4A2
+GO_Biological_Process_2021	negative regulation of MAPK cascade (GO:0043409)	1/94	4.300928e-01	4.868132e-01	0	0	1.803171e+00	1.521433e+00	APOE
+GO_Biological_Process_2021	transmembrane receptor protein tyrosine kinase signaling pathway (GO:0007169)	3/404	4.326578e-01	4.892085e-01	0	0	1.256342e+00	1.052574e+00	PSEN2;GAB1;MERTK
+GO_Biological_Process_2021	regulation of cell migration (GO:0030334)	3/408	4.389471e-01	4.958055e-01	0	0	1.243678e+00	1.024015e+00	CD74;RAP2A;RHOC
+GO_Biological_Process_2021	calcium ion homeostasis (GO:0055074)	1/97	4.402532e-01	4.967660e-01	0	0	1.746557e+00	1.432885e+00	HTR2B
+GO_Biological_Process_2021	positive regulation of signal transduction (GO:0009967)	2/252	4.435220e-01	4.989927e-01	0	0	1.342291e+00	1.091293e+00	CD74;IL7R
+GO_Biological_Process_2021	regulation of neuron apoptotic process (GO:0043523)	1/98	4.435999e-01	4.989927e-01	0	0	1.728464e+00	1.404951e+00	APOE
+GO_Biological_Process_2021	positive regulation of defense response (GO:0031349)	1/98	4.435999e-01	4.989927e-01	0	0	1.728464e+00	1.404951e+00	GPRC5B
+GO_Biological_Process_2021	regulation of canonical Wnt signaling pathway (GO:0060828)	2/253	4.455316e-01	5.006489e-01	0	0	1.336875e+00	1.080846e+00	GPRC5B;APOE
+GO_Biological_Process_2021	organic anion transport (GO:0015711)	1/99	4.469268e-01	5.016995e-01	0	0	1.710740e+00	1.377763e+00	MGST1
+GO_Biological_Process_2021	cell-matrix adhesion (GO:0007160)	1/100	4.502339e-01	5.043730e-01	0	0	1.693374e+00	1.351292e+00	HPSE
+GO_Biological_Process_2021	organic acid transport (GO:0015849)	1/100	4.502339e-01	5.043730e-01	0	0	1.693374e+00	1.351292e+00	PPARD
+GO_Biological_Process_2021	cellular protein metabolic process (GO:0044267)	3/417	4.530023e-01	5.064942e-01	0	0	1.216079e+00	9.629622e-01	LOX;PSEN2;APOE
+GO_Biological_Process_2021	regulation of apoptotic process (GO:0042981)	5/742	4.533842e-01	5.064942e-01	0	0	1.139280e+00	9.011879e-01	CD74;PSEN2;CD28;HTR2B;PLAUR
+GO_Biological_Process_2021	positive regulation of cell cycle process (GO:0090068)	1/101	4.535215e-01	5.064942e-01	0	0	1.676356e+00	1.325516e+00	CD28
+GO_Biological_Process_2021	positive regulation of cell differentiation (GO:0045597)	2/258	4.555195e-01	5.082050e-01	0	0	1.310430e+00	1.030413e+00	GPRC5B;PPARD
+GO_Biological_Process_2021	intrinsic apoptotic signaling pathway (GO:0097193)	1/102	4.567895e-01	5.085808e-01	0	0	1.659674e+00	1.300409e+00	TNFRSF1B
+GO_Biological_Process_2021	positive regulation of vasculature development (GO:1904018)	1/102	4.567895e-01	5.085808e-01	0	0	1.659674e+00	1.300409e+00	GAB1
+GO_Biological_Process_2021	cellular metal ion homeostasis (GO:0006875)	1/104	4.632676e-01	5.147417e-01	0	0	1.627283e+00	1.252114e+00	HTR2B
+GO_Biological_Process_2021	steroid metabolic process (GO:0008202)	1/104	4.632676e-01	5.147417e-01	0	0	1.627283e+00	1.252114e+00	CYP27A1
+GO_Biological_Process_2021	peptidyl-lysine modification (GO:0018205)	1/106	4.696690e-01	5.197352e-01	0	0	1.596126e+00	1.206236e+00	LOX
+GO_Biological_Process_2021	regulation of phosphatidylinositol 3-kinase signaling (GO:0014066)	1/106	4.696690e-01	5.197352e-01	0	0	1.596126e+00	1.206236e+00	GAB1
+GO_Biological_Process_2021	small GTPase mediated signal transduction (GO:0007264)	1/106	4.696690e-01	5.197352e-01	0	0	1.596126e+00	1.206236e+00	RASGRP3
+GO_Biological_Process_2021	positive regulation of protein serine/threonine kinase activity (GO:0071902)	1/106	4.696690e-01	5.197352e-01	0	0	1.596126e+00	1.206236e+00	HTR2B
+GO_Biological_Process_2021	response to calcium ion (GO:0051592)	1/107	4.728413e-01	5.227150e-01	0	0	1.580988e+00	1.184153e+00	ITPKB
+GO_Biological_Process_2021	central nervous system development (GO:0007417)	2/268	4.751857e-01	5.247745e-01	0	0	1.260523e+00	9.378918e-01	AATK;CXCR4
+GO_Biological_Process_2021	positive regulation of cell migration (GO:0030335)	2/269	4.771290e-01	5.263872e-01	0	0	1.255738e+00	9.292065e-01	GAB1;RHOC
+GO_Biological_Process_2021	regulation of interleukin-6 production (GO:0032675)	1/110	4.822457e-01	5.304216e-01	0	0	1.537241e+00	1.121113e+00	CD74
+GO_Biological_Process_2021	response to endoplasmic reticulum stress (GO:0034976)	1/110	4.822457e-01	5.304216e-01	0	0	1.537241e+00	1.121113e+00	ATF3
+GO_Biological_Process_2021	response to tumor necrosis factor (GO:0034612)	1/110	4.822457e-01	5.304216e-01	0	0	1.537241e+00	1.121113e+00	NFE2L2
+GO_Biological_Process_2021	regulation of intracellular signal transduction (GO:1902531)	3/437	4.837090e-01	5.314947e-01	0	0	1.158847e+00	8.416381e-01	RHOC;ARHGAP25;ARHGAP24
+GO_Biological_Process_2021	cellular divalent inorganic cation homeostasis (GO:0072503)	1/111	4.853433e-01	5.327535e-01	0	0	1.523190e+00	1.101112e+00	HTR2B
+GO_Biological_Process_2021	inorganic cation transmembrane transport (GO:0098662)	2/274	4.867804e-01	5.337934e-01	0	0	1.232340e+00	8.872138e-01	MCOLN3;P2RX4
+GO_Biological_Process_2021	protein-containing complex subunit organization (GO:0043933)	1/112	4.884226e-01	5.345187e-01	0	0	1.509391e+00	1.081591e+00	CD74
+GO_Biological_Process_2021	regulation of cytoskeleton organization (GO:0051493)	1/112	4.884226e-01	5.345187e-01	0	0	1.509391e+00	1.081591e+00	RHOC
+GO_Biological_Process_2021	sulfur compound biosynthetic process (GO:0044272)	1/113	4.914836e-01	5.373291e-01	0	0	1.495838e+00	1.062534e+00	MGST1
+GO_Biological_Process_2021	plasma membrane bounded cell projection assembly (GO:0120031)	2/278	4.944224e-01	5.400004e-01	0	0	1.214233e+00	8.552630e-01	RAP2A;KIF3A
+GO_Biological_Process_2021	cellular amide metabolic process (GO:0043603)	1/115	4.975513e-01	5.428738e-01	0	0	1.469447e+00	1.025757e+00	MTHFS
+GO_Biological_Process_2021	positive regulation of angiogenesis (GO:0045766)	1/116	5.005581e-01	5.450633e-01	0	0	1.456595e+00	1.008010e+00	GAB1
+GO_Biological_Process_2021	tumor necrosis factor-mediated signaling pathway (GO:0033209)	1/116	5.005581e-01	5.450633e-01	0	0	1.456595e+00	1.008010e+00	TNFRSF1B
+GO_Biological_Process_2021	positive regulation of cell projection organization (GO:0031346)	1/117	5.035472e-01	5.477709e-01	0	0	1.443966e+00	9.906729e-01	APOE
+GO_Biological_Process_2021	adenylate cyclase-activating G protein-coupled receptor signaling pathway (GO:0007189)	1/118	5.065184e-01	5.493583e-01	0	0	1.431551e+00	9.737336e-01	GNG2
+GO_Biological_Process_2021	regulation of cellular response to stress (GO:0080135)	1/118	5.065184e-01	5.493583e-01	0	0	1.431551e+00	9.737336e-01	ATF3
+GO_Biological_Process_2021	positive regulation of protein-containing complex assembly (GO:0031334)	1/118	5.065184e-01	5.493583e-01	0	0	1.431551e+00	9.737336e-01	RHOC
+GO_Biological_Process_2021	proteolysis (GO:0006508)	2/287	5.113546e-01	5.540522e-01	0	0	1.175349e+00	7.882969e-01	PSEN2;CTSS
+GO_Biological_Process_2021	macroautophagy (GO:0016236)	1/120	5.124082e-01	5.546424e-01	0	0	1.407349e+00	9.410013e-01	GABARAPL1
+GO_Biological_Process_2021	cellular response to organic substance (GO:0071310)	1/123	5.211123e-01	5.635044e-01	0	0	1.372534e+00	8.946035e-01	CXCR4
+GO_Biological_Process_2021	non-canonical Wnt signaling pathway (GO:0035567)	1/124	5.239793e-01	5.649233e-01	0	0	1.361306e+00	8.798164e-01	GNG2
+GO_Biological_Process_2021	fatty acid metabolic process (GO:0006631)	1/124	5.239793e-01	5.649233e-01	0	0	1.361306e+00	8.798164e-01	PPARD
+GO_Biological_Process_2021	regulation of tumor necrosis factor production (GO:0032680)	1/124	5.239793e-01	5.649233e-01	0	0	1.361306e+00	8.798164e-01	CD33
+GO_Biological_Process_2021	protein targeting (GO:0006605)	1/125	5.268293e-01	5.674347e-01	0	0	1.350260e+00	8.653527e-01	KIF13B
+GO_Biological_Process_2021	negative regulation of cell growth (GO:0030308)	1/126	5.296624e-01	5.693609e-01	0	0	1.339390e+00	8.512030e-01	ENPP1
+GO_Biological_Process_2021	negative regulation of growth (GO:0045926)	1/126	5.296624e-01	5.693609e-01	0	0	1.339390e+00	8.512030e-01	ENPP1
+GO_Biological_Process_2021	extracellular matrix organization (GO:0030198)	2/300	5.351551e-01	5.742649e-01	0	0	1.123329e+00	7.023040e-01	LOX;CTSS
+GO_Biological_Process_2021	plasma membrane bounded cell projection organization (GO:0120036)	1/128	5.352781e-01	5.742649e-01	0	0	1.318164e+00	8.238111e-01	APOE
+GO_Biological_Process_2021	MAPK cascade (GO:0000165)	2/303	5.405351e-01	5.790785e-01	0	0	1.111963e+00	6.840748e-01	HTR2B;RASGRP3
+GO_Biological_Process_2021	positive regulation of canonical Wnt signaling pathway (GO:0090263)	1/130	5.408274e-01	5.790785e-01	0	0	1.297596e+00	7.975737e-01	GPRC5B
+GO_Biological_Process_2021	chemical synaptic transmission (GO:0007268)	2/306	5.458725e-01	5.839068e-01	0	0	1.100821e+00	6.664037e-01	HTR2B;APOE
+GO_Biological_Process_2021	regulation of cell adhesion (GO:0030155)	1/133	5.490283e-01	5.867068e-01	0	0	1.267912e+00	7.602467e-01	CXCR4
+GO_Biological_Process_2021	cellular calcium ion homeostasis (GO:0006874)	1/136	5.570840e-01	5.941503e-01	0	0	1.239548e+00	7.251842e-01	HTR2B
+GO_Biological_Process_2021	organic substance transport (GO:0071702)	1/136	5.570840e-01	5.941503e-01	0	0	1.239548e+00	7.251842e-01	KIF3A
+GO_Biological_Process_2021	regulation of inflammatory response to antigenic stimulus (GO:0002861)	1/137	5.597374e-01	5.963966e-01	0	0	1.230371e+00	7.139692e-01	GNG2
+GO_Biological_Process_2021	positive regulation of transcription, DNA-templated (GO:0045893)	7/1183	5.612173e-01	5.973895e-01	0	0	9.941008e-01	5.742395e-01	CD74;NR1H3;HIVEP3;APOE;ATF3;NFE2L2;PPARD
+GO_Biological_Process_2021	regulation of cellular component organization (GO:0051128)	1/139	5.649970e-01	6.002405e-01	0	0	1.212417e+00	6.922112e-01	APOE
+GO_Biological_Process_2021	positive regulation of response to external stimulus (GO:0032103)	1/139	5.649970e-01	6.002405e-01	0	0	1.212417e+00	6.922112e-01	GPRC5B
+GO_Biological_Process_2021	enzyme linked receptor protein signaling pathway (GO:0007167)	1/140	5.676034e-01	6.024223e-01	0	0	1.203634e+00	6.816568e-01	MERTK
+GO_Biological_Process_2021	protein phosphorylation (GO:0006468)	3/496	5.691454e-01	6.034713e-01	0	0	1.017067e+00	5.732383e-01	AKT3;AATK;MERTK
+GO_Biological_Process_2021	transcription by RNA polymerase II (GO:0006366)	2/320	5.702117e-01	6.040143e-01	0	0	1.051605e+00	5.907364e-01	NR1H3;PPARD
+GO_Biological_Process_2021	cellular protein modification process (GO:0006464)	6/1025	5.751321e-01	6.076644e-01	0	0	9.828480e-01	5.436677e-01	LOX;AKT3;AATK;APOE;MERTK;SOCS6
+GO_Biological_Process_2021	neuron development (GO:0048666)	1/143	5.753299e-01	6.076644e-01	0	0	1.178026e+00	6.512263e-01	APOE
+GO_Biological_Process_2021	nitrogen compound transport (GO:0071705)	1/143	5.753299e-01	6.076644e-01	0	0	1.178026e+00	6.512263e-01	KIF3A
+GO_Biological_Process_2021	negative regulation of transcription by RNA polymerase II (GO:0000122)	4/684	5.842255e-01	6.164625e-01	0	0	9.821483e-01	5.278735e-01	NR1H3;CPEB3;ATF3;PPARD
+GO_Biological_Process_2021	cellular protein localization (GO:0034613)	2/329	5.853592e-01	6.170615e-01	0	0	1.022191e+00	5.474134e-01	CD74;RAP2A
+GO_Biological_Process_2021	intracellular protein transport (GO:0006886)	2/336	5.968690e-01	6.285867e-01	0	0	1.000409e+00	5.162689e-01	CD74;KIF13B
+GO_Biological_Process_2021	negative regulation of protein phosphorylation (GO:0001933)	1/152	5.976977e-01	6.288518e-01	0	0	1.107307e+00	5.698981e-01	ENPP1
+GO_Biological_Process_2021	positive regulation of Wnt signaling pathway (GO:0030177)	1/153	6.001097e-01	6.307807e-01	0	0	1.099967e+00	5.616900e-01	GPRC5B
+GO_Biological_Process_2021	positive regulation of protein kinase activity (GO:0045860)	1/154	6.025074e-01	6.326908e-01	0	0	1.092722e+00	5.536334e-01	GPRC5B
+GO_Biological_Process_2021	peptidyl-serine phosphorylation (GO:0018105)	1/156	6.072600e-01	6.370678e-01	0	0	1.078513e+00	5.379602e-01	AKT3
+GO_Biological_Process_2021	post-translational protein modification (GO:0043687)	2/345	6.113174e-01	6.401463e-01	0	0	9.737111e-01	4.792012e-01	APOE;SOCS6
+GO_Biological_Process_2021	cellular response to starvation (GO:0009267)	1/158	6.119564e-01	6.401463e-01	0	0	1.064666e+00	5.228513e-01	GABARAPL1
+GO_Biological_Process_2021	T cell receptor signaling pathway (GO:0050852)	1/158	6.119564e-01	6.401463e-01	0	0	1.064666e+00	5.228513e-01	CD28
+GO_Biological_Process_2021	protein autophosphorylation (GO:0046777)	1/159	6.142836e-01	6.419646e-01	0	0	1.057874e+00	5.155004e-01	AATK
+GO_Biological_Process_2021	ubiquitin-dependent protein catabolic process (GO:0006511)	2/354	6.253724e-01	6.526584e-01	0	0	9.483780e-01	4.451762e-01	RNF128;NFE2L2
+GO_Biological_Process_2021	heart development (GO:0007507)	1/164	6.257138e-01	6.526584e-01	0	0	1.025164e+00	4.806605e-01	HTR2B
+GO_Biological_Process_2021	negative regulation of canonical Wnt signaling pathway (GO:0090090)	1/165	6.279592e-01	6.537493e-01	0	0	1.018861e+00	4.740558e-01	APOE
+GO_Biological_Process_2021	adenylate cyclase-modulating G protein-coupled receptor signaling pathway (GO:0007188)	1/165	6.279592e-01	6.537493e-01	0	0	1.018861e+00	4.740558e-01	RGS1
+GO_Biological_Process_2021	regulation of MAPK cascade (GO:0043408)	1/166	6.301913e-01	6.554470e-01	0	0	1.012635e+00	4.675658e-01	CD74
+GO_Biological_Process_2021	negative regulation of cellular macromolecule biosynthetic process (GO:2000113)	3/547	6.356989e-01	6.605451e-01	0	0	9.192920e-01	4.164671e-01	ENPP1;CPEB3;PPARD
+GO_Biological_Process_2021	peptidyl-serine modification (GO:0018209)	1/169	6.368080e-01	6.610674e-01	0	0	9.944007e-01	4.487601e-01	AKT3
+GO_Biological_Process_2021	neuron projection development (GO:0031175)	1/171	6.411539e-01	6.649455e-01	0	0	9.826022e-01	4.367527e-01	APOE
+GO_Biological_Process_2021	mitochondrion organization (GO:0007005)	1/175	6.496914e-01	6.731594e-01	0	0	9.598188e-01	4.139293e-01	AKT3
+GO_Biological_Process_2021	antigen receptor-mediated signaling pathway (GO:0050851)	1/185	6.701643e-01	6.937123e-01	0	0	9.071942e-01	3.630885e-01	CD28
+GO_Biological_Process_2021	negative regulation of Wnt signaling pathway (GO:0030178)	1/191	6.818737e-01	7.051635e-01	0	0	8.782783e-01	3.363023e-01	APOE
+GO_Biological_Process_2021	regulation of macromolecule metabolic process (GO:0060255)	1/200	6.986693e-01	7.218479e-01	0	0	8.381739e-01	3.005505e-01	APOE
+GO_Biological_Process_2021	modification-dependent protein catabolic process (GO:0019941)	1/201	7.004803e-01	7.230337e-01	0	0	8.339407e-01	2.968737e-01	RNF128
+GO_Biological_Process_2021	regulation of angiogenesis (GO:0045765)	1/203	7.040701e-01	7.260514e-01	0	0	8.255999e-01	2.896844e-01	GAB1
+GO_Biological_Process_2021	organelle organization (GO:0006996)	2/420	7.166693e-01	7.383455e-01	0	0	7.959351e-01	2.651584e-01	KIF3A;APOE
+GO_Biological_Process_2021	cytokine-mediated signaling pathway (GO:0019221)	3/621	7.190898e-01	7.401397e-01	0	0	8.061182e-01	2.658328e-01	IL7R;TNFRSF1B;SOCS6
+GO_Biological_Process_2021	organelle assembly (GO:0070925)	2/425	7.227698e-01	7.432255e-01	0	0	7.863248e-01	2.552918e-01	GABARAPL1;KIF3A
+GO_Biological_Process_2021	extracellular structure organization (GO:0043062)	1/216	7.263855e-01	7.462395e-01	0	0	7.751675e-01	2.478013e-01	LOX
+GO_Biological_Process_2021	regulation of cell growth (GO:0001558)	1/217	7.280312e-01	7.465231e-01	0	0	7.715395e-01	2.448954e-01	ENPP1
+GO_Biological_Process_2021	external encapsulating structure organization (GO:0045229)	1/217	7.280312e-01	7.465231e-01	0	0	7.715395e-01	2.448954e-01	LOX
+GO_Biological_Process_2021	positive regulation of cell motility (GO:2000147)	1/221	7.345167e-01	7.524654e-01	0	0	7.573575e-01	2.336770e-01	RHOC
+GO_Biological_Process_2021	cilium organization (GO:0044782)	1/228	7.454994e-01	7.629994e-01	0	0	7.337415e-01	2.155005e-01	KIF3A
+GO_Biological_Process_2021	nervous system development (GO:0007399)	2/447	7.483206e-01	7.651683e-01	0	0	7.466052e-01	2.164586e-01	CXCR4;MERTK
+GO_Biological_Process_2021	membrane organization (GO:0061024)	1/242	7.661311e-01	7.824622e-01	0	0	6.906252e-01	1.839839e-01	IL7R
+GO_Biological_Process_2021	negative regulation of nucleic acid-templated transcription (GO:1903507)	2/464	7.666694e-01	7.824622e-01	0	0	7.185037e-01	1.909061e-01	EIF4A2;PPARD
+GO_Biological_Process_2021	anterograde trans-synaptic signaling (GO:0098916)	1/244	7.689398e-01	7.840453e-01	0	0	6.848713e-01	1.799448e-01	HTR2B
+GO_Biological_Process_2021	regulation of gene expression (GO:0010468)	5/1079	7.757845e-01	7.902852e-01	0	0	7.680339e-01	1.949888e-01	CD74;AHNAK2;CD28;APOE;NFE2L2
+GO_Biological_Process_2021	cellular component assembly (GO:0022607)	1/261	7.915023e-01	8.055438e-01	0	0	6.395372e-01	1.495382e-01	CD74
+GO_Biological_Process_2021	positive regulation of transcription by RNA polymerase II (GO:0045944)	4/908	7.944337e-01	8.077731e-01	0	0	7.301654e-01	1.680299e-01	NR1H3;ATF3;NFE2L2;PPARD
+GO_Biological_Process_2021	protein-containing complex assembly (GO:0065003)	1/267	7.989322e-01	8.100800e-01	0	0	6.249204e-01	1.402816e-01	CD74
+GO_Biological_Process_2021	negative regulation of signal transduction (GO:0009968)	1/267	7.989322e-01	8.100800e-01	0	0	6.249204e-01	1.402816e-01	ENPP1
+GO_Biological_Process_2021	protein deubiquitination (GO:0016579)	1/267	7.989322e-01	8.100800e-01	0	0	6.249204e-01	1.402816e-01	RNF128
+GO_Biological_Process_2021	protein modification by small protein removal (GO:0070646)	1/276	8.095875e-01	8.201211e-01	0	0	6.041911e-01	1.276235e-01	RNF128
+GO_Biological_Process_2021	positive regulation of programmed cell death (GO:0043068)	1/286	8.207710e-01	8.304616e-01	0	0	5.826940e-01	1.150885e-01	PSEN2
+GO_Biological_Process_2021	negative regulation of transcription, DNA-templated (GO:0045892)	4/948	8.213189e-01	8.304616e-01	0	0	6.977524e-01	1.373482e-01	NR1H3;CPEB3;ATF3;PPARD
+GO_Biological_Process_2021	innate immune response (GO:0045087)	1/302	8.373250e-01	8.454814e-01	0	0	5.512698e-01	9.787409e-02	CD74
+GO_Biological_Process_2021	regulation of cell population proliferation (GO:0042127)	3/764	8.377247e-01	8.454814e-01	0	0	6.497802e-01	1.150538e-01	HTR2B;IL7R;CD33
+GO_Biological_Process_2021	positive regulation of apoptotic process (GO:0043065)	1/310	8.450241e-01	8.520594e-01	0	0	5.367780e-01	9.038815e-02	PSEN2
+GO_Biological_Process_2021	cellular macromolecule biosynthetic process (GO:0034645)	1/314	8.487370e-01	8.542228e-01	0	0	5.298099e-01	8.689198e-02	APOE
+GO_Biological_Process_2021	cilium assembly (GO:0060271)	1/314	8.487370e-01	8.542228e-01	0	0	5.298099e-01	8.689198e-02	KIF3A
+GO_Biological_Process_2021	proteasome-mediated ubiquitin-dependent protein catabolic process (GO:0043161)	1/321	8.550235e-01	8.597561e-01	0	0	5.180350e-01	8.113790e-02	NFE2L2
+GO_Biological_Process_2021	cellular response to DNA damage stimulus (GO:0006974)	1/350	8.784226e-01	8.824706e-01	0	0	4.742849e-01	6.148036e-02	TNFRSF1B
+GO_Biological_Process_2021	negative regulation of cell population proliferation (GO:0008285)	1/379	8.980716e-01	9.013794e-01	0	0	4.372478e-01	4.700654e-02	CD33
+GO_Biological_Process_2021	protein modification by small protein conjugation (GO:0032446)	1/409	9.150861e-01	9.176117e-01	0	0	4.044741e-01	3.589184e-02	NFE2L2
+GO_Biological_Process_2021	protein ubiquitination (GO:0016567)	1/525	9.582034e-01	9.599648e-01	0	0	3.130580e-01	1.336609e-02	NFE2L2
+GO_Biological_Process_2021	regulation of transcription by RNA polymerase II (GO:0006357)	7/2206	9.815848e-01	9.824861e-01	0	0	5.025580e-01	9.340995e-03	NR1H3;HIVEP3;APOE;CPEB3;ATF3;NFE2L2;PPARD
+GO_Biological_Process_2021	regulation of transcription, DNA-templated (GO:0006355)	7/2244	9.841508e-01	9.841508e-01	0	0	4.929593e-01	7.875578e-03	CD74;NR1H3;HIVEP3;APOE;ATF3;NFE2L2;PPARD
